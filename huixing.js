@@ -13,4 +13,3678 @@
 // ==/UserScript==
 
 
-function _0x3d78(_0x2439c8,_0xe3c0a7){const _0x5d5b96=_0x5d5b();return _0x3d78=function(_0x3d780,_0x424a9b){_0x3d780=_0x3d780-0x1be;let _0x4d7448=_0x5d5b96[_0x3d780];return _0x4d7448;},_0x3d78(_0x2439c8,_0xe3c0a7);}function _0x5d5b(){const _0x3e083a=['status','fields','getBoundingClientRect','rootRecord','trackedSkin→root','body','g14b_1','ct-splash-done','129,140,248','startsWith','addColorStop','periodic-rescan','threeEnabled','length','createObjectURL','kind','pointermove','\x20轮廓颜色必须为\x200x000000～0xFFFFFF\x20的整数','outline-accessor','input','team-relation-hook','#bae6fd','nickname-hook','set-team-colors','stopPropagation','style','lastScanAt','mine-hotkey','2799902SLArip','now','invincible','clearRect','disabled','match','disconnect','4.8.0-standalone','left','join-mix','color','#33bbff','d16b_1','pointerdown','enemyCount','random','setTimeout','pyt_1','168,85,247','defineProperty','message','pos','1361622YBziWZ','standalone-tank-xray-panel','size','disable-ally-outline','#f0abfc','translate','threeInterval','focus','ct-panel-boot','unknown','save','q4x_1','replace','__standaloneXrayTargetHook','isInteger','9hUlawH','#f5d0fe','allyOutline','trim','reason','toUpperCase','.ms-btn','#ff00ff','standalone-name-auth-pass-ids','\x20·\x20可击中橙色\x20','nodeType','enemyTitleRootCount','title-state-hook','right','join-b','452GHEagd','disable','restore','sin','mineInterval','__TankXrayDebugRuntime','allyOutlineEnabled','rgba(','postMessage','padStart','ownerRef','delta','localStorage','freeze','m14d_1','width','\x20辆坦克（','allyCount','name','rgba(192,132,252,0)','没有战场可选','setInterval','NONE','warn','.foot','arc','standalone-ally-outline-toggle','rgba(255,255,255,.8)','isGameReady','q11n_1','toString','remove','.MenuComponentStyle-mainMenuItem.-activeMenu','diagnostics','enable','TARGETING_DAMAGING','z3m_1','base','.bot','u4x_1','.-flexStartAlignCenterColumn\x20.-flexStartAlignStretchColumn','k198_1','自动地雷关闭','t12a_1','HullSkin.root','call','mesh','Vacher_Const','cyq_1','big','34,211,238','recording','自动地雷开启','fireball','requestId','运行中','fill','application/javascript','findIsGameReady','k3_1','.ally-outline','dispatchEvent','cos','liveTitleCount','innerHeight','removeEventListener','enemyTitleCount','__reactContainer$','isContentEditable','s2a_1','#67e8f9','\x20\x20if\x20(d.type\x20===\x20\x27start\x27\x20||\x20d.type\x20===\x20\x27update\x27)\x20{','setEnabled','181174UpLgle','createRadialGradient','Object.prototype\x20已存在同名字段，未覆盖','rootRef','getMinutes','setIdEnabled','idEnabled','blur','outline','entity','cyt','totalLiveRootCount','excludedDeadCount','from','change','key','all:initial;position:fixed;inset:0;z-index:2147483646;display:none;pointer-events:none;','stateNode2','standalone_tank_xray_settings_v1','#ff9800','透视已关闭，游戏原始轮廓状态已恢复','min','includes','.nav-item','c2a_1','\x20\x20const\x20d\x20=\x20e.data;','已停止','detail','BattleStatistics','error','TankInfoCC','shift','#e9e6ff','respond','liveNicknameNodeCount','threeHotkey','three-hotkey','requestAnimationFrame',']\x20地雷\x20·\x20','c11u_1','精细轮廓已启动\x20·\x20当前模型均已排除（自身\x20','getFullYear','getSeconds','mineEnabled','div','Minus','role','set','mine-interval','bot','hide','show','\x20·\x20友\x20','C-C-T-V-3','setItem','pointerId','function','c12b_1','resize','maxLife','rgba(255,255,255,1)','version','documentElement','enemy','h119_1','strokeStyle','push','xray','test','excludedLocalCount','cyw','坦克根节点捕获钩子未完整安装','parse','.InputComponentStyle-input','appendChild','ENTITY_REPLACED','setTransform','.DialogContainerComponentStyle-container','maxTrail','s11u_1','bootstrap','entries','1.0.0','class','三开关闭','map','span','shadowRoot','parseInt','simpleName','standalone-tank-name-auth-gate','\x20/\x20残骸\x20','105880NSpFUW','findSupplies','toLowerCase','漫野陨芒皆散尽，星河旧约不能寻<br>未能启用彗星终端！','field','2251776ugxrWW','enumerable','INPUT','page','dead','round','iyz','textContent','entity-bus-instrument','about','nickname-node-hook','keyup','j3_1','#ffffff','wyx','.ChatComponentStyle-chatWindow','DOUBLE_DAMAGE','preventDefault','update','h19b_1','native-target-state','team','Cute','b1b_1','.val','nodes','.ct-splash-bar','rgba(255,255,255,0)','__tankXrayBusInstrumented','s35_1','start','.ids','run','three-toggle','精细轮廓已接管\x20','innerWidth','home','lineWidth','Escape','.JoinToBattleComponentStyle-buttonJoin','getHours','tank-assistant-suite:native-target-state','nickname','x14w_1','getSupplies','x3m_1','child','tank-assistant-suite:xray-state','meshCount','target-bus-event','firstChild','HullSkin.root.legacy','f12a_1','dataset','lodGroups','deref','pop','.status','World','bottom','setAllyOutlineEnabled','standalone-script-reload','values','Key4','Key1','#d9c8f2','h12a_1','.ct-splash-bg','t4x_1','three-hk-note','keys','rgba(192,132,252,.5)','innerHTML','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.gw\x20{\x20position:fixed;\x20inset:0;\x20display:grid;\x20place-items:center;\x20pointer-events:none;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.card\x20{\x20pointer-events:auto;\x20position:relative;\x20width:400px;\x20box-sizing:border-box;\x20padding:26px\x2026px\x2022px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:18px;\x20border:1px\x20solid\x20rgba(168,85,247,.55);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:linear-gradient(165deg,rgba(20,12,42,.97),rgba(10,7,22,.98));\x20color:#f3efff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x200\x200\x201px\x20rgba(34,211,238,.18),0\x2024px\x2070px\x20rgba(70,15,150,.6),0\x200\x2046px\x20rgba(168,85,247,.32);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x22Microsoft\x20YaHei\x20UI\x22,\x22Segoe\x20UI\x22,sans-serif;\x20text-align:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:opacity\x20.3s\x20ease,transform\x20.3s\x20ease;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.card.hide\x20{\x20opacity:0;\x20transform:scale(.95)\x20translateY(-8px);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.x\x20{\x20position:absolute;\x20right:10px;\x20top:8px;\x20width:26px;\x20height:26px;\x20border:0;\x20cursor:pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:8px;\x20background:rgba(255,255,255,.08);\x20color:rgba(255,255,255,.85);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:15px;\x20line-height:26px;\x20text-align:center;\x20padding:0;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.x:hover\x20{\x20background:rgba(255,90,90,.35);\x20color:#fff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.logo\x20{\x20font-size:33px;\x20font-weight:900;\x20letter-spacing:1px;\x20color:#fff;\x20text-shadow:0\x200\x2016px\x20rgba(255,255,255,.45);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.logo\x20.sp\x20{\x20color:#ffe9a8;\x20text-shadow:0\x200\x2016px\x20rgba(255,214,120,.95);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.sub\x20{\x20margin-top:4px;\x20font-size:18px;\x20font-weight:800;\x20color:rgba(216,180,254,.95);\x20letter-spacing:3px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.msg\x20{\x20margin:18px\x200\x206px;\x20font-size:18px;\x20font-weight:800;\x20line-height:1.9;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.msg.ok\x20{\x20color:#8ef0a8;\x20text-shadow:0\x200\x2014px\x20rgba(74,222,128,.4);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.msg.no\x20{\x20color:#ff8a8a;\x20text-shadow:0\x200\x2014px\x20rgba(255,90,90,.35);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.pname\x20{\x20margin:10px\x20auto\x202px;\x20font-size:14px;\x20color:rgba(205,196,240,.8);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.pname\x20b\x20{\x20color:#fff;\x20font-size:16px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.foot\x20{\x20margin-top:14px;\x20font-size:12px;\x20color:rgba(180,170,220,.65);\x20line-height:1.6;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22gw\x22><div\x20class=\x22card\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22x\x22\x20type=\x22button\x22\x20title=\x22关闭\x22>✕</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22logo\x22>Comet<span\x20class=\x22sp\x22>✦</span>Terminal</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22sub\x22>彗星终端</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22msg\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pname\x22>当前玩家：<b\x20class=\x22val\x22>—</b></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22foot\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div></div>','LocalTank','#a5f3fc','Key2','isReady','devicePixelRatio','join','createElement','r14t_1','lastIndexOf','height','invincibleEnemyCount','active','entityRef','236,72,153','getOwnPropertyDescriptor','b11u_1','j12e_1','clientY','d12b_1','Root','g12a_1','n14t_1','BOOLEAN_DAMAGING',']已开启，等待可进入…','RADAR','_TOState','clientX','\x20\x20}\x20else\x20if\x20(d.type\x20===\x20\x27stop\x27)\x20{\x20clearInterval(timers[d.supply]);\x20delete\x20timers[d.supply];\x20}','standalone-color-settings','z176_1','getItem','msg\x20ok','.card','trail','index','tick','xrayForcedShown','ids','.outline','available','jyw','.panel','isFinite','ENUM_2_RADAR','DEAD_PHANTOM','damaging','get-state','.enemy','contains','dabaozuibang','.hittable','hidden','thick','boolean','local','slice','addEventListener','lastForceShowAt','lodCount','UNKNOWN','composedPath','object','DEAD','app-root','Key5','mine-toggle','g14d_1','.ct-splash-pct','i127_1','gyw_1','thin','prototype','TOState','filter','.DialogContainerComponentStyle-enterButton','ct-auth-locked','createLinearGradient','lobby','hittableEnemyCount','className','13925hBUzOD','setPointerCapture','v4x_1','attachShadow','toFixed','点场[','getContext','three-interval','#e9d5ff','forEach','未授权：自动地雷已锁定','mineHotkey','o12a_1','add','suspend','click','ENEMY','pointercancel','resume','ButtonComponentStyle-disabled','nickname-node-captured','stateNode','NITRO','supply','stroke','Key3','j15s_1','getDate','delete','offsetWidth','fillStyle','toggle','r14d_1','code',']\x20三开\x20·\x20','owner','instance','clearInterval','node','get','izy_1','activePage','every','isReadyKey','#160b30','querySelector','globalAlpha','#c084fc','ct-splash-root','sources','display','携漫天陨星而来，赴一场星下之约<br>欢迎使用彗星终端！','lod','nodeCount',',0)','eligibleRoots','releasePointerCapture','keydown','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20:host\x20{\x20all:\x20initial;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.panel\x20{\x20position:\x20fixed;\x20top:\x2016px;\x20left:\x2016px;\x20z-index:\x202147483000;\x20width:\x20760px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x20border:\x201px\x20solid\x20rgba(168,85,247,.5);\x20border-radius:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#f3efff;\x20overflow:\x20hidden;\x20background:\x20#0a0716;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(12px)\x20saturate(1.3);\x20-webkit-backdrop-filter:\x20blur(12px)\x20saturate(1.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x200\x201px\x20rgba(34,211,238,.18),\x200\x2026px\x2070px\x20rgba(70,15,150,.55),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200\x200\x2048px\x20rgba(168,85,247,.30);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x22Microsoft\x20YaHei\x20UI\x22,\x20\x22Segoe\x20UI\x22,\x20sans-serif;\x20font-size:\x2013px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20opacity\x20.3s\x20ease,\x20transform\x20.3s\x20ease,\x20visibility\x20.3s\x20ease;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.panel.hidden\x20{\x20opacity:\x200;\x20visibility:\x20hidden;\x20pointer-events:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-10px)\x20scale(.97);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20启动加载界面结束前强制隐藏；规则必须在影子树内才作用于\x20.panel\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.panel.ct-panel-boot\x20{\x20opacity:\x200\x20!important;\x20visibility:\x20hidden\x20!important;\x20pointer-events:\x20none\x20!important;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20名称未授权期间：主悬浮窗一律不可见、不可交互（优先级最高）\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.panel.ct-auth-locked\x20{\x20opacity:\x200\x20!important;\x20visibility:\x20hidden\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pointer-events:\x20none\x20!important;\x20transform:\x20translateY(-10px)\x20scale(.97);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.sky\x20{\x20position:\x20absolute;\x20inset:\x200;\x20width:\x20100%;\x20height:\x20100%;\x20display:\x20block;\x20z-index:\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.veil\x20{\x20position:\x20absolute;\x20inset:\x200;\x20z-index:\x201;\x20pointer-events:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(160deg,\x20rgba(20,12,42,.58),\x20rgba(14,10,30,.52)\x2055%,\x20rgba(10,6,22,.62));\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.inner\x20{\x20position:\x20relative;\x20z-index:\x202;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20headflow\x20{\x200%,100%\x20{\x20background-position:\x200%\x2050%;\x20}\x2050%\x20{\x20background-position:\x20100%\x2050%;\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20顶部整宽横向标题栏（拖动柄），横跨侧栏与内容上方\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.topbar\x20{\x20position:\x20relative;\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2013px\x2018px;\x20cursor:\x20grab;\x20user-select:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20rgba(255,255,255,.14);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(120deg,\x20rgba(56,189,248,.5),\x20rgba(139,92,246,.58)\x2045%,\x20rgba(236,72,153,.5));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-size:\x20220%\x20220%;\x20animation:\x20headflow\x209s\x20ease\x20infinite;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.topbar:active\x20{\x20cursor:\x20grabbing;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.topbar\x20.top-logo\x20{\x20font-size:\x2020px;\x20font-weight:\x20900;\x20color:\x20#fff;\x20letter-spacing:\x20.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x201.2;\x20text-shadow:\x200\x200\x2014px\x20rgba(255,255,255,.55);\x20white-space:\x20nowrap;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.topbar\x20.top-logo\x20.spark\x20{\x20color:\x20#ffe9a8;\x20text-shadow:\x200\x200\x2014px\x20rgba(255,214,120,.95);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.topbar\x20.top-sub\x20{\x20font-size:\x2013px;\x20font-weight:\x20800;\x20color:\x20#fff;\x20letter-spacing:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-left:\x2012px;\x20border-left:\x201px\x20solid\x20rgba(255,255,255,.35);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.topbar\x20.top-hint\x20{\x20margin-left:\x20auto;\x20font-size:\x2011px;\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(255,255,255,.9);\x20letter-spacing:\x20.5px;\x20text-align:\x20right;\x20line-height:\x201.6;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20nowrap;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20左栏\x20+\x20右内容\x20两栏布局\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.shell\x20{\x20display:\x20grid;\x20grid-template-columns:\x20158px\x201fr;\x20min-height:\x20450px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.sidebar\x20{\x20padding:\x2014px\x2010px\x2012px;\x20display:\x20flex;\x20flex-direction:\x20column;\x20gap:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-right:\x201px\x20solid\x20rgba(168,85,247,.28);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(180deg,\x20rgba(30,18,60,.55),\x20rgba(12,8,26,.55));\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.nav-item\x20{\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x209px;\x20padding:\x2011px\x2012px;\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20transparent;\x20background:\x20transparent;\x20color:\x20rgba(220,214,245,.85);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x20font-weight:\x20800;\x20text-align:\x20left;\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background\x20.2s,\x20color\x20.2s,\x20box-shadow\x20.2s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.nav-item\x20.ico\x20{\x20font-size:\x2016px;\x20width:\x2020px;\x20text-align:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.nav-item:hover\x20{\x20background:\x20rgba(168,85,247,.18);\x20color:\x20#fff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.nav-item.active\x20{\x20color:\x20#fff;\x20border-color:\x20rgba(168,85,247,.55);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(120deg,\x20rgba(34,211,238,.22),\x20rgba(168,85,247,.28));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x20inset\x200\x200\x2016px\x20rgba(168,85,247,.3);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.side-ver\x20{\x20margin-top:\x20auto;\x20font-size:\x2010px;\x20color:\x20rgba(190,180,230,.62);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x20line-height:\x201.7;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.content\x20{\x20position:\x20relative;\x20padding:\x2016px\x2018px;\x20min-width:\x200;\x20display:\x20flex;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.page\x20{\x20display:\x20none;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.page.active\x20{\x20display:\x20block;\x20flex:\x201;\x20min-width:\x200;\x20animation:\x20pagein\x20.25s\x20ease;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20pagein\x20{\x20from\x20{\x20opacity:\x200;\x20transform:\x20translateX(8px);\x20}\x20to\x20{\x20opacity:\x201;\x20transform:\x20none;\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.body\x20{\x20display:\x20block;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20button\x20{\x20border:\x200;\x20font:\x20inherit;\x20font-weight:\x20800;\x20cursor:\x20pointer;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggles\x20{\x20display:\x20grid;\x20grid-template-columns:\x20repeat(3,1fr);\x20gap:\x2010px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.page\x20.toggles\x20{\x20grid-template-columns:\x201fr;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.page\x20.toggle-row\x20small\x20{\x20font-size:\x2012px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle-row\x20{\x20display:\x20grid;\x20grid-template-columns:\x201fr\x20auto;\x20gap:\x208px;\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px\x2012px;\x20border-radius:\x2014px;\x20background:\x20rgba(255,255,255,.05);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(255,255,255,.08);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle-row\x20small\x20{\x20display:\x20block;\x20margin-top:\x203px;\x20color:\x20rgba(221,214,255,.72);\x20font-size:\x2014px;\x20line-height:\x201.5;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle-row\x20b\x20{\x20color:\x20#f4efff;\x20font-size:\x2017px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle\x20{\x20position:\x20relative;\x20width:\x2054px;\x20height:\x2028px;\x20border-radius:\x20999px;\x20padding:\x200;\x20flex-shrink:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(255,255,255,.14);\x20border:\x201px\x20solid\x20rgba(255,255,255,.18);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background\x20.25s,\x20box-shadow\x20.25s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle::after\x20{\x20content:\x20\x27\x27;\x20position:\x20absolute;\x20top:\x203px;\x20left:\x203px;\x20width:\x2020px;\x20height:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x20background:\x20#d7d2ea;\x20box-shadow:\x200\x202px\x206px\x20rgba(0,0,0,.45);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x20.25s,\x20background\x20.25s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle.on\x20{\x20background:\x20linear-gradient(90deg,\x20#22d3ee,\x20#a855f7);\x20border-color:\x20transparent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2014px\x20rgba(168,85,247,.6);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle.on::after\x20{\x20transform:\x20translateX(26px);\x20background:\x20#fff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.toggle:disabled\x20{\x20opacity:\x20.35;\x20cursor:\x20not-allowed;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.colors\x20{\x20display:\x20grid;\x20grid-template-columns:\x20repeat(5,1fr);\x20gap:\x206px;\x20padding:\x202px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20label\x20{\x20display:\x20grid;\x20gap:\x206px;\x20justify-items:\x20center;\x20color:\x20rgba(228,222,255,.88);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2015px;\x20font-weight:\x20800;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22color\x22]\x20{\x20width:\x2040px;\x20height:\x2040px;\x20padding:\x200;\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x202px\x20solid\x20rgba(255,255,255,.28);\x20background:\x20transparent;\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2010px\x20rgba(0,0,0,.4);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.status\x20{\x20padding:\x2011px\x2015px;\x20border-radius:\x2012px;\x20font-size:\x2012.5px;\x20font-weight:\x20700;\x20line-height:\x201.6;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(90deg,\x20rgba(34,211,238,.15),\x20rgba(168,85,247,.15),\x20rgba(236,72,153,.12));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(168,85,247,.32);\x20color:\x20#f2ecff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x200\x2012px\x20rgba(192,132,252,.5);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20首页：flex\x20纵向三栏——标题贴顶\x20/\x20英文+时间占满中间并居中\x20/\x20提示框贴底\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.page-home.active\x20{\x20display:\x20flex;\x20flex-direction:\x20column;\x20}\x0a.hero\x20{\x20position:\x20relative;\x20flex:\x201;\x20min-height:\x200;\x20width:\x20100%;\x0a\x20\x20\x20\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x0a\x20\x20\x20\x20text-align:\x20center;\x20padding:\x206px\x208px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20中部：占满标题与底框之间的全部空间，正标题+副标题+时间在其中垂直水平居中\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero-top\x20{\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20padding-bottom:\x20100px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero-mid\x20{\x20flex:\x201;\x20min-height:\x200;\x20width:\x20100%;\x20gap:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-bottom:\x2070px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero\x20.hero-brand\x20{\x20font-size:\x2055px;\x20font-weight:\x20900;\x20letter-spacing:\x202px;\x20line-height:\x201.2;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x20text-shadow:\x200\x200\x2022px\x20rgba(168,85,247,.7);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero\x20.hero-brand\x20.spark\x20{\x20color:\x20#ffe9a8;\x20text-shadow:\x200\x200\x2018px\x20rgba(255,214,120,.95);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero\x20.hero-sub\x20{\x20font-size:\x2027px;\x20font-weight:\x20800;\x20letter-spacing:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(255,255,255,.92);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero\x20.hero-en\x20{\x20font-size:\x2020px;\x20font-weight:\x20900;\x20letter-spacing:\x203px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(165,243,252,.9);\x20text-transform:\x20uppercase;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20时间：无方框，大字居中，在英文下方\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero-clock\x20{\x20margin-top:\x204px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero-clock\x20.clock-time\x20{\x20font-size:\x2055px;\x20font-weight:\x20900;\x20color:\x20#fff;\x20line-height:\x201.15;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-variant-numeric:\x20tabular-nums;\x20text-shadow:\x200\x200\x2018px\x20rgba(168,85,247,.75);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero-clock\x20.clock-date\x20{\x20margin-top:\x204px;\x20font-size:\x2016px;\x20font-weight:\x20800;\x20color:\x20rgba(165,243,252,.9);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20底部提示：套用原时间方框样式，贴底\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20底部提示：绝对定位钉在悬浮窗最底部\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.hero-tip\x20{\x20position:\x20absolute;\x20left:\x2050%;\x20bottom:\x2012px;\x20transform:\x20translateX(-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20calc(100%\x20-\x2036px);\x20max-width:\x20480px;\x20padding:\x2012px\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2016px;\x20border:\x201px\x20solid\x20rgba(168,85,247,.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(160deg,\x20rgba(30,18,60,.7),\x20rgba(12,8,26,.7));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x20inset\x200\x200\x2022px\x20rgba(168,85,247,.25),\x200\x200\x2020px\x20rgba(56,189,248,.15);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x20font-weight:\x20700;\x20color:\x20rgba(220,214,245,.92);\x20line-height:\x201.7;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x203;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.section-title\x20{\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x208px;\x20margin-bottom:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x20font-weight:\x20900;\x20color:\x20#fff;\x20letter-spacing:\x201px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.section-title::after\x20{\x20content:\x20\x27\x27;\x20flex:\x201;\x20height:\x201px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(90deg,\x20rgba(168,85,247,.6),\x20transparent);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20战场功能\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bs-card\x20{\x20padding:\x2012px;\x20border-radius:\x2014px;\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(255,255,255,.12);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(160deg,\x20rgba(30,18,60,.55),\x20rgba(12,8,26,.55));\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bs-card\x20.bs-k\x20{\x20font-size:\x2011px;\x20color:\x20rgba(190,180,230,.78);\x20letter-spacing:\x201px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bs-card\x20.bs-v\x20{\x20margin-top:\x205px;\x20font-size:\x2013px;\x20font-weight:\x20900;\x20color:\x20#a5f3fc;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bs-card\x20.bs-v.bad\x20{\x20color:\x20#fda4af;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bs-card\x20.bs-v.good\x20{\x20color:\x20#6ee7b7;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bt-main\x20{\x20width:\x20100%;\x20margin-bottom:\x2014px;\x20padding:\x2013px;\x20border-radius:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2015px;\x20font-weight:\x20900;\x20letter-spacing:\x202px;\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(168,85,247,.55);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(120deg,\x20rgba(139,92,246,.45),\x20rgba(236,72,153,.4));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2018px\x20rgba(168,85,247,.35);\x20cursor:\x20pointer;\x20transition:\x20transform\x20.15s,\x20box-shadow\x20.2s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bt-main:hover\x20{\x20transform:\x20translateY(-1px);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bt-main.run\x20{\x20border-color:\x20rgba(34,197,94,.7);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(120deg,\x20rgba(22,163,74,.55),\x20rgba(34,211,238,.45));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2022px\x20rgba(34,197,94,.5);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.battle-row\x20{\x20display:\x20grid;\x20grid-template-columns:\x201fr\x201fr;\x20gap:\x2012px;\x20margin-bottom:\x2014px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.mini-field\x20{\x20padding:\x2010px\x2012px;\x20border-radius:\x2012px;\x20border:\x201px\x20solid\x20rgba(255,255,255,.12);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(30,18,60,.4);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.mini-field\x20label\x20{\x20display:\x20block;\x20font-size:\x2011px;\x20color:\x20rgba(190,180,230,.8);\x20margin-bottom:\x206px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.mini-field\x20input\x20{\x20width:\x20100%;\x20box-sizing:\x20border-box;\x20background:\x20rgba(6,4,16,.75);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(168,85,247,.4);\x20border-radius:\x208px;\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x206px\x209px;\x20font-size:\x2013px;\x20font-weight:\x20800;\x20outline:\x20none;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20键帽式热键框：像按键一样，悬停浮起、按下下陷、录制中高亮脉冲\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.mini-field\x20input.hk-keycap\x20{\x20display:\x20block;\x20width:\x20100%;\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x209px\x2010px;\x20font-size:\x2015px;\x20font-weight:\x20900;\x20letter-spacing:\x202px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#f3edff;\x20cursor:\x20pointer;\x20user-select:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(168,85,247,.55);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(180deg,\x20rgba(66,42,120,.85),\x20rgba(28,16,58,.9));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x203px\x200\x20rgba(20,10,46,.95),\x200\x205px\x2012px\x20rgba(0,0,0,.45),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20inset\x200\x201px\x200\x20rgba(255,255,255,.14);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x20.12s\x20ease,\x20box-shadow\x20.12s\x20ease,\x20border-color\x20.2s,\x20background\x20.2s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.mini-field\x20input.hk-keycap:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20rgba(192,132,252,.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(180deg,\x20rgba(92,58,160,.95),\x20rgba(40,22,80,.95));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-1px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x204px\x200\x20rgba(20,10,46,.95),\x200\x208px\x2016px\x20rgba(139,92,246,.35),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20inset\x200\x201px\x200\x20rgba(255,255,255,.2);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.mini-field\x20input.hk-keycap:active\x20{\x20transform:\x20translateY(2px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x201px\x200\x20rgba(20,10,46,.95),\x200\x202px\x206px\x20rgba(0,0,0,.5),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20inset\x200\x202px\x206px\x20rgba(0,0,0,.45);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.mini-field\x20input.hk-keycap:focus,\x20.mini-field\x20input.hk-keycap.recording\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20rgba(34,211,238,.95);\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(180deg,\x20rgba(20,90,110,.9),\x20rgba(12,40,60,.95));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x200\x201px\x20rgba(34,211,238,.55),\x200\x200\x2016px\x20rgba(34,211,238,.5),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20inset\x200\x201px\x200\x20rgba(255,255,255,.18);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20hkPulse\x201s\x20ease-in-out\x20infinite;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20hkPulse\x20{\x200%,100%\x20{\x20box-shadow:\x200\x200\x200\x201px\x20rgba(34,211,238,.55),\x200\x200\x2010px\x20rgba(34,211,238,.4);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2050%\x20{\x20box-shadow:\x200\x200\x200\x201px\x20rgba(34,211,238,.8),\x200\x200\x2022px\x20rgba(34,211,238,.75);\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20间隔步进器：−\x20[\x2020\x20ms\x20]\x20＋\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-stepper\x20{\x20display:\x20flex;\x20align-items:\x20stretch;\x20gap:\x205px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-btn\x20{\x20width:\x2030px;\x20flex-shrink:\x200;\x20border-radius:\x208px;\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2015px;\x20font-weight:\x20900;\x20color:\x20#f3edff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(168,85,247,.5);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(180deg,\x20rgba(66,42,120,.85),\x20rgba(28,16,58,.9));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x202px\x200\x20rgba(20,10,46,.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x20.1s,\x20box-shadow\x20.1s,\x20border-color\x20.2s,\x20background\x20.2s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-btn:hover\x20{\x20border-color:\x20rgba(192,132,252,.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(180deg,\x20rgba(92,58,160,.95),\x20rgba(40,22,80,.95));\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-btn:active\x20{\x20transform:\x20translateY(1px);\x20box-shadow:\x200\x201px\x200\x20rgba(20,10,46,.9);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-input\x20{\x20flex:\x201;\x20min-width:\x200;\x20width:\x20100%;\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x206px\x204px;\x20font-size:\x2014px;\x20font-weight:\x20900;\x20color:\x20#a5f3fc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(6,4,16,.85);\x20border:\x201px\x20solid\x20rgba(34,211,238,.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x20outline:\x20none;\x20font-variant-numeric:\x20tabular-nums;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-moz-appearance:\x20textfield;\x20appearance:\x20textfield;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20border-color\x20.2s,\x20box-shadow\x20.2s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-input::-webkit-outer-spin-button,\x20.ms-input::-webkit-inner-spin-button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-webkit-appearance:\x20none;\x20margin:\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-input:focus\x20{\x20border-color:\x20rgba(34,211,238,.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2012px\x20rgba(34,211,238,.45);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-unit\x20{\x20display:\x20grid;\x20place-items:\x20center;\x20flex-shrink:\x200;\x20padding:\x200\x202px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2011px;\x20font-weight:\x20800;\x20color:\x20rgba(190,180,230,.8);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ms-range\x20{\x20display:\x20block;\x20margin-top:\x206px;\x20font-size:\x2010.5px;\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(190,180,230,.65);\x20text-align:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.battle-note\x20{\x20font-size:\x2012px;\x20line-height:\x201.9;\x20color:\x20rgba(220,214,245,.85);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px\x2014px;\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(34,211,238,.25);\x20background:\x20rgba(34,211,238,.07);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.battle-note\x20.k\x20{\x20display:\x20inline-block;\x20min-width:\x2018px;\x20padding:\x201px\x206px;\x20margin:\x200\x202px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x20border:\x201px\x20solid\x20rgba(34,211,238,.5);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(34,211,238,.14);\x20color:\x20#fff;\x20font-weight:\x20900;\x20text-align:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20战场子区块（地雷\x20/\x20房间点场）\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.battle-sub\x20{\x20margin-top:\x2018px;\x20margin-bottom:\x2010px;\x20font-size:\x2013px;\x20font-weight:\x20900;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:\x201px;\x20color:\x20#c4b5fd;\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x208px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.battle-sub::after\x20{\x20content:\x20\x27\x27;\x20flex:\x201;\x20height:\x201px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(90deg,\x20rgba(168,85,247,.45),\x20transparent);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.join-list\x20{\x20display:\x20grid;\x20grid-template-columns:\x20repeat(3,\x201fr);\x20gap:\x2010px;\x20margin-bottom:\x2014px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bt-join\x20{\x20padding:\x2012px;\x20border-radius:\x2012px;\x20font-size:\x2013px;\x20font-weight:\x20900;\x20letter-spacing:\x201px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(220,214,245,.92);\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(255,255,255,.14);\x20background:\x20rgba(30,18,60,.45);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x20.15s,\x20box-shadow\x20.2s,\x20border-color\x20.2s;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bt-join:hover\x20{\x20transform:\x20translateY(-1px);\x20border-color:\x20rgba(168,85,247,.6);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.bt-join.on\x20{\x20color:\x20#fff;\x20border-color:\x20rgba(34,197,94,.7);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(120deg,\x20rgba(22,163,74,.55),\x20rgba(34,211,238,.45));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2018px\x20rgba(34,197,94,.45);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20关于页\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-card\x20{\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x2014px;\x20padding:\x2014px;\x20border-radius:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(255,255,255,.12);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(160deg,\x20rgba(30,18,60,.55),\x20rgba(12,8,26,.55));\x20margin-bottom:\x2012px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-card\x20.about-avatar\x20{\x20width:\x2052px;\x20height:\x2052px;\x20border-radius:\x2050%;\x20flex-shrink:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20object-fit:\x20cover;\x20border:\x202px\x20solid\x20rgba(168,85,247,.7);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2018px\x20rgba(168,85,247,.55);\x20background:\x20#140c2a;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-card\x20.about-avatar-fb\x20{\x20display:\x20grid;\x20place-items:\x20center;\x20font-size:\x2026px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#22d3ee,\x20#a855f7);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-card\x20.a-name\x20{\x20font-size:\x2017px;\x20font-weight:\x20900;\x20color:\x20#fff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-card\x20.a-role\x20{\x20font-size:\x2011px;\x20color:\x20rgba(165,243,252,.9);\x20margin-top:\x203px;\x20letter-spacing:\x201px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-meta\x20{\x20display:\x20grid;\x20grid-template-columns:\x201fr\x201fr;\x20gap:\x2010px;\x20margin-bottom:\x2012px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-meta\x20.bs-card\x20{\x20text-align:\x20left;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.about-note\x20{\x20font-size:\x2012px;\x20color:\x20rgba(220,214,245,.82);\x20line-height:\x201.9;\x20padding:\x2012px\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x20border:\x201px\x20solid\x20rgba(251,191,36,.3);\x20background:\x20rgba(251,191,36,.07);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<section\x20class=\x22panel\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<canvas\x20class=\x22sky\x22></canvas>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22veil\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22inner\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22topbar\x20head\x22\x20title=\x22按住此处可拖动整个面板\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22top-logo\x22>☄️\x20Comet<span\x20class=\x22spark\x22>✦</span>Terminal</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22top-sub\x22>彗星终端</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22top-hint\x22>⠿\x20按住标题栏拖动面板<br>INS\x20/\x20-\x20显示\x20·\x20隐藏</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22shell\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<nav\x20class=\x22sidebar\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22nav-item\x22\x20data-page=\x22home\x22\x20type=\x22button\x22><span\x20class=\x22ico\x22></span>彗星首页</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22nav-item\x22\x20data-page=\x22join\x22\x20type=\x22button\x22><span\x20class=\x22ico\x22></span>房间点场</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22nav-item\x22\x20data-page=\x22battle\x22\x20type=\x22button\x22><span\x20class=\x22ico\x22></span>快捷道具</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22nav-item\x22\x20data-page=\x22xray\x22\x20type=\x22button\x22><span\x20class=\x22ico\x22></span>透视ESP</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22nav-item\x22\x20data-page=\x22about\x22\x20type=\x22button\x22><span\x20class=\x22ico\x22></span>关于彗星</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22side-ver\x22>Comet\x20Terminal<br>v1.2.0-Comet</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</nav>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22content\x20body\x22>\x0a<section\x20class=\x22page\x20page-home\x22\x20data-page=\x22home\x22>\x0a\x20\x20\x20\x20<div\x20class=\x22hero\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22hero-mid\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22hero-brand\x22>Comet<span\x20class=\x22spark\x22>✦</span>Terminal</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22hero-sub\x22>彗星终端</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22hero-en\x22>3D\x20Tank\x20Assistant</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22hero-clock\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22clock-time\x22>--:--:--</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22clock-date\x22>----年--月--日</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22hero-tip\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20划破天际的陨星信号-Comet\x20Terminal\x20彗星终端已完成加载！\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a</section>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<section\x20class=\x22page\x20page-battle\x22\x20data-page=\x22battle\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22section-title\x22>战场功能\x20·\x20道具三开（调用函数）</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22bt-main\x22\x20id=\x22three-toggle\x22\x20type=\x22button\x22>[9]\x20三开\x20·\x20已停止</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22battle-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mini-field\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>切换热键（点按键后按一个键，留空则只用按钮）</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22hk-keycap\x22\x20id=\x22three-hotkey\x22\x20type=\x22text\x22\x20maxlength=\x2212\x22\x20value=\x229\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mini-field\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>道具触发间隔</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ms-stepper\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22ms-btn\x22\x20type=\x22button\x22\x20data-target=\x22three-interval\x22\x20data-delta=\x22-1\x22>−</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22ms-input\x22\x20id=\x22three-interval\x22\x20type=\x22number\x22\x20min=\x2210\x22\x20max=\x2250\x22\x20step=\x221\x22\x20value=\x2220\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22ms-unit\x22>ms</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22ms-btn\x22\x20type=\x22button\x22\x20data-target=\x22three-interval\x22\x20data-delta=\x221\x22>＋</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<small\x20class=\x22ms-range\x22>范围\x2050–100ms.50ms为极限,再低界面则崩溃</small>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22battle-note\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20进入战场后内核自动扫描并调用游戏函数持续触发道具，不注入不发包；<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20热键\x20<span\x20class=\x22k\x22\x20id=\x22three-hk-note\x22>9</span>\x20可随时开/关三开；聊天框输入时不会误触；<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20与游戏内道具键位分离，不会与正常使用道具冲突。\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22battle-sub\x22>地雷脚本</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22bt-main\x22\x20id=\x22mine-toggle\x22\x20type=\x22button\x22>[F4]\x20地雷\x20·\x20已停止</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22battle-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mini-field\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>切换热键（点按键后按一个键，留空则只用按钮）</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22hk-keycap\x22\x20id=\x22mine-hotkey\x22\x20type=\x22text\x22\x20maxlength=\x2212\x22\x20value=\x22F4\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mini-field\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>布雷触发间隔</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ms-stepper\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22ms-btn\x22\x20type=\x22button\x22\x20data-target=\x22mine-interval\x22\x20data-delta=\x22-1\x22>−</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22ms-input\x22\x20id=\x22mine-interval\x22\x20type=\x22number\x22\x20min=\x2220\x22\x20max=\x2250\x22\x20step=\x221\x22\x20value=\x2223\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22ms-unit\x22>ms</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22ms-btn\x22\x20type=\x22button\x22\x20data-target=\x22mine-interval\x22\x20data-delta=\x221\x22>＋</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<small\x20class=\x22ms-range\x22>范围\x2020–50ms，越小布雷越快</small>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22battle-note\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20开启后持续模拟游戏内的地雷键\x20<span\x20class=\x22k\x22>5</span>，连续下雷；<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20间隔可点\x20＋/−\x20或直接输入数字，修改后立即按新间隔运行；聊天框输入时热键不误触。\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</section>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<section\x20class=\x22page\x20page-join\x22\x20data-page=\x22join\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22section-title\x22>点场功能\x20·\x20自动加入</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22join-list\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22bt-join\x22\x20id=\x22join-a\x22\x20type=\x22button\x22>🔵\x20A\x20队</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22bt-join\x22\x20id=\x22join-b\x22\x20type=\x22button\x22>🔴\x20B\x20队</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22bt-join\x22\x20id=\x22join-mix\x22\x20type=\x22button\x22>⚪\x20混战</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22battle-note\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20在大厅房间列表开启对应模式后，目标队伍一旦可进入即自动点击进入；<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20A队\x20与\x20B队\x20可同时开启；混战与\x20A/B\x20互斥，成功进入或再次点击当前模式即停止；<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✦\x20超限等模式弹出的入场确认框会自动确认；本项不记忆，刷新后自动复位。\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</section>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<section\x20class=\x22page\x20page-xray\x22\x20data-page=\x22xray\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22section-title\x22>透视功能\x20·\x20ESP\x20轮廓\x20/\x20ID</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22toggles\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22toggle-row\x22><div><b>敌方ESP</b><small>总开关-开启后，才可\x20开/关\x20队友ESP！</small></div><button\x20class=\x22toggle\x20outline\x22\x20type=\x22button\x22></button></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22toggle-row\x22><div><b>队友ESP</b><small>总开关开启后，单独控制\x20开/关\x20ESP队友！</small></div><button\x20class=\x22toggle\x20ally-outline\x22\x20type=\x22button\x22></button></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22toggle-row\x22><div><b>距离限制</b><small>消除游戏距离限制.\x20无视距离显示！</small></div><button\x20class=\x22toggle\x20ids\x22\x20type=\x22button\x22></button></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22colors\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>敌方<input\x20class=\x22enemy\x22\x20type=\x22color\x22></label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>队友<input\x20class=\x22ally\x22\x20type=\x22color\x22></label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>可击中<input\x20class=\x22hittable\x22\x20type=\x22color\x22></label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>无敌中<input\x20class=\x22invincible\x22\x20type=\x22color\x22\x20title=\x22敌方出生/复活无敌保护时间的轮廓色\x22></label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>AI人机<input\x20class=\x22bot\x22\x20type=\x22color\x22\x20title=\x22敌方人机（AI）轮廓色，用于区分真人玩家\x22></label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22status\x22>✦\x20点击ARGB区块进行调节颜色！</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</section>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<section\x20class=\x22page\x20page-about\x22\x20data-page=\x22about\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22section-title\x22>关于彗星</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22about-card\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22about-avatar\x22\x20id=\x22about-qq-avatar\x22\x20alt=\x22作者\x20QQ\x20头像\x22\x20title=\x22作者\x20QQ：669481357\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22a-name\x22>作者：T_T</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22a-role\x22>COMET\x20TERMINAL\x20·\x203D\x20Tank\x20Assistant</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22about-meta\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22bs-card\x22><div\x20class=\x22bs-k\x22>QQ\x20联系</div><div\x20class=\x22bs-v\x22>669481357</div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22bs-card\x22><div\x20class=\x22bs-k\x22>当前版本</div><div\x20class=\x22bs-v\x22>v1.2.0-Comet</div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22about-note\x22\x20style=\x22margin-top:12px;\x22>✦\x20本终端纯本人一人编辑，无第三方任何人参与编辑，请放心使用！<br>✦\x20功能仅限白名单授权玩家使用；三开与透视能力均在名称校验通过后解锁。</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</section>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</section>','d149_1','\x20键快速开关道具三开','value','#ff6666','n11c_1','DOUBLE_ARMOR','open','tank-assistant-suite:xray-request','lineTo','cancelAnimationFrame','t11k_1','top','Outline','join-a','root-instance','.msg','beginPath','root-hook','\x20·\x20已排除自身\x20','byq_1','Insert','observe','getElementById','targetCount','#120a2a','isArray','constructor','MIX','__StandaloneXrayTargetBridge','纯透视版：自身/残骸排除\x20+\x20敌友精细轮廓\x20+\x20敌方\x20ID','ReactContainer','standalone-await-name-auth','title-root-hook','target','ally','number','enabled','pointerup','lobby-fallback','.clock-time','p35_1','replaceWith','ALLY','has','string','#080516','m17a_1','const\x20timers\x20=\x20{};','moveTo','querySelectorAll','408029GSwyvP','meshes','__tankXrayOriginal','q15h_1','hittable','enable-ally-outline','standalone-outline-toggle','findLast','y3m_1','liveTitleRootCount','standalone-name-auth-pass-outline','max','\x20\x20\x20\x20timers[d.supply]\x20=\x20setInterval(()\x20=>\x20self.postMessage({\x20supply:\x20d.supply\x20}),\x20Math.max(d.ms\x20>\x200\x20?\x20d.ms\x20:\x20100,\x2050));','auto','battle','splice','life','rgba(255,255,255,','TrackedTankSkin.root','\x20\x20\x20\x20if\x20(timers[d.supply])\x20clearInterval(timers[d.supply]);','6CzZlPg','standalone-id-toggle','disable-id-xray','i12e_1','透视功能已保持锁定，主悬浮窗无法呼出','classList','#about-qq-avatar'];_0x5d5b=function(){return _0x3e083a;};return _0x5d5b();}(function(_0x1cf640,_0x30f3b9){const _0x124474=_0x3d78,_0x42cb7f=_0x1cf640();while(!![]){try{const _0x1a0e8e=-parseInt(_0x124474(0x1cd))/0x1+-parseInt(_0x124474(0x281))/0x2*(-parseInt(_0x124474(0x1e1))/0x3)+parseInt(_0x124474(0x238))/0x4*(parseInt(_0x124474(0x37c))/0x5)+parseInt(_0x124474(0x21a))/0x6+-parseInt(_0x124474(0x204))/0x7+parseInt(_0x124474(0x2e2))/0x8+parseInt(_0x124474(0x229))/0x9*(parseInt(_0x124474(0x2dd))/0xa);if(_0x1a0e8e===_0x30f3b9)break;else _0x42cb7f['push'](_0x42cb7f['shift']());}catch(_0x21d68e){_0x42cb7f['push'](_0x42cb7f['shift']());}}}(_0x5d5b,0x3280d),function installTankTacticalXrayRuntime(){'use strict';const _0x1ffe47=_0x3d78;const _0x7472c7=window,_0x93dcba=_0x1ffe47(0x23d),_0x5615d4=_0x1ffe47(0x20b),_0x145e9b='tank-assistant-suite:xray-state',_0x41d5b9=_0x1ffe47(0x3be),_0x3de01b='tank-assistant-suite:native-target-state',_0x1746a3=_0x1ffe47(0x3d4),_0x1fad52=0x15e,_0x30e102=0x3e8,_0x15aa7f=0x28a,_0x968f7e=0x33bbff,_0x4aa030=0xff6666,_0x48132d=0xff9800,_0x525414=0xffffff,_0x24d968=0xff00ff,_0xc4be5e=_0x1ffe47(0x3d9),_0x2a2b4e='enemy',_0x4408a7=_0x1ffe47(0x223),_0x242f27=0x0,_0x38a648=0x1,_0x302f4e=0x2,_0x305291=0x1f4,_0xa5a63e=0x96,_0x39a28c=0x7530,_0x105c14=0x1f40,_0x48ce3e=Object[_0x1ffe47(0x245)](['o101_1',_0x1ffe47(0x3a4)]),_0x5ef928=Object['freeze']([_0x1ffe47(0x210),_0x1ffe47(0x324),_0x1ffe47(0x341),'e119_1','b127_1']),_0x19ae8f=_0x7472c7[_0x93dcba];if(_0x19ae8f&&_0x19ae8f[_0x1ffe47(0x2be)]===_0x5615d4&&typeof _0x19ae8f[_0x1ffe47(0x38e)]===_0x1ffe47(0x2b9)){_0x19ae8f[_0x1ffe47(0x38e)](_0x1ffe47(0x31f));return;}const _0x5205eb=Object[_0x1ffe47(0x245)]([Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x30d),'label':_0x1ffe47(0x264)}),Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x333),'label':_0x1ffe47(0x315)}),Object['freeze']({'field':'m17a_1','label':_0x1ffe47(0x1df)}),Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x349),'label':'TrackedTankSkin.root.legacy'})]),_0x91b8e9=Object[_0x1ffe47(0x245)]([_0x1ffe47(0x316),_0x1ffe47(0x3c1)]),_0x27d69d=Object['freeze']([_0x1ffe47(0x388),_0x1ffe47(0x1d0),_0x1ffe47(0x370)]),_0x2c9c1c=Object['freeze']([_0x1ffe47(0x340),'k12a_1','e127_1']),_0x543dcd=Object[_0x1ffe47(0x245)]([_0x1ffe47(0x263),'n127_1']),_0x1d084e=Object['freeze']([Object['freeze']({'kind':_0x1ffe47(0x266),'fields':Object[_0x1ffe47(0x245)]([Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x30f),'role':_0x1ffe47(0x1bf)}),Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x1d5),'role':_0x1ffe47(0x20e)}),Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x25c),'role':_0x1ffe47(0x360)})])}),Object[_0x1ffe47(0x245)]({'kind':_0x1ffe47(0x3b0),'fields':Object[_0x1ffe47(0x245)]([Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x326),'role':'enabled'}),Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x25f),'role':_0x1ffe47(0x20e)}),Object[_0x1ffe47(0x245)]({'field':_0x1ffe47(0x37e),'role':_0x1ffe47(0x360)})])})]);let _0x1f26c2=![],_0x5f1d36=![],_0xd72f16=!![],_0x2eb2c5=!![],_0x220d03=_0x968f7e,_0x116859=_0x4aa030,_0x8836bd=_0x48132d,_0x20defa=_0x525414,_0x123a9c=_0x24d968,_0x23b252=Date['now'](),_0x424b33=_0x1ffe47(0x2d1),_0x9a3b32=null,_0x1954f3=null,_0x4e2506='',_0xc36882=0x0,_0x467fc7=0x0,_0x4f3e5b=0x0,_0x5d9143=0x0,_0x44b641=0x0,_0x5adc53=0x0,_0x54a426=0x0,_0x1c2fd0=0x0,_0x65a9a8=0x0,_0x2e2abd=0x0,_0x64eaf8=0x0,_0x330072=0x0,_0x4bcdf1=0x0,_0x25bc97=null,_0x1af68b=null;const _0x58279b=[],_0x31a627=new WeakSet(),_0x46550e=new WeakSet(),_0x5928d7=[],_0xd430b=new WeakMap(),_0x8164a0=new WeakMap(),_0x88f71=new WeakMap(),_0x1cbe7e=new WeakMap(),_0x3abb3d=new WeakMap(),_0x26e3fb=new WeakMap(),_0x1fab30=new WeakMap(),_0x3bba3b=new WeakMap(),_0xb46221=new WeakMap(),_0x3d465f=0x1f40,_0x2a9f2a=0x13dd,_0x2a339f=0x15e,_0x383aea=new WeakMap(),_0x3dd308=[],_0x50ebde=new WeakMap(),_0x4cb5a7=[],_0x5267e0=new WeakMap(),_0x46fd49=[],_0x42137b=_0x529d62=>typeof WeakRef===_0x1ffe47(0x2b9)?new WeakRef(_0x529d62):{'deref':()=>_0x529d62},_0x39c3b6=_0x2b0667=>_0x2b0667!=null&&(typeof _0x2b0667===_0x1ffe47(0x369)||typeof _0x2b0667===_0x1ffe47(0x2b9)),_0x47e3a6=_0x3e63a5=>_0x39c3b6(_0x3e63a5)&&_0x39c3b6(_0x3e63a5[_0x1ffe47(0x1c3)])&&_0x39c3b6(_0x3e63a5['r35_1'])&&_0x39c3b6(_0x3e63a5[_0x1ffe47(0x2ff)]),_0x4fcbaa=_0x52db18=>{const _0x1c5ef6=_0x1ffe47;if(!_0x39c3b6(_0x52db18))return null;try{if(typeof _0x52db18[_0x1c5ef6(0x28b)]===_0x1c5ef6(0x2b9)){const _0x3ba491=_0x52db18[_0x1c5ef6(0x28b)]();if(_0x39c3b6(_0x3ba491))return _0x3ba491;}}catch(_0x537d9c){}try{const _0x141126=_0x52db18[_0x1c5ef6(0x371)];if(_0x39c3b6(_0x141126))return _0x141126;}catch(_0x1bd772){}return null;},_0x368d96=(_0x5ad4b3,_0xae5c02)=>{const _0x3de770=_0x1ffe47;if(!_0x39c3b6(_0x5ad4b3))return![];let _0x549e58=[_0x5ad4b3[_0x3de770(0x268)],_0x5ad4b3[_0x3de770(0x3ca)]];try{for(const _0x4795dc of Object[_0x3de770(0x328)](_0x5ad4b3)['slice'](0x0,0x78)){const _0x10d14c=_0x5ad4b3[_0x4795dc];if(_0x39c3b6(_0x10d14c)&&typeof _0x10d14c['h1']==='function')_0x549e58[_0x3de770(0x2c3)](_0x10d14c);}}catch(_0x176084){}for(const _0x3d5fb2 of _0x549e58){if(!_0x39c3b6(_0x3d5fb2)||typeof _0x3d5fb2['h1']!==_0x3de770(0x2b9))continue;try{if(_0x3d5fb2['h1'](_0xae5c02))return!![];}catch(_0x31449f){}}return![];},_0x43f73d=_0x11a984=>{const _0x442f85=_0x1ffe47;if(!_0x39c3b6(_0x11a984))return null;for(const _0x1944ec of _0x48ce3e){const _0x53ad5a=_0x11a984[_0x1944ec],_0x1ecf24=Number(_0x53ad5a?.[_0x442f85(0x273)]);if(_0x39c3b6(_0x53ad5a)&&Number['isInteger'](_0x1ecf24)&&_0x1ecf24>=0x0&&_0x1ecf24<=0x4)return _0x53ad5a;}return null;},_0x179bb7=(_0x39a07b,_0x25bc3d=!![])=>{const _0x48dbc6=_0x1ffe47;if(!_0x39c3b6(_0x39a07b))return null;for(const _0x4c4af5 of _0x5ef928){const _0x439766=_0x39a07b[_0x4c4af5];if(_0x43f73d(_0x439766))return _0x439766;}if(!_0x25bc3d)return null;try{for(const _0x337407 of Object['keys'](_0x39a07b)[_0x48dbc6(0x363)](0x0,0xc8)){if(_0x43f73d(_0x39a07b[_0x337407]))return _0x39a07b[_0x337407];}}catch(_0x33d87d){}return null;},_0x3194c6=(_0xea9239,_0x42bae3=!![])=>{const _0x419ab7=_0x1ffe47,_0x527f31=_0xea9239?.[_0x419ab7(0x242)]?.[_0x419ab7(0x319)]?.(),_0x25f58e=_0x43f73d(_0x179bb7(_0x527f31,_0x42bae3));if(!_0x39c3b6(_0x25f58e))return{'index':null,'name':''};const _0x61787d=Number(_0x25f58e[_0x419ab7(0x273)]);let _0x5c1004='';try{_0x5c1004=String(_0x25f58e[_0x419ab7(0x2ee)]??_0x25f58e['toString']?.()??'')[_0x419ab7(0x22e)]();}catch(_0x5e564f){}return{'index':Number[_0x419ab7(0x228)](_0x61787d)?_0x61787d:null,'name':_0x5c1004};},_0x537a95=(_0x14ccf2,_0x5930ba)=>{const _0x56499e=_0x1ffe47,_0x4c70c3=Date[_0x56499e(0x205)]();if(_0x5930ba){const _0x5551e8=_0x1fab30[_0x56499e(0x3a3)](_0x5930ba);if(_0x5551e8){const _0x11a1c2=_0x5551e8[_0x56499e(0x34e)]==null?_0xa5a63e:_0x305291;if(_0x4c70c3-_0x5551e8['at']<_0x11a1c2)return _0x5551e8[_0x56499e(0x34e)];}}let _0x411809={'index':null,'name':''};try{_0x411809=_0x3194c6(_0x14ccf2,![]);if(_0x411809[_0x56499e(0x34e)]==null&&_0x5930ba){const _0x137ce8=_0x1cbe7e[_0x56499e(0x3a3)](_0x5930ba);if(_0x137ce8)for(const _0x407b58 of _0x137ce8){_0x411809=_0x3194c6(_0x407b58,!![]);if(_0x411809[_0x56499e(0x34e)]!=null||_0x411809[_0x56499e(0x24a)])break;}}if(_0x411809[_0x56499e(0x34e)]==null&&!_0x411809[_0x56499e(0x24a)])_0x411809=_0x3194c6(_0x14ccf2,!![]);}catch(_0x535bfa){_0x411809={'index':null,'name':''};}const _0x5d4669=_0x411809['index'];return _0x5930ba&&_0x1fab30[_0x56499e(0x2b0)](_0x5930ba,{'at':_0x4c70c3,'index':_0x5d4669}),_0x5d4669;},_0x1ba849=_0x499060=>{if(!_0x39c3b6(_0x499060))return![];try{return typeof _0x499060['e12u']==='function'&&_0x499060['xzu_1']===!![];}catch(_0x3d9da1){return![];}},_0x217702=_0x5bf017=>{const _0x999ec8=_0x1ffe47;if(!_0x39c3b6(_0x5bf017))return![];try{return _0x5bf017[_0x999ec8(0x36e)]!==undefined&&_0x5bf017[_0x999ec8(0x39c)]!==undefined&&typeof _0x5bf017['h14d_1']===_0x999ec8(0x361)&&_0x999ec8(0x246)in _0x5bf017&&'q14d_1'in _0x5bf017;}catch(_0x28c3f9){return![];}},_0x4cb7f0=_0x4e87fc=>{const _0x4a504a=_0x1ffe47;if(!_0x39c3b6(_0x4e87fc))return![];try{return typeof _0x4e87fc['uyn']==='function'||typeof _0x4e87fc[_0x4a504a(0x2f0)]===_0x4a504a(0x2b9)||typeof _0x4e87fc[_0x4a504a(0x354)]===_0x4a504a(0x2b9)||typeof _0x4e87fc['myw']===_0x4a504a(0x2b9);}catch(_0x6b948f){return![];}},_0x3bac24=Object[_0x1ffe47(0x245)]([_0x1ffe47(0x3b7),_0x1ffe47(0x1ee),'g14a_1']),_0x525607=_0x205f10=>{const _0x173029=_0x1ffe47;if(!_0x39c3b6(_0x205f10))return![];try{for(const _0xe21b8e of _0x3bac24){const _0x1d6895=Object[_0x173029(0x33a)](_0x205f10,_0xe21b8e);if(_0x1d6895&&_0x173029(0x3b9)in _0x1d6895&&_0x1ba849(_0x1d6895['value']))return!![];}if(_0x217702(_0x205f10)&&_0x1ba849(_0x205f10[_0x173029(0x246)]))return!![];}catch(_0xdcd99b){}return![];},_0x22b96d=_0xac176f=>{try{return _0xac176f instanceof Map;}catch(_0x45bb80){return![];}},_0x59dbf0=_0x20ca70=>{const _0x202cd7=_0x1ffe47;if(!_0x39c3b6(_0x20ca70))return null;try{const _0x352db0=Object[_0x202cd7(0x33a)](_0x20ca70,_0x202cd7(0x371));if(_0x352db0&&_0x202cd7(0x3b9)in _0x352db0&&_0x39c3b6(_0x352db0['value']))return _0x352db0[_0x202cd7(0x3b9)];}catch(_0x4f9a9d){}return null;},_0x344622=(_0x62fd5f,_0x47cb3d,_0x1a8f17)=>{const _0x24190c=_0x1ffe47;if(!_0x39c3b6(_0x62fd5f)||_0x1a8f17['n']<=0x0)return;const _0x392491=[];try{const _0x101278=Object['getOwnPropertyDescriptor'](_0x62fd5f,_0x24190c(0x215));if(_0x101278&&_0x24190c(0x3b9)in _0x101278&&_0x39c3b6(_0x101278['value'])&&_0x22b96d(_0x101278[_0x24190c(0x3b9)][_0x24190c(0x27d)]))_0x392491[_0x24190c(0x2c3)](_0x101278[_0x24190c(0x3b9)]['s2a_1']);if(_0x22b96d(_0x62fd5f[_0x24190c(0x27d)]))_0x392491[_0x24190c(0x2c3)](_0x62fd5f[_0x24190c(0x27d)]);}catch(_0xa7b67e){return;}for(const _0x3b6f25 of _0x392491){let _0x430cea=[];try{_0x430cea=Array[_0x24190c(0x28e)](_0x3b6f25[_0x24190c(0x320)]());}catch(_0x52e0c6){continue;}for(const _0x35b00c of _0x430cea){if(_0x1a8f17['n']<=0x0)return;if(!_0x39c3b6(_0x35b00c))continue;let _0x3842a6=null;try{const _0x4a20a2=Object[_0x24190c(0x33a)](_0x35b00c,_0x24190c(0x299));if(_0x4a20a2&&_0x24190c(0x3b9)in _0x4a20a2&&Array[_0x24190c(0x3d0)](_0x4a20a2[_0x24190c(0x3b9)]))_0x3842a6=_0x4a20a2['value'];}catch(_0xc15f){continue;}if(!_0x3842a6)continue;for(const _0x364ebf of _0x3842a6){if(_0x1a8f17['n']<=0x0)return;_0x1a8f17['n']-=0x1;if(_0x39c3b6(_0x364ebf))_0x47cb3d['add'](_0x364ebf);}}}},_0x5bee23=_0xb1de98=>{const _0xd07137=_0x1ffe47;if(typeof _0xb1de98===_0xd07137(0x1be)&&Number[_0xd07137(0x356)](_0xb1de98))return _0xb1de98;if(!_0x39c3b6(_0xb1de98))return null;try{if(typeof _0xb1de98['b1b_1']==='number')return _0xb1de98[_0xd07137(0x2f9)];for(const _0x3c6a57 of Object[_0xd07137(0x328)](_0xb1de98)[_0xd07137(0x363)](0x0,0x10)){const _0x1c9ca6=Object['getOwnPropertyDescriptor'](_0xb1de98,_0x3c6a57),_0x3d9d44=_0x1c9ca6&&_0xd07137(0x3b9)in _0x1c9ca6?_0x1c9ca6[_0xd07137(0x3b9)]:undefined;if(typeof _0x3d9d44===_0xd07137(0x1be)&&Number['isFinite'](_0x3d9d44))return _0x3d9d44;}}catch(_0x1141f2){}return null;},_0xa93213=_0x2f6fba=>{const _0x67b1f=_0x1ffe47,_0x16c75b=[],_0x185207=_0x2fdd6a=>{const _0x1c93d6=_0x3d78;if(_0x39c3b6(_0x2fdd6a)&&!_0x16c75b[_0x1c93d6(0x297)](_0x2fdd6a))_0x16c75b[_0x1c93d6(0x2c3)](_0x2fdd6a);};try{const _0x1dfbf4=_0x1cbe7e[_0x67b1f(0x3a3)](_0x2f6fba);if(_0x1dfbf4)for(const _0x26763d of _0x1dfbf4){const _0x79ce7b=_0x26763d[_0x67b1f(0x242)]?.[_0x67b1f(0x319)]?.();if(_0x39c3b6(_0x79ce7b)){if(_0x4cb7f0(_0x79ce7b))_0x185207(_0x79ce7b);try{_0x185207(_0x179bb7(_0x79ce7b,![]));}catch(_0xc476a2){}break;}}}catch(_0x34b53b){}if(_0x4cb7f0(_0x2f6fba))_0x185207(_0x2f6fba);return _0x16c75b;},_0xa3ad5d=_0x27699c=>{const _0x539865=_0x1ffe47,_0xcc20fa=new Set(),_0x4def0e=new Set(),_0x5eb700={'n':0x258};for(const _0xa35ef1 of _0xa93213(_0x27699c)){if(_0x4cb7f0(_0xa35ef1))_0xcc20fa[_0x539865(0x389)](_0xa35ef1);const _0x2e53c6=_0x59dbf0(_0xa35ef1);_0x2e53c6&&!_0x4def0e['has'](_0x2e53c6)&&(_0x4def0e[_0x539865(0x389)](_0x2e53c6),_0x344622(_0x2e53c6,_0xcc20fa,_0x5eb700));}return _0xcc20fa;},_0x2cd305=0xc9f2c9cd04675000000000000,_0x13c98a=new WeakMap(),_0x30bd8d=(_0x37ec9f,_0x19474f)=>{const _0xd49b51=_0x1ffe47;try{const _0xa4113d=Object[_0xd49b51(0x33a)](_0x37ec9f,_0x19474f);return _0xa4113d&&_0xd49b51(0x3b9)in _0xa4113d&&typeof _0xa4113d[_0xd49b51(0x3b9)]===_0xd49b51(0x1be)?_0xa4113d['value']:null;}catch(_0x42319e){return null;}},_0x19e5d6=_0x199f6f=>{const _0x7eb80e=_0x1ffe47;if(!_0x39c3b6(_0x199f6f))return![];try{const _0x11efc3=_0x199f6f[_0x7eb80e(0x2a8)];return _0x39c3b6(_0x11efc3)&&_0x30bd8d(_0x11efc3,_0x7eb80e(0x2d0))!==null&&_0x7eb80e(0x33b)in _0x199f6f;}catch(_0x26c619){return![];}},_0x395e39=_0x13e1ec=>{const _0x5a0723=_0x1ffe47;if(!_0x39c3b6(_0x13e1ec))return null;try{let _0x6c7d41=_0x13c98a[_0x5a0723(0x3a3)](_0x13e1ec)||null;if(!_0x6c7d41||!_0x39c3b6(_0x6c7d41)){for(const _0xb20d62 of _0xa3ad5d(_0x13e1ec)){if(_0x19e5d6(_0xb20d62)){_0x6c7d41=_0xb20d62,_0x13c98a[_0x5a0723(0x2b0)](_0x13e1ec,_0x6c7d41);break;}}if(!_0x6c7d41)return null;}const _0x44e6dd=_0x30bd8d(_0x6c7d41[_0x5a0723(0x2a8)],_0x5a0723(0x2d0));if(_0x44e6dd!==null&&_0x44e6dd>0.01)return!![];const _0xb3d8aa=_0x5bee23(_0x6c7d41['b11u_1']);if(_0xb3d8aa!==null)return _0xb3d8aa<_0x2cd305;return null;}catch(_0x9850e4){return null;}},_0x313bd7=_0x1d87f5=>{const _0x1576a7=_0x1ffe47;if(!_0x39c3b6(_0x1d87f5))return!![];try{if(_0x1d87f5===_0x7472c7||_0x1d87f5===document||_0x1d87f5[_0x1576a7(0x233)])return!![];if(_0x47e3a6(_0x1d87f5))return!![];if(typeof _0x1d87f5['a1']===_0x1576a7(0x2b9)&&typeof _0x1d87f5['g1']==='function'&&!_0x4cb7f0(_0x1d87f5))return!![];if(typeof _0x1d87f5['e1']===_0x1576a7(0x2b9)&&typeof _0x1d87f5['g1']===_0x1576a7(0x2b9)&&!_0x4cb7f0(_0x1d87f5))return!![];if(typeof _0x1d87f5[_0x1576a7(0x2e8)]===_0x1576a7(0x2b9)&&typeof _0x1d87f5['kyy']===_0x1576a7(0x2b9)&&!_0x4cb7f0(_0x1d87f5))return!![];}catch(_0x233b99){}return![];},_0x46e7ae=_0x393eba=>{const _0x7602d0=_0x1ffe47,_0x432cda=[];let _0x32a1d3=[];try{_0x32a1d3=Object['keys'](_0x393eba);}catch(_0x263f28){return _0x432cda;}for(const _0x443eb4 of _0x32a1d3){let _0x1b751d=null;try{_0x1b751d=Object[_0x7602d0(0x33a)](_0x393eba,_0x443eb4);}catch(_0x57f089){_0x1b751d=null;}if(!_0x1b751d||!(_0x7602d0(0x3b9)in _0x1b751d))continue;const _0x2b7a9f=_0x1b751d[_0x7602d0(0x3b9)];if(_0x39c3b6(_0x2b7a9f)&&!_0x313bd7(_0x2b7a9f))_0x432cda['push'](_0x2b7a9f);}return _0x432cda;},_0x5116b7=_0x459900=>{const _0xe8e26c=_0x1ffe47;if(!_0x39c3b6(_0x459900))return![];const _0x374a49=Date[_0xe8e26c(0x205)](),_0x153fa4=_0x3bba3b[_0xe8e26c(0x3a3)](_0x459900);if(_0x153fa4&&_0x374a49-_0x153fa4['at']<(_0x153fa4[_0xe8e26c(0x2b2)]?_0x39a28c:_0x105c14))return _0x153fa4[_0xe8e26c(0x2b2)];let _0x29c844=![],_0x1a2c1f=[];try{const _0x22ce6b=_0xa3ad5d(_0x459900);for(const _0x5a9024 of _0x22ce6b){if(_0x1ba849(_0x5a9024)||_0x525607(_0x5a9024)){_0x29c844=!![];break;}}if(!_0x29c844){_0x1a2c1f=_0xa93213(_0x459900);const _0x132db6=0x5,_0x1341b4=0xc8,_0x1c9dcf=0x5,_0x1b681b=0x6,_0x3311c7=[],_0x2ab212=new Set(),_0x2d808a=(_0x562dca,_0x2f76e6)=>{const _0x5e08bc=_0xe8e26c;_0x39c3b6(_0x562dca)&&!_0x313bd7(_0x562dca)&&!_0x2ab212['has'](_0x562dca)&&(_0x2ab212['add'](_0x562dca),_0x3311c7[_0x5e08bc(0x2c3)]({'o':_0x562dca,'d':_0x2f76e6}));};for(const _0x2ac72a of _0x1a2c1f)_0x2d808a(_0x2ac72a,0x0);_0x2d808a(_0x459900,0x0);let _0x2de5af=0x0,_0x59a26d=0x0;while(_0x3311c7[_0xe8e26c(0x1f5)]&&_0x2de5af<_0x1341b4){if(Date[_0xe8e26c(0x205)]()-_0x374a49>_0x132db6)break;const {o:_0xcf2286,d:_0x42692f}=_0x3311c7[_0xe8e26c(0x2a0)]();_0x2de5af+=0x1;if(_0x1ba849(_0xcf2286)||_0x525607(_0xcf2286)){_0x29c844=!![];break;}if(_0x42692f>=_0x1c9dcf)continue;let _0x2ecee5=[];try{_0x2ecee5=_0x46e7ae(_0xcf2286);}catch(_0x113e3a){_0x59a26d+=0x1;if(_0x59a26d>_0x1b681b)break;continue;}for(const _0x135dc6 of _0x2ecee5){if(_0x2ab212[_0xe8e26c(0x1c6)](_0x135dc6))continue;_0x2ab212[_0xe8e26c(0x389)](_0x135dc6),_0x3311c7[_0xe8e26c(0x2c3)]({'o':_0x135dc6,'d':_0x42692f+0x1});if(_0x3311c7[_0xe8e26c(0x1f5)]>_0x1341b4)break;}}}}catch(_0x474fca){_0x29c844=![];}return _0x3bba3b[_0xe8e26c(0x2b0)](_0x459900,{'at':Date[_0xe8e26c(0x205)](),'bot':_0x29c844}),_0x29c844;},_0x1b326a=_0x119cce=>{const _0x257a3c=_0x1ffe47;if(!_0x119cce)return'';const _0x2cffa1=_0x119cce[_0x257a3c(0x338)]?.[_0x257a3c(0x319)]?.()||_0x4fcbaa(_0x119cce[_0x257a3c(0x242)]?.[_0x257a3c(0x319)]?.());if(_0x368d96(_0x2cffa1,_0x257a3c(0x32c)))return _0x257a3c(0x362);let _0x5e377e=_0x3194c6(_0x119cce,![]);if(_0x5e377e[_0x257a3c(0x34e)]==null&&_0x2cffa1){const _0x168007=_0x1cbe7e[_0x257a3c(0x3a3)](_0x2cffa1);if(_0x168007)for(const _0x324ce3 of _0x168007){_0x5e377e=_0x3194c6(_0x324ce3);if(_0x5e377e[_0x257a3c(0x34e)]!=null||_0x5e377e[_0x257a3c(0x24a)])break;}}if(_0x5e377e['index']==null&&!_0x5e377e[_0x257a3c(0x24a)])_0x5e377e=_0x3194c6(_0x119cce,!![]);if(_0x5e377e[_0x257a3c(0x34e)]===_0x242f27||_0x5e377e[_0x257a3c(0x34e)]===_0x38a648||_0x5e377e[_0x257a3c(0x24a)]===_0x257a3c(0x36a)||_0x5e377e[_0x257a3c(0x24a)]===_0x257a3c(0x358))return _0x257a3c(0x2e6);const _0x81dc92=_0x119cce['ownerRef']?.[_0x257a3c(0x319)]?.(),_0x91fa1e=_0x119cce[_0x257a3c(0x3ad)]instanceof Set;if(_0x91fa1e&&_0x2cffa1&&_0x179bb7(_0x81dc92,![])&&(_0x88f71[_0x257a3c(0x3a3)](_0x2cffa1)||_0x119cce['team']||_0x4408a7)===_0x4408a7)return _0x257a3c(0x362);return'';},_0x374552=_0x2f0220=>_0x1b326a(_0x2f0220)==='',_0x22edf1=_0x27e385=>{const _0x226f6b=_0x1ffe47;if(!_0x39c3b6(_0x27e385))return _0x4408a7;const _0x20a174=Number(_0x27e385[_0x226f6b(0x273)]);if(_0x20a174===0x0)return _0xc4be5e;if(_0x20a174===0x1)return _0x2a2b4e;let _0x1f5201='';try{_0x1f5201=String(_0x27e385['j3_1']??_0x27e385[_0x226f6b(0x256)]?.()??'')['toUpperCase']();}catch(_0x23e988){}if(_0x1f5201[_0x226f6b(0x297)](_0x226f6b(0x1c5)))return _0xc4be5e;if(_0x1f5201[_0x226f6b(0x297)](_0x226f6b(0x38c)))return _0x2a2b4e;return _0x4408a7;},_0x47a290=(_0x4fce65,_0x930afa)=>{const _0x426c61=_0x1ffe47;if(!_0x4fce65||!_0x39c3b6(_0x930afa))return![];_0x4fce65[_0x426c61(0x338)]=_0x42137b(_0x930afa),_0x4fce65['team']=_0x88f71[_0x426c61(0x3a3)](_0x930afa)||_0x4fce65[_0x426c61(0x2f7)]||_0x4408a7;let _0x439f5a=_0x1cbe7e[_0x426c61(0x3a3)](_0x930afa);return!_0x439f5a&&(_0x439f5a=new Set(),_0x1cbe7e[_0x426c61(0x2b0)](_0x930afa,_0x439f5a)),_0x439f5a['add'](_0x4fce65),_0xcba6ae(_0x930afa),!![];},_0x3593a0=(_0x800944,_0x51db12)=>{const _0x41f1a2=_0x4fcbaa(_0x51db12);return _0x41f1a2?_0x47a290(_0x800944,_0x41f1a2):![];},_0x271057=(_0x2fca97,_0x36105b)=>{const _0x52fe35=_0x1ffe47;if(!_0x39c3b6(_0x2fca97)||_0x36105b===_0x4408a7)return;_0x88f71['set'](_0x2fca97,_0x36105b);const _0x3228f0=_0x1cbe7e[_0x52fe35(0x3a3)](_0x2fca97);if(_0x3228f0){for(const _0x95b7b4 of _0x3228f0)_0x95b7b4[_0x52fe35(0x2f7)]=_0x36105b;}},_0x439605=_0x30a94e=>{const _0x2cdb42=_0x1ffe47,_0x42a8b8=_0x30a94e?.[_0x2cdb42(0x1eb)];let _0x15c7a7=_0x42a8b8?.[_0x2cdb42(0x2f7)]||_0x4408a7;const _0x280d7e=_0x42a8b8?.[_0x2cdb42(0x338)]?.[_0x2cdb42(0x319)]?.();if(_0x280d7e)_0x15c7a7=_0x88f71[_0x2cdb42(0x3a3)](_0x280d7e)||_0x15c7a7;return _0x15c7a7;},_0x517fe3=(_0x271f81,_0x16ac8c,_0x460687)=>{const _0x49cabb=_0x1ffe47;if(!_0x271f81)return![];if(_0x16ac8c===_0x302f4e){const _0x36ed44=_0xb46221[_0x49cabb(0x3a3)](_0x271f81);if(!_0x36ed44||_0x460687-_0x36ed44>_0x3d465f)_0xb46221[_0x49cabb(0x2b0)](_0x271f81,_0x460687);return!![];}const _0x349640=_0xb46221[_0x49cabb(0x3a3)](_0x271f81);if(!_0x349640)return![];const _0x189a77=_0x460687-_0x349640;if(_0x189a77>_0x3d465f)return![];const _0x3beb15=_0x395e39(_0x271f81);if(_0x3beb15===!![])return!![];if(_0x3beb15===![])return _0x189a77<_0x2a339f;return _0x189a77<_0x2a9f2a;},_0x12590d=_0x1fa721=>{const _0x83ad79=_0x1ffe47,_0x3f405a=_0x1fa721?.['rootRecord'],_0x494cb6=_0x3f405a?.['entityRef']?.[_0x83ad79(0x319)]?.(),_0x795369=_0x439605(_0x1fa721);if(_0x795369===_0xc4be5e)return _0x220d03;if(_0x795369===_0x2a2b4e&&_0x494cb6){const _0x1a66b7=Date[_0x83ad79(0x205)](),_0x3e816e=_0x537a95(_0x3f405a,_0x494cb6);if(_0x517fe3(_0x494cb6,_0x3e816e,_0x1a66b7))return _0x20defa;if((_0x3abb3d[_0x83ad79(0x3a3)](_0x494cb6)||0x0)>_0x1a66b7)return _0x8836bd;if(_0x5116b7(_0x494cb6))return _0x123a9c;}return _0x116859;},_0x57d44f=_0x19c7cf=>{const _0x3f15f5=_0x1ffe47,_0x594297=_0x19c7cf?.['rootRecord'],_0x513d4b=_0x594297?.[_0x3f15f5(0x338)]?.[_0x3f15f5(0x319)]?.();if(!_0x513d4b)return![];return _0x439605(_0x19c7cf)===_0x2a2b4e&&(_0x3abb3d[_0x3f15f5(0x3a3)](_0x513d4b)||0x0)>Date[_0x3f15f5(0x205)]();},_0x39ed69=_0x110e74=>{const _0x10ba90=_0x1ffe47,_0x3a9756=_0x110e74?.['rootRecord'],_0x38025e=_0x3a9756?.['entityRef']?.[_0x10ba90(0x319)]?.();if(!_0x38025e)return![];return _0x439605(_0x110e74)===_0xc4be5e&&(_0x26e3fb[_0x10ba90(0x3a3)](_0x38025e)||0x0)>Date['now']();},_0xe2b121=(_0x2ceb7d,_0x2c1d6a,_0x3ec86a)=>{const _0x532c8a=_0x1ffe47;if(!_0x2eb2c5||!_0x1f26c2)return _0x2c1d6a;const _0x1acee8=_0x1b326a(_0x3ec86a?.[_0x532c8a(0x1eb)]);if(_0x1acee8){if(_0x2ceb7d===_0x532c8a(0x1bf)||_0x2ceb7d==='thick')return![];return _0x2c1d6a;}if(_0x39ed69(_0x3ec86a))return _0x2c1d6a;if(!_0xd72f16&&_0x439605(_0x3ec86a)===_0xc4be5e){if(_0x2ceb7d===_0x532c8a(0x1bf)||_0x2ceb7d===_0x532c8a(0x360))return![];return _0x2c1d6a;}if(_0x2ceb7d===_0x532c8a(0x1bf))return!![];if(_0x2ceb7d==='thick')return _0x57d44f(_0x3ec86a);if(_0x2ceb7d===_0x532c8a(0x20e))return _0x12590d(_0x3ec86a);return _0x2c1d6a;},_0x32097a=_0x391907=>{const _0xcab5eb=_0x1ffe47;if(!_0x39c3b6(_0x391907)||typeof _0x391907['e1']!==_0xcab5eb(0x2b9)||typeof _0x391907['g1']!==_0xcab5eb(0x2b9))return[];try{const _0x4be68c=Number(_0x391907['e1']());if(!Number[_0xcab5eb(0x228)](_0x4be68c)||_0x4be68c<0x0||_0x4be68c>0x800)return[];const _0x548940=[];for(let _0x27a928=0x0;_0x27a928<_0x4be68c;_0x27a928+=0x1){const _0x228ba6=_0x391907['g1'](_0x27a928);if(_0x39c3b6(_0x228ba6))_0x548940[_0xcab5eb(0x2c3)](_0x228ba6);}return _0x548940;}catch(_0x3534c7){return[];}},_0x167c45=_0x2a4593=>{const _0x5dcd07=_0x1ffe47;if(!_0x2a4593)return![];const _0x4fa318=_0x2a4593['entityRef']?.['deref']?.();if(_0x4fa318)_0x2a4593[_0x5dcd07(0x2f7)]=_0x88f71[_0x5dcd07(0x3a3)](_0x4fa318)||_0x2a4593['team']||_0x4408a7;return _0x2a4593[_0x5dcd07(0x2f7)]===_0x2a2b4e&&_0x374552(_0x2a4593);},_0x99802b=(_0xf17852,_0x11b72c)=>{const _0x3135c9=_0x1ffe47;if(!_0x47e3a6(_0xf17852))return{'nodes':0x0};const _0x3bba52=new WeakSet(),_0x164c87=[_0xf17852];let _0xf3e55=0x0;while(_0x164c87['length']>0x0&&_0xf3e55<0x800){const _0x5d9fbb=_0x164c87[_0x3135c9(0x31a)]();if(!_0x39c3b6(_0x5d9fbb)||_0x3bba52['has'](_0x5d9fbb))continue;_0x3bba52[_0x3135c9(0x389)](_0x5d9fbb),_0xf3e55+=0x1;for(const _0x2d90ae of _0x32097a(_0x5d9fbb['p35_1']))_0x164c87[_0x3135c9(0x2c3)](_0x2d90ae);for(const _0xcfc1f2 of _0x32097a(_0x5d9fbb['q4x_1']))_0x164c87['push'](_0xcfc1f2);}return _0x11b72c[_0x3135c9(0x202)]=Date['now'](),_0x11b72c['nodeCount']=_0xf3e55,{'nodes':_0xf3e55};},_0x42564a=(_0x451710,_0x1a4595)=>{const _0x2dea8c=_0x1ffe47;if(!_0x47e3a6(_0x1a4595))return _0x1a4595;let _0x588178=_0x50ebde[_0x2dea8c(0x3a3)](_0x1a4595);if(!_0x588178)_0x588178={'rootRef':_0x42137b(_0x1a4595),'ownerRef':_0x39c3b6(_0x451710)?_0x42137b(_0x451710):null,'entityRef':null,'team':_0x4408a7,'capturedAt':Date[_0x2dea8c(0x205)](),'lastScanAt':null,'nodeCount':0x0},_0x50ebde[_0x2dea8c(0x2b0)](_0x1a4595,_0x588178),_0x4cb5a7[_0x2dea8c(0x2c3)](_0x588178);else _0x39c3b6(_0x451710)&&(_0x588178[_0x2dea8c(0x242)]=_0x42137b(_0x451710));const _0x45559=_0x4fcbaa(_0x451710);_0x45559&&(_0x588178[_0x2dea8c(0x338)]=_0x42137b(_0x45559),_0x588178[_0x2dea8c(0x2f7)]=_0x88f71[_0x2dea8c(0x3a3)](_0x45559)||_0x588178[_0x2dea8c(0x2f7)],_0xcba6ae(_0x45559));try{const _0x223db8=_0x99802b(_0x1a4595,_0x588178);_0x588178['nodeCount']=_0x223db8[_0x2dea8c(0x2fb)];}catch(_0xdee96){}return _0x1ed78d('title-root-captured'),_0x1a4595;},_0x420df7=(_0xb3dd0a,_0x4d3d5e)=>{const _0x4eeebc=_0x1ffe47;if(!_0x47e3a6(_0x4d3d5e))return _0x4d3d5e;let _0x4eb180=_0x5267e0[_0x4eeebc(0x3a3)](_0x4d3d5e);if(!_0x4eb180)_0x4eb180={'rootRef':_0x42137b(_0x4d3d5e),'ownerRef':_0x39c3b6(_0xb3dd0a)?_0x42137b(_0xb3dd0a):null,'entityRef':null,'team':_0x4408a7,'capturedAt':Date[_0x4eeebc(0x205)](),'lastScanAt':null,'nodeCount':0x0},_0x5267e0[_0x4eeebc(0x2b0)](_0x4d3d5e,_0x4eb180),_0x46fd49[_0x4eeebc(0x2c3)](_0x4eb180);else _0x39c3b6(_0xb3dd0a)&&(_0x4eb180[_0x4eeebc(0x242)]=_0x42137b(_0xb3dd0a));const _0x7f56b8=_0x4fcbaa(_0xb3dd0a);return _0x7f56b8&&(_0x4eb180[_0x4eeebc(0x338)]=_0x42137b(_0x7f56b8),_0x4eb180['team']=_0x88f71[_0x4eeebc(0x3a3)](_0x7f56b8)||_0x4eb180[_0x4eeebc(0x2f7)],_0xcba6ae(_0x7f56b8)),_0x99802b(_0x4d3d5e,_0x4eb180),_0x1ed78d(_0x4eeebc(0x390)),_0x4d3d5e;},_0x32b8b0=(_0x57f5f4,_0x5db053,_0xee12dc)=>{const _0x1871f0=_0x1ffe47,_0x24e0da=Object[_0x1871f0(0x33a)](_0x57f5f4,_0x5db053[_0x1871f0(0x2e1)]);if(!_0x24e0da||!(_0x1871f0(0x3b9)in _0x24e0da)||_0x24e0da['configurable']===![])return![];let _0x48b0ee=_0x24e0da[_0x1871f0(0x3b9)];try{return Object[_0x1871f0(0x217)](_0x57f5f4,_0x5db053[_0x1871f0(0x2e1)],{'configurable':!![],'enumerable':_0x24e0da[_0x1871f0(0x2e3)]!==![],'get'(){const _0xda62a1=_0x1871f0,_0x550872=_0xe2b121(_0x5db053[_0xda62a1(0x2af)],_0x48b0ee,_0xee12dc);if(!Object['is'](_0x550872,_0x48b0ee))_0x5adc53+=0x1;return _0x550872;},'set'(_0x5e90e7){_0x48b0ee=_0x5e90e7,_0x54a426+=0x1;}}),_0xee12dc['fields'][_0x1871f0(0x389)](_0x5db053[_0x1871f0(0x2e1)]),!![];}catch(_0x21950b){return _0x58279b[_0x1871f0(0x2c3)]({'stage':_0x1871f0(0x1fa),'field':_0x5db053[_0x1871f0(0x2e1)],'message':String(_0x21950b?.[_0x1871f0(0x218)]||_0x21950b)}),![];}},_0x5829a2=_0x7c9dbb=>{const _0x1dd27d=_0x1ffe47;if(!_0x39c3b6(_0x7c9dbb))return null;let _0x3f7fbe=_0x8164a0[_0x1dd27d(0x3a3)](_0x7c9dbb);!_0x3f7fbe&&(_0x3f7fbe={'fields':new Set(),'kind':_0x1dd27d(0x3a2)},_0x8164a0['set'](_0x7c9dbb,_0x3f7fbe));for(const _0x3202b0 of _0x1d084e){const _0x1427e6=_0x3202b0['fields'][_0x1dd27d(0x3a6)](_0xc26134=>Object[_0x1dd27d(0x373)]['hasOwnProperty'][_0x1dd27d(0x265)](_0x7c9dbb,_0xc26134[_0x1dd27d(0x2e1)]));if(!_0x1427e6)continue;let _0x5b1a50=![];for(const _0x3af428 of _0x3202b0[_0x1dd27d(0x1e9)]){if(_0x3f7fbe[_0x1dd27d(0x1e9)][_0x1dd27d(0x1c6)](_0x3af428['field']))continue;_0x5b1a50=_0x32b8b0(_0x7c9dbb,_0x3af428,_0x3f7fbe)||_0x5b1a50;}if(_0x5b1a50&&_0x3f7fbe[_0x1dd27d(0x1f7)]===_0x1dd27d(0x3a2)){_0x3f7fbe['kind']=_0x3202b0[_0x1dd27d(0x1f7)];if(_0x3202b0[_0x1dd27d(0x1f7)]===_0x1dd27d(0x266))_0x5d9143+=0x1;else _0x44b641+=0x1;}}return!_0x46550e[_0x1dd27d(0x1c6)](_0x7c9dbb)&&(_0x46550e[_0x1dd27d(0x389)](_0x7c9dbb),_0x4f3e5b+=0x1),_0x3f7fbe;},_0x456726=(_0x4f69eb,_0x23edc0=null)=>{const _0x296f04=_0x1ffe47;if(!_0x47e3a6(_0x4f69eb))return{'nodes':0x0,'meshes':0x0,'lodGroups':0x0};const _0x5a4dd0=new WeakSet(),_0x80db95=[_0x4f69eb];let _0x2c0444=0x0,_0x6ccd3a=0x0,_0x2eac70=0x0;while(_0x80db95[_0x296f04(0x1f5)]>0x0&&_0x2c0444<0x1000){const _0x1f12d8=_0x80db95[_0x296f04(0x31a)]();if(!_0x39c3b6(_0x1f12d8)||_0x5a4dd0['has'](_0x1f12d8))continue;_0x5a4dd0[_0x296f04(0x389)](_0x1f12d8),_0x2c0444+=0x1;const _0x4d78ec=_0x5829a2(_0x1f12d8);if(_0x4d78ec&&_0x23edc0)_0x4d78ec[_0x296f04(0x1eb)]=_0x23edc0;if(_0x4d78ec?.[_0x296f04(0x1f7)]===_0x296f04(0x266))_0x6ccd3a+=0x1;else{if(_0x4d78ec?.['kind']===_0x296f04(0x3b0))_0x2eac70+=0x1;}for(const _0x2d73c1 of _0x32097a(_0x1f12d8[_0x296f04(0x1c3)]))_0x80db95[_0x296f04(0x2c3)](_0x2d73c1);for(const _0x5ec1dc of _0x32097a(_0x1f12d8[_0x296f04(0x225)]))_0x80db95[_0x296f04(0x2c3)](_0x5ec1dc);}return _0x23edc0&&(_0x23edc0[_0x296f04(0x202)]=Date[_0x296f04(0x205)](),_0x23edc0[_0x296f04(0x3b1)]=_0x2c0444,_0x23edc0[_0x296f04(0x312)]=_0x6ccd3a,_0x23edc0[_0x296f04(0x366)]=_0x2eac70),{'nodes':_0x2c0444,'meshes':_0x6ccd3a,'lodGroups':_0x2eac70};},_0x58e4b6=(_0x5dc9f2,_0x54fe06,_0x185b7e)=>{const _0x784334=_0x1ffe47;_0xc36882+=0x1;if(!_0x47e3a6(_0x5dc9f2))return![];let _0x53cb40=_0xd430b[_0x784334(0x3a3)](_0x5dc9f2);if(!_0x53cb40)_0x53cb40={'rootRef':_0x42137b(_0x5dc9f2),'ownerRef':_0x39c3b6(_0x185b7e)?_0x42137b(_0x185b7e):null,'entityRef':null,'team':_0x4408a7,'sources':new Set([_0x54fe06[_0x784334(0x2e1)]]),'label':_0x54fe06['label'],'capturedAt':Date['now'](),'lastScanAt':null,'nodeCount':0x0,'meshCount':0x0,'lodCount':0x0},_0xd430b['set'](_0x5dc9f2,_0x53cb40),_0x5928d7['push'](_0x53cb40),_0x31a627[_0x784334(0x389)](_0x5dc9f2),_0x467fc7+=0x1;else{_0x53cb40[_0x784334(0x3ad)][_0x784334(0x389)](_0x54fe06[_0x784334(0x2e1)]);if(_0x39c3b6(_0x185b7e))_0x53cb40[_0x784334(0x242)]=_0x42137b(_0x185b7e);}return _0x3593a0(_0x53cb40,_0x185b7e),_0x456726(_0x5dc9f2,_0x53cb40),_0x1ed78d('tank-root-captured'),!![];},_0xd234ff=_0x53cdc5=>{const _0x24626f=_0x1ffe47,_0x6747b0=Object[_0x24626f(0x33a)](Object['prototype'],_0x53cdc5[_0x24626f(0x2e1)]);if(_0x6747b0)return _0x58279b[_0x24626f(0x2c3)]({'stage':'root-hook','field':_0x53cdc5[_0x24626f(0x2e1)],'message':'Object.prototype\x20已存在同名字段，未覆盖'}),![];const _0x402117=function _0x1684b6(_0x2ec3fa){const _0x10321a=_0x24626f;let _0x305416=_0x2ec3fa;try{Object[_0x10321a(0x217)](this,_0x53cdc5[_0x10321a(0x2e1)],{'configurable':!![],'enumerable':!![],'get'(){return _0x305416;},'set'(_0x1707bf){_0x305416=_0x1707bf,_0x58e4b6(_0x1707bf,_0x53cdc5,this);}}),_0x58e4b6(_0x2ec3fa,_0x53cdc5,this);}catch(_0x10f7e8){_0x58279b[_0x10321a(0x2c3)]({'stage':_0x10321a(0x3c5),'field':_0x53cdc5[_0x10321a(0x2e1)],'message':String(_0x10f7e8?.[_0x10321a(0x218)]||_0x10f7e8)});}};Object[_0x24626f(0x217)](_0x402117,'__tankTacticalXrayHook',{'value':_0x5615d4});try{return Object['defineProperty'](Object['prototype'],_0x53cdc5[_0x24626f(0x2e1)],{'configurable':!![],'enumerable':![],'get':undefined,'set':_0x402117}),!![];}catch(_0x5d28ce){return _0x58279b[_0x24626f(0x2c3)]({'stage':_0x24626f(0x3c8),'field':_0x53cdc5[_0x24626f(0x2e1)],'message':String(_0x5d28ce?.[_0x24626f(0x218)]||_0x5d28ce)}),![];}},_0xd20bf1=_0x581805=>{const _0x218df4=_0x1ffe47;if(!_0x39c3b6(_0x581805))return null;let _0xd9050f=_0x383aea['get'](_0x581805);!_0xd9050f&&(_0xd9050f={'ownerRef':_0x42137b(_0x581805),'entityRef':null,'team':_0x4408a7,'nickname':'','capturedAt':Date[_0x218df4(0x205)](),'xrayForcedShown':![]},_0x383aea[_0x218df4(0x2b0)](_0x581805,_0xd9050f),_0x3dd308[_0x218df4(0x2c3)](_0xd9050f));const _0x12100e=_0x4fcbaa(_0x581805);return _0x12100e&&(_0xd9050f[_0x218df4(0x338)]=_0x42137b(_0x12100e),_0xd9050f[_0x218df4(0x2f7)]=_0x88f71[_0x218df4(0x3a3)](_0x12100e)||_0xd9050f[_0x218df4(0x2f7)]),_0xd9050f;},_0x15b9e8=(_0x27bdd3,_0x569428)=>{const _0x3f6835=_0x1ffe47,_0x2a32c8=_0x22edf1(_0x569428);if(_0x2a32c8===_0x4408a7)return _0x569428;_0x1c2fd0+=0x1;const _0x3f4ce9=_0xd20bf1(_0x27bdd3);if(_0x3f4ce9)_0x3f4ce9[_0x3f6835(0x2f7)]=_0x2a32c8;const _0x374d70=_0x4fcbaa(_0x27bdd3);if(_0x374d70){if(_0x3f4ce9)_0x3f4ce9['entityRef']=_0x42137b(_0x374d70);_0x271057(_0x374d70,_0x2a32c8);}return _0x1ed78d('team-relation-captured'),_0x569428;},_0xb0c922=(_0x35568,_0x3ce6e5)=>{const _0x2ab631=_0x1ffe47;if(typeof _0x3ce6e5!==_0x2ab631(0x1c7))return _0x3ce6e5;const _0x1b2fb6=_0xd20bf1(_0x35568);if(_0x1b2fb6)_0x1b2fb6[_0x2ab631(0x30c)]=_0x3ce6e5;return _0x3ce6e5;},_0x432daf=(_0xc07fd7,_0x340861)=>{const _0x5971cb=_0x1ffe47;if(!_0x39c3b6(_0x340861))return _0x340861;let _0x280165=null;for(const _0x1bfe6c of[_0x5971cb(0x1c9),'z176_1']){try{if(_0x47e3a6(_0x340861[_0x1bfe6c])){_0x280165=_0x340861[_0x1bfe6c];break;}}catch(_0x543ab3){}}if(!_0x47e3a6(_0x280165))return _0x340861;let _0x4af2e1=_0xd430b[_0x5971cb(0x3a3)](_0x280165);return!_0x4af2e1&&(_0x58e4b6(_0x280165,{'field':_0x5971cb(0x1ec),'label':'TrackedTankSkin.entityRoot'},_0xc07fd7),_0x4af2e1=_0xd430b['get'](_0x280165)),_0x4af2e1&&(_0x4af2e1[_0x5971cb(0x242)]=_0x42137b(_0xc07fd7),_0x3593a0(_0x4af2e1,_0xc07fd7),_0x456726(_0x280165,_0x4af2e1)),_0x1ed78d('tracked-root-associated'),_0x340861;},_0x528373=_0x2914f0=>{const _0x397596=_0x1ffe47,_0x4b81a2=_0xd20bf1(_0x2914f0);if(_0x4b81a2?.['team']&&_0x4b81a2[_0x397596(0x2f7)]!==_0x4408a7)return _0x4b81a2[_0x397596(0x2f7)];const _0x2d769c=_0x4fcbaa(_0x2914f0);if(_0x2d769c)return _0x88f71['get'](_0x2d769c)||_0x4408a7;return _0x4408a7;},_0xcd342a=(_0x37bb03,_0x71749a)=>{const _0x36b954=_0xd20bf1(_0x37bb03),_0x153e58=_0x528373(_0x37bb03),_0x27e606=_0x2eb2c5&&_0x5f1d36&&_0x153e58===_0x2a2b4e&&_0x374552(_0x36b954);return _0x25bc97=_0x27e606?{'owner':_0x37bb03,'expectedHidden':!Boolean(_0x71749a)}:null,_0x71749a;},_0x3e5d67=(_0x2ee75a,_0x2ac58e)=>{const _0x79b57e=_0x1ffe47,_0x293870=_0x25bc97;_0x25bc97=null;typeof _0x2ee75a?.[_0x79b57e(0x3d1)]==='function'&&_0x2ee75a['constructor']!==Object&&(_0x1af68b=_0x2ee75a[_0x79b57e(0x3d1)]);const _0x462f00=Number(_0x2ee75a?.[_0x79b57e(0x2ba)]??_0x2ee75a?.[_0x79b57e(0x1e4)]);if(!_0x293870||_0x462f00!==0x2||Boolean(_0x2ac58e)!==_0x293870['expectedHidden'])return _0x2ac58e;const _0x2bf189=_0xd20bf1(_0x293870[_0x79b57e(0x39f)]),_0xb61f07=_0x528373(_0x293870[_0x79b57e(0x39f)]);if(!_0x2eb2c5||!_0x5f1d36||_0xb61f07!==_0x2a2b4e||!_0x374552(_0x2bf189))return _0x2ac58e;return _0x65a9a8+=0x1,![];},_0x38b82a=(_0xf30cdb,_0x397ea9,_0x42728a)=>{const _0x423854=_0x1ffe47,_0x3fdc38=Object[_0x423854(0x33a)](Object[_0x423854(0x373)],_0xf30cdb);if(_0x3fdc38)return _0x58279b[_0x423854(0x2c3)]({'stage':_0x42728a,'field':_0xf30cdb,'message':_0x423854(0x283)}),![];const _0x58e6d4=function _0x2ea876(_0x2285dd){const _0x1e932b=_0x423854;let _0x4b269c=_0x2285dd;try{_0x4b269c=_0x397ea9(this,_0x2285dd),Object[_0x1e932b(0x217)](this,_0xf30cdb,{'configurable':!![],'enumerable':!![],'get'(){return _0x4b269c;},'set'(_0x2e04f2){_0x4b269c=_0x397ea9(this,_0x2e04f2);}});}catch(_0x3ca20f){_0x58279b[_0x1e932b(0x2c3)]({'stage':_0x42728a+'-instance','field':_0xf30cdb,'message':String(_0x3ca20f?.[_0x1e932b(0x218)]||_0x3ca20f)});try{Object[_0x1e932b(0x217)](this,_0xf30cdb,{'configurable':!![],'enumerable':!![],'writable':!![],'value':_0x2285dd});}catch(_0x35ec7a){}}};Object[_0x423854(0x217)](_0x58e6d4,'__tankTacticalXrayHook',{'value':_0x5615d4});try{return Object[_0x423854(0x217)](Object[_0x423854(0x373)],_0xf30cdb,{'configurable':!![],'enumerable':![],'get':undefined,'set':_0x58e6d4}),!![];}catch(_0x5c6dfc){return _0x58279b['push']({'stage':_0x42728a,'field':_0xf30cdb,'message':String(_0x5c6dfc?.['message']||_0x5c6dfc)}),![];}};let _0x91aa6f=0x0;for(const _0x17831e of _0x5205eb){if(_0xd234ff(_0x17831e))_0x91aa6f+=0x1;}const _0x2c12c3=(_0x8cb819,_0x3978ea,_0xb4f91d)=>{let _0x184f5e=0x0;for(const _0xf591f of _0x8cb819){if(_0x38b82a(_0xf591f,_0x3978ea,_0xb4f91d+':'+_0xf591f))_0x184f5e+=0x1;}return _0x184f5e;},_0x8936cd=_0x2c12c3(_0x27d69d,_0x15b9e8,_0x1ffe47(0x1fc)),_0x286b09=_0x2c12c3(_0x2c9c1c,_0xb0c922,_0x1ffe47(0x1fe)),_0x1c7c38=_0x2c12c3([_0x1ffe47(0x3bb),_0x1ffe47(0x2c1)],_0x432daf,'tracked-association-hook'),_0x3a3d48=_0x2c12c3(_0x91b8e9,_0x42564a,_0x1ffe47(0x3d7)),_0x1f8899=_0x2c12c3([_0x1ffe47(0x255),'a11l_1'],_0x420df7,_0x1ffe47(0x2ec)),_0x65ccc0=_0x2c12c3(_0x543dcd,_0xcd342a,_0x1ffe47(0x235)),_0x4166b7=_0x38b82a('d12b_1',_0x3e5d67,'title-event-hook'),_0x5f3e21=_0x8936cd>0x0,_0x3dbf27=_0x286b09>0x0,_0x5b435f=_0x1c7c38>0x0,_0x5344e3=_0x3a3d48>0x0,_0x357590=_0x1f8899>0x0,_0x24bc71=_0x65ccc0>0x0,_0x340af0=()=>{const _0x59182e=_0x1ffe47;let _0x1419e0=0x0,_0x3039dd=0x0,_0x4e45b2=0x0,_0x34140e=0x0,_0x1832d7=0x0,_0x1249af=0x0,_0xc5add0=0x0,_0x4a28ca=0x0,_0x147895=0x0,_0x3438dd=0x0;for(let _0x3fe124=_0x5928d7['length']-0x1;_0x3fe124>=0x0;_0x3fe124-=0x1){const _0x1baad9=_0x5928d7[_0x3fe124],_0x5e8194=_0x1baad9[_0x59182e(0x284)]['deref']();if(!_0x5e8194){_0x5928d7['splice'](_0x3fe124,0x1);continue;}const _0x47ee1f=_0x1baad9[_0x59182e(0x242)]?.[_0x59182e(0x319)]?.();let _0x2ed64e=_0x1baad9['entityRef']?.['deref']?.();!_0x2ed64e&&_0x47ee1f&&(_0x3593a0(_0x1baad9,_0x47ee1f),_0x2ed64e=_0x1baad9[_0x59182e(0x338)]?.['deref']?.());if(_0x2ed64e)_0x1baad9[_0x59182e(0x2f7)]=_0x88f71[_0x59182e(0x3a3)](_0x2ed64e)||_0x1baad9['team']||_0x4408a7;_0x1419e0+=0x1;const _0x5e5248=_0x1b326a(_0x1baad9);if(_0x5e5248===_0x59182e(0x362))_0x4e45b2+=0x1;else{if(_0x5e5248===_0x59182e(0x2e6))_0x34140e+=0x1;else{_0x3039dd+=0x1;if(_0x1baad9[_0x59182e(0x2f7)]===_0xc4be5e)_0x4a28ca+=0x1;else{if(_0x1baad9[_0x59182e(0x2f7)]===_0x2a2b4e)_0x147895+=0x1;else _0x3438dd+=0x1;}}}const _0x1624df=_0x456726(_0x5e8194,_0x1baad9);_0x1832d7+=_0x1624df[_0x59182e(0x2fb)],_0x1249af+=_0x1624df['meshes'],_0xc5add0+=_0x1624df[_0x59182e(0x318)];}let _0x3b1096=0x0,_0x64bf7f=0x0;for(let _0x5f5b03=_0x3dd308[_0x59182e(0x1f5)]-0x1;_0x5f5b03>=0x0;_0x5f5b03-=0x1){const _0x236389=_0x3dd308[_0x5f5b03],_0x38d6aa=_0x236389['ownerRef'][_0x59182e(0x319)]();if(!_0x38d6aa){_0x3dd308[_0x59182e(0x1dc)](_0x5f5b03,0x1);continue;}_0x3b1096+=0x1;const _0xe78949=_0x236389['entityRef']?.[_0x59182e(0x319)]?.()||_0x4fcbaa(_0x38d6aa);_0xe78949&&(_0x236389[_0x59182e(0x338)]=_0x42137b(_0xe78949),_0x236389[_0x59182e(0x2f7)]=_0x88f71[_0x59182e(0x3a3)](_0xe78949)||_0x236389['team']);if(_0x236389['team']===_0x2a2b4e&&_0x374552(_0x236389))_0x64bf7f+=0x1;}let _0x206df0=0x0,_0x2cd6a1=0x0;for(let _0x3508e0=_0x4cb5a7[_0x59182e(0x1f5)]-0x1;_0x3508e0>=0x0;_0x3508e0-=0x1){const _0xc870bb=_0x4cb5a7[_0x3508e0],_0x169c7f=_0xc870bb[_0x59182e(0x284)][_0x59182e(0x319)]();if(!_0x169c7f){_0x4cb5a7[_0x59182e(0x1dc)](_0x3508e0,0x1);continue;}_0x206df0+=0x1;const _0x5c7735=_0xc870bb['ownerRef']?.[_0x59182e(0x319)]?.(),_0x4872bc=_0xc870bb[_0x59182e(0x338)]?.['deref']?.()||_0x4fcbaa(_0x5c7735);_0x4872bc&&(_0xc870bb[_0x59182e(0x338)]=_0x42137b(_0x4872bc),_0xc870bb[_0x59182e(0x2f7)]=_0x88f71['get'](_0x4872bc)||_0xc870bb[_0x59182e(0x2f7)]);if(_0xc870bb['team']===_0x2a2b4e&&_0x374552(_0xc870bb))_0x2cd6a1+=0x1;try{const _0x5b086c=_0xc870bb[_0x59182e(0x284)][_0x59182e(0x319)]();if(_0x5b086c)_0x99802b(_0x5b086c,_0xc870bb);}catch(_0x229022){}}let _0x17330e=0x0,_0x123870=0x0;for(let _0x2ec380=_0x46fd49[_0x59182e(0x1f5)]-0x1;_0x2ec380>=0x0;_0x2ec380-=0x1){const _0x5401de=_0x46fd49[_0x2ec380],_0x2b1880=_0x5401de[_0x59182e(0x284)][_0x59182e(0x319)]();if(!_0x2b1880){_0x46fd49['splice'](_0x2ec380,0x1);continue;}_0x17330e+=0x1;const _0x225721=_0x5401de['ownerRef']?.[_0x59182e(0x319)]?.(),_0x547477=_0x5401de['entityRef']?.[_0x59182e(0x319)]?.()||_0x4fcbaa(_0x225721);_0x547477&&(_0x5401de[_0x59182e(0x338)]=_0x42137b(_0x547477),_0x5401de[_0x59182e(0x2f7)]=_0x88f71[_0x59182e(0x3a3)](_0x547477)||_0x5401de['team']);if(_0x5401de[_0x59182e(0x2f7)]===_0x2a2b4e&&_0x374552(_0x5401de))_0x123870+=0x1;_0x99802b(_0x2b1880,_0x5401de);}let _0x4b23b5=0x0,_0x10ad93=0x0,_0x59bf21=0x0;const _0x50bf55=Date[_0x59182e(0x205)]();for(const _0x5f01b5 of _0x5928d7){const _0x24126c=_0x5f01b5['entityRef']?.[_0x59182e(0x319)]?.();if(_0x5f01b5[_0x59182e(0x2f7)]===_0x2a2b4e&&_0x374552(_0x5f01b5)&&_0x24126c){_0xcba6ae(_0x24126c);const _0x1eafe1=_0x537a95(_0x5f01b5,_0x24126c);if(_0x517fe3(_0x24126c,_0x1eafe1,_0x50bf55))_0x10ad93+=0x1;if((_0x3abb3d[_0x59182e(0x3a3)](_0x24126c)||0x0)>_0x50bf55)_0x4b23b5+=0x1;if(_0x5116b7(_0x24126c))_0x59bf21+=0x1;}}return{'liveRoots':_0x1419e0,'eligibleRoots':_0x3039dd,'excludedLocalCount':_0x4e45b2,'excludedDeadCount':_0x34140e,'nodes':_0x1832d7,'meshes':_0x1249af,'lodGroups':_0xc5add0,'allyCount':_0x4a28ca,'enemyCount':_0x147895,'unknownCount':_0x3438dd,'liveTitleCount':_0x3b1096,'enemyTitleCount':_0x64bf7f,'liveTitleRootCount':_0x206df0,'enemyTitleRootCount':_0x2cd6a1,'liveNicknameNodeCount':_0x17330e,'enemyNicknameNodeCount':_0x123870,'hittableEnemyCount':_0x4b23b5,'invincibleEnemyCount':_0x10ad93,'botEnemyCount':_0x59bf21};},_0x4c4767=_0x55a2e1=>{const _0x6bdbe5=_0x1ffe47;if(!_0x39c3b6(_0x55a2e1))return!![];for(const _0x3a6577 of _0x543dcd){try{if(typeof _0x55a2e1[_0x3a6577]===_0x6bdbe5(0x361))return _0x55a2e1[_0x3a6577];}catch(_0x20f470){}}return!![];},_0x4b879c=(_0xef7de4,_0x56108c)=>{const _0x39fae4=_0x1ffe47;if(!_0x39c3b6(_0xef7de4)||!_0x39c3b6(_0x56108c))return![];const _0x97e4c8=_0x4a245d=>{const _0x468083=_0x3d78,_0x5d952b=_0xef7de4[_0x4a245d];if(typeof _0x5d952b!=='function')return![];const _0x340378=typeof _0x5d952b[_0x468083(0x1cf)]===_0x468083(0x2b9)?_0x5d952b[_0x468083(0x1cf)]:_0x5d952b;try{return _0x340378[_0x468083(0x265)](_0xef7de4,_0x56108c),!![];}catch(_0x199e73){return![];}};return _0x97e4c8(_0x39fae4(0x2e8))||_0x97e4c8(_0x39fae4(0x2c7));},_0x39fe22=_0x4f4c26=>{const _0x1d41f7=_0x1ffe47;if(!_0x39c3b6(_0x4f4c26))return null;const _0x5c01ee=Number(_0x4f4c26[_0x1d41f7(0x396)]);if(Number['isInteger'](_0x5c01ee)&&_0x5c01ee>=0x0&&_0x5c01ee<=0xffffff)return{'active':!![],'color':_0x5c01ee};let _0x1f343b='';try{_0x1f343b=String(_0x4f4c26[_0x1d41f7(0x3d1)]?.[_0x1d41f7(0x24a)]||'');}catch(_0x56c54a){}if(_0x1f343b==='tDt')return{'active':![],'color':null};return null;},_0x541237=_0xee12b1=>{const _0x3a7e84=_0x1ffe47;if(!_0x39c3b6(_0xee12b1))return null;const _0x2361e2=Number(_0xee12b1[_0x3a7e84(0x1e4)]??_0xee12b1['c12b_1']);if(_0x2361e2!==0x2)return null;const _0x4165d2='j12e_1'in _0xee12b1,_0x32df9f=_0x3a7e84(0x33e)in _0xee12b1;if(!_0x4165d2&&!_0x32df9f)return null;const _0x2bc4c1=_0x4165d2?Boolean(_0xee12b1[_0x3a7e84(0x33c)]):Boolean(_0xee12b1['d12b_1']);return{'hidden':_0x2bc4c1};},_0xcba6ae=_0x2da094=>{const _0x230882=_0x1ffe47;if(!_0x39c3b6(_0x2da094)||_0x2da094[_0x230882(0x2fe)]===_0x5615d4)return;const _0x3ff61e=typeof _0x2da094[_0x230882(0x2e8)]===_0x230882(0x2b9)?_0x230882(0x2e8):typeof _0x2da094['cyw']==='function'?'cyw':null;if(!_0x3ff61e)return;const _0x3bf87f=_0x2da094[_0x3ff61e];try{const _0x580af6=function _0x8f7564(_0x70fbc3){const _0x386864=_0x230882;try{const _0x386841=_0x39fe22(_0x70fbc3);if(_0x386841){_0x330072+=0x1;const _0x39a135=(_0x88f71[_0x386864(0x3a3)](_0x2da094)||_0x4408a7)===_0xc4be5e;if(_0x386841[_0x386864(0x337)]){const _0xc30819=Date[_0x386864(0x205)]()+_0x15aa7f;_0x39a135?_0x26e3fb[_0x386864(0x2b0)](_0x2da094,_0xc30819):_0x3abb3d[_0x386864(0x2b0)](_0x2da094,_0xc30819);}else _0x3abb3d['delete'](_0x2da094),_0x26e3fb[_0x386864(0x398)](_0x2da094);_0x1ed78d(_0x386864(0x313));}const _0x5d27cd=_0x541237(_0x70fbc3);if(_0x5d27cd&&_0x5d27cd[_0x386864(0x35f)]){const _0x5e8a80=_0x88f71[_0x386864(0x3a3)](_0x2da094)||_0x4408a7,_0x454c26=_0x1cbe7e[_0x386864(0x3a3)](_0x2da094);let _0x21910f=![];if(_0x454c26)for(const _0x5800c1 of _0x454c26){if(_0x374552(_0x5800c1)){_0x21910f=!![];break;}}if(_0x2eb2c5&&_0x5f1d36&&_0x5e8a80===_0x2a2b4e&&_0x21910f){_0x65a9a8+=0x1;if(_0x386864(0x33c)in _0x70fbc3)_0x70fbc3[_0x386864(0x33c)]=![];if('d12b_1'in _0x70fbc3)_0x70fbc3[_0x386864(0x33e)]=![];}}}catch(_0x356199){}return _0x3bf87f['call'](this,_0x70fbc3);};_0x580af6[_0x230882(0x1cf)]=_0x3bf87f,Object[_0x230882(0x217)](_0x2da094,_0x3ff61e,{'configurable':!![],'enumerable':![],'writable':!![],'value':_0x580af6}),_0x2da094[_0x230882(0x2fe)]=_0x5615d4,_0x4bcdf1+=0x1;}catch(_0x4ef02e){_0x58279b['push']({'stage':_0x230882(0x2ea),'field':_0x3ff61e,'message':String(_0x4ef02e?.[_0x230882(0x218)]||_0x4ef02e)});}},_0x3990d0=_0x5ab73b=>{const _0x2e496e=_0x1ffe47;_0x25bc97=null;const _0x3e84b1=_0x3de201=>{const _0x45f321=_0x3d78;if(typeof _0x1af68b===_0x45f321(0x2b9))try{return new _0x1af68b(0x2,_0x3de201);}catch(_0x1535e1){}return{'i12e_1':0x2,'j12e_1':_0x3de201,'c12b_1':0x2,'d12b_1':_0x3de201};};let _0xe0e475=0x0;for(const _0x16b7ee of _0x3dd308){const _0x407e0a=_0x16b7ee[_0x2e496e(0x242)][_0x2e496e(0x319)]();if(!_0x407e0a)continue;const _0x4c9f0e=_0x16b7ee[_0x2e496e(0x2f7)]===_0x2a2b4e&&_0x374552(_0x16b7ee);if(!_0x5ab73b){if(_0x16b7ee[_0x2e496e(0x350)]){const _0x47ec95=_0x16b7ee['entityRef']?.[_0x2e496e(0x319)]?.()||_0x4fcbaa(_0x407e0a),_0x265175=_0x4c4767(_0x407e0a);if(_0x47ec95&&!_0x265175)try{const _0x4a044e=_0x3e84b1(!![]);if(_0x4b879c(_0x47ec95,_0x4a044e))_0xe0e475+=0x1;}catch(_0x2420c7){}}_0x16b7ee[_0x2e496e(0x350)]=![];continue;}if(!_0x4c9f0e)continue;const _0x3b5869=_0x16b7ee[_0x2e496e(0x338)]?.['deref']?.()||_0x4fcbaa(_0x407e0a);if(!_0x3b5869)continue;_0xcba6ae(_0x3b5869);const _0x25d284=Date[_0x2e496e(0x205)](),_0x4174b1=_0x16b7ee['xrayForcedShown']&&_0x25d284-(_0x16b7ee['lastForceShowAt']||0x0)<_0x30e102;if(_0x4174b1)continue;const _0x294664=_0x4c4767(_0x407e0a);if(_0x16b7ee[_0x2e496e(0x350)]&&_0x294664){_0x16b7ee['lastForceShowAt']=_0x25d284;continue;}try{const _0x13a6e3=_0x3e84b1(![]);_0x4b879c(_0x3b5869,_0x13a6e3)&&(_0xe0e475+=0x1,_0x16b7ee[_0x2e496e(0x350)]=!![],_0x16b7ee[_0x2e496e(0x365)]=_0x25d284);}catch(_0x5729c2){}}return _0x2e2abd+=_0xe0e475,_0xe0e475;},_0x4de3f8=_0x10d463=>{const _0x36da37=_0x1ffe47;if(!_0x2eb2c5||!_0x1f26c2)return _0x36da37(0x295);if(_0x10d463[_0x36da37(0x3ce)]<=0x0){if(_0x10d463[_0x36da37(0x28c)]>0x0)return _0x36da37(0x2a9)+_0x10d463[_0x36da37(0x2c6)]+_0x36da37(0x2dc)+_0x10d463[_0x36da37(0x28d)]+'）';return'精细轮廓已启动，正在等待坦克模型生成';}const _0x55818e='敌\x20'+_0x10d463['enemyCount']+_0x36da37(0x2b5)+_0x10d463[_0x36da37(0x249)],_0x5ef5af=_0x10d463[_0x36da37(0x37a)]>0x0?_0x36da37(0x232)+_0x10d463[_0x36da37(0x37a)]:'',_0x146d6d=_0x10d463[_0x36da37(0x2c6)]+_0x10d463[_0x36da37(0x28d)]>0x0?_0x36da37(0x3c9)+_0x10d463[_0x36da37(0x2c6)]+'\x20/\x20残骸\x20'+_0x10d463[_0x36da37(0x28d)]:'';return _0x36da37(0x304)+_0x10d463[_0x36da37(0x3ce)]+_0x36da37(0x248)+_0x55818e+_0x5ef5af+_0x146d6d+'）';},_0x150a68=(_0x172c34=_0x424b33)=>{const _0x4b1705=_0x1ffe47,_0xc1c09=_0x340af0(),_0x51bf42=_0x91aa6f>0x0,_0x1dda3a=_0x5f3e21&&_0x5b435f,_0x1ff4b9=_0x5f3e21&&_0x5344e3&&(_0x24bc71||_0x4166b7),_0x4378b8=_0x51bf42&&_0x2eb2c5&&_0x1f26c2,_0x151ec5={'version':_0x5615d4,'adapterName':_0x1746a3,'available':_0x51bf42,'enabled':_0x4378b8,'allyOutlineEnabled':_0x2eb2c5&&_0xd72f16,'targetCount':_0xc1c09[_0x4b1705(0x3b3)],'totalLiveRootCount':_0xc1c09['liveRoots'],'excludedLocalCount':_0xc1c09[_0x4b1705(0x2c6)],'excludedDeadCount':_0xc1c09[_0x4b1705(0x28d)],'outlineStyle':_0x4b1705(0x372),'nodeCount':_0xc1c09[_0x4b1705(0x2fb)],'meshCount':_0xc1c09[_0x4b1705(0x1ce)],'lodCount':_0xc1c09[_0x4b1705(0x318)],'allyCount':_0xc1c09['allyCount'],'enemyCount':_0xc1c09[_0x4b1705(0x212)],'unknownCount':_0xc1c09['unknownCount'],'titleCount':_0xc1c09[_0x4b1705(0x277)],'enemyTitleCount':_0xc1c09['enemyTitleCount'],'titleRootCount':_0xc1c09[_0x4b1705(0x1d6)],'enemyTitleRootCount':_0xc1c09[_0x4b1705(0x234)],'nicknameNodeCount':_0xc1c09[_0x4b1705(0x2a3)],'enemyNicknameNodeCount':_0xc1c09['enemyNicknameNodeCount'],'hittableEnemyCount':_0xc1c09['hittableEnemyCount'],'invincibleEnemyCount':_0xc1c09[_0x4b1705(0x336)],'botEnemyCount':_0xc1c09['botEnemyCount'],'allyColor':_0x220d03,'enemyColor':_0x116859,'hittableColor':_0x8836bd,'invincibleColor':_0x20defa,'botColor':_0x123a9c,'teamColorsAvailable':_0x1dda3a,'distantEnemyIdsAvailable':_0x1ff4b9,'idXrayAvailable':_0x1ff4b9,'idEnabled':_0x1ff4b9&&_0x2eb2c5&&_0x5f1d36,'nativeStages':['OutlineStencil',_0x4b1705(0x3c3)],'depthTestDisabledInOutlineStage':!![],'rootFields':_0x5205eb[_0x4b1705(0x2d6)](_0x4842b1=>_0x4842b1['field']),'titleRootFields':[..._0x91b8e9],'teamRelationFields':[..._0x27d69d],'nicknameFields':[..._0x2c9c1c],'titleVisibleFields':[..._0x543dcd],'hookStatus':{'installedRootHookCount':_0x91aa6f,'rootHookTotal':_0x5205eb[_0x4b1705(0x1f5)],'teamRelationHookCount':_0x8936cd,'nicknameHookCount':_0x286b09,'trackedAssociationHookCount':_0x1c7c38,'titleRootHookCount':_0x3a3d48,'nicknameNodeHookCount':_0x1f8899,'titleStateHookCount':_0x65ccc0,'titleEventHookInstalled':_0x4166b7},'capturedRootCount':_0x467fc7,'rootAssignments':_0xc36882,'instrumentedNodeCount':_0x4f3e5b,'instrumentedMeshCount':_0x5d9143,'instrumentedLodCount':_0x44b641,'overrideReads':_0x5adc53,'fieldAssignments':_0x54a426,'teamAssignments':_0x1c2fd0,'enemyTitleOverrideEvents':_0x65a9a8,'titleVisibilityDispatches':_0x2e2abd,'targetVisualEvents':_0x64eaf8,'targetBusEvents':_0x330072,'instrumentedEntityBusCount':_0x4bcdf1,'changedAt':_0x23b252,'reason':_0x172c34,'hookErrors':_0x58279b[_0x4b1705(0x2d6)](_0xab77ae=>({..._0xab77ae})),'error':_0x51bf42?'':_0x4b1705(0x2c8)};return _0x151ec5[_0x4b1705(0x1e8)]=_0x4de3f8(_0x151ec5),_0x151ec5;},_0x4a8c99=(_0x567727=_0x424b33,_0x3480cc=null,_0x4a7199=![])=>{const _0x319302=_0x1ffe47,_0x4aef85=_0x150a68(_0x567727);if(_0x2eb2c5&&_0x5f1d36&&_0x4aef85[_0x319302(0x27a)]>0x0)try{_0x3990d0(!![]);}catch(_0x1ec80a){}const _0x1da7ff=[_0x4aef85['enabled'],_0x4aef85[_0x319302(0x23e)],_0x4aef85[_0x319302(0x353)],_0x4aef85[_0x319302(0x3ce)],_0x4aef85[_0x319302(0x3b1)],_0x4aef85['meshCount'],_0x4aef85[_0x319302(0x212)],_0x4aef85['allyCount'],_0x4aef85['unknownCount'],_0x4aef85[_0x319302(0x37a)],_0x4aef85[_0x319302(0x287)],_0x4aef85[_0x319302(0x27a)],_0x4aef85[_0x319302(0x2c6)],_0x4aef85[_0x319302(0x28d)],_0x4aef85[_0x319302(0x29e)]]['join']('|');if(!_0x4a7199&&_0x1da7ff===_0x4e2506)return _0x4aef85;_0x4e2506=_0x1da7ff;try{_0x7472c7[_0x319302(0x275)](new CustomEvent(_0x145e9b,{'detail':{..._0x4aef85,..._0x3480cc==null?{}:{'requestId':_0x3480cc}}}));}catch(_0x3fe1ea){}return _0x4aef85;};function _0x1ed78d(_0x47e66a=_0x424b33){const _0x4656eb=_0x1ffe47;_0x424b33=_0x47e66a;if(_0x1954f3!=null)return;_0x1954f3=_0x7472c7[_0x4656eb(0x214)](()=>{_0x1954f3=null,_0x4a8c99(_0x47e66a);},0x0);}const _0x353eed=()=>{if(_0x9a3b32!=null)_0x7472c7['clearInterval'](_0x9a3b32);_0x9a3b32=null;},_0x2a233b=()=>{const _0x2284e5=_0x1ffe47;if(_0x9a3b32!=null||!_0x2eb2c5||!_0x1f26c2&&!_0x5f1d36)return;_0x9a3b32=_0x7472c7[_0x2284e5(0x24d)](()=>_0x4a8c99(_0x2284e5(0x1f3)),_0x1fad52);},_0x4b2fd9=(_0x2915b1,_0x2b13e5={})=>{const _0x33fded=_0x1ffe47;_0x1f26c2=Boolean(_0x2915b1),_0x2eb2c5=!![],_0x23b252=Date[_0x33fded(0x205)](),_0x424b33=String(_0x2b13e5[_0x33fded(0x22d)]||(_0x1f26c2?_0x33fded(0x25a):_0x33fded(0x239)));if(_0x1f26c2)_0x2a233b();else{if(!_0x5f1d36)_0x353eed();}return _0x4a8c99(_0x424b33,_0x2b13e5['requestId'],!![]);},_0xd8d119=(_0x13aa4a,_0x4d08c5={})=>{const _0x52a097=_0x1ffe47;_0x5f1d36=Boolean(_0x13aa4a),_0x2eb2c5=!![],_0x23b252=Date[_0x52a097(0x205)](),_0x424b33=String(_0x4d08c5[_0x52a097(0x22d)]||(_0x5f1d36?'enable-id-xray':_0x52a097(0x1e3)));if(_0x5f1d36)_0x2a233b(),_0x7472c7[_0x52a097(0x214)](()=>{if(_0x2eb2c5&&_0x5f1d36)_0x3990d0(!![]);},0x0);else{try{_0x3990d0(![]);}catch(_0x1fe2e9){}if(!_0x1f26c2)_0x353eed();}return _0x4a8c99(_0x424b33,_0x4d08c5[_0x52a097(0x26e)],!![]);},_0x56cbfd=(_0x3ecfeb,_0x2a4034={})=>{const _0x4058d9=_0x1ffe47;return _0xd72f16=Boolean(_0x3ecfeb),_0x2eb2c5=!![],_0x23b252=Date[_0x4058d9(0x205)](),_0x424b33=String(_0x2a4034['reason']||(_0xd72f16?_0x4058d9(0x1d2):_0x4058d9(0x21d))),_0x4a8c99(_0x424b33,_0x2a4034[_0x4058d9(0x26e)],!![]);},_0x349f7d=_0x44e1db=>{const _0x369cb4=_0x1ffe47,_0xc16346=_0x44e1db?.[_0x369cb4(0x29c)],_0x59febb=_0xc16346?.[_0x369cb4(0x28a)];if(!_0x39c3b6(_0x59febb))return;_0x64eaf8+=0x1,_0xc16346['damaging']===!![]&&_0xc16346['active']!==![]?_0x3abb3d[_0x369cb4(0x2b0)](_0x59febb,Date[_0x369cb4(0x205)]()+_0x15aa7f):_0x3abb3d[_0x369cb4(0x398)](_0x59febb),_0x1ed78d(_0x369cb4(0x2f6));};_0x7472c7['addEventListener'](_0x3de01b,_0x349f7d);const _0x4fa0b5=_0x1e5abe=>{const _0x2c172e=_0x1ffe47,_0x58eebf=_0x1e5abe?.[_0x2c172e(0x29c)];if(!_0x58eebf||typeof _0x58eebf!==_0x2c172e(0x369))return;let _0x4edaca;typeof _0x58eebf[_0x2c172e(0x22b)]==='boolean'?_0x4edaca=_0x56cbfd(_0x58eebf['allyOutline'],_0x58eebf):_0x4edaca=_0x4b2fd9(_0x58eebf[_0x2c172e(0x1bf)],_0x58eebf);try{_0x58eebf[_0x2c172e(0x2a2)]?.(_0x4edaca);}catch(_0x139ad0){}};_0x7472c7[_0x1ffe47(0x364)](_0x41d5b9,_0x4fa0b5);const _0x5afa5e={'version':_0x5615d4,'adapterName':_0x1746a3,'setPersistentEnabled':_0x4b2fd9,'setEnabled':_0x4b2fd9,'setIdEnabled':_0xd8d119,'setAllyOutlineEnabled':_0x56cbfd,'enableIds':(_0x1c2485={})=>_0xd8d119(!![],_0x1c2485),'disableIds':(_0x181573={})=>_0xd8d119(![],_0x181573),'enable':(_0x44c135={})=>_0x4b2fd9(!![],_0x44c135),'disable':(_0x5790bb={})=>_0x4b2fd9(![],_0x5790bb),'enableAllyOutline':(_0x42fe03={})=>_0x56cbfd(!![],_0x42fe03),'disableAllyOutline':(_0x548f94={})=>_0x56cbfd(![],_0x548f94),'isEnabled':()=>_0x2eb2c5&&_0x1f26c2,'isIdEnabled':()=>_0x2eb2c5&&_0x5f1d36,'isAllyOutlineEnabled':()=>_0x2eb2c5&&_0xd72f16,'getState':()=>_0x150a68(_0x1ffe47(0x35a)),'getDiagnostics':()=>_0x150a68(_0x1ffe47(0x259)),'setColor'(_0x25ad4d,_0x456030='set-color'){const _0x52f1db=_0x1ffe47,_0x54994a=Number(_0x25ad4d);if(!Number[_0x52f1db(0x228)](_0x54994a)||_0x54994a<0x0||_0x54994a>0xffffff)throw new RangeError('轮廓颜色必须为\x200x000000～0xFFFFFF\x20的整数');return _0x116859=_0x54994a,_0x23b252=Date['now'](),_0x424b33=_0x456030,_0x4a8c99(_0x456030,null,!![]);},'setTeamColors'(_0x3b0e13={},_0x288b76=_0x1ffe47(0x1ff)){const _0x456666=_0x1ffe47,_0x1a80ea=_0x3b0e13[_0x456666(0x3d9)]==null?_0x220d03:Number(_0x3b0e13['ally']),_0x4a9f1e=_0x3b0e13[_0x456666(0x2c0)]==null?_0x116859:Number(_0x3b0e13['enemy']),_0x497d8e=_0x3b0e13[_0x456666(0x1d1)]==null?_0x8836bd:Number(_0x3b0e13[_0x456666(0x1d1)]),_0x407cfb=_0x3b0e13[_0x456666(0x206)]==null?_0x20defa:Number(_0x3b0e13['invincible']),_0x2ab638=_0x3b0e13[_0x456666(0x2b2)]==null?_0x123a9c:Number(_0x3b0e13['bot']);for(const [_0xb11a47,_0x23738f]of[['ally',_0x1a80ea],[_0x456666(0x2c0),_0x4a9f1e],[_0x456666(0x1d1),_0x497d8e],[_0x456666(0x206),_0x407cfb],[_0x456666(0x2b2),_0x2ab638]]){if(!Number[_0x456666(0x228)](_0x23738f)||_0x23738f<0x0||_0x23738f>0xffffff)throw new RangeError(_0xb11a47+_0x456666(0x1f9));}return _0x220d03=_0x1a80ea,_0x116859=_0x4a9f1e,_0x8836bd=_0x497d8e,_0x20defa=_0x407cfb,_0x123a9c=_0x2ab638,_0x23b252=Date[_0x456666(0x205)](),_0x424b33=_0x288b76,_0x4a8c99(_0x288b76,null,!![]);},'resume'(_0x3d386f=_0x1ffe47(0x38e)){const _0x5d778d=_0x1ffe47;return _0x2eb2c5=!![],_0x23b252=Date[_0x5d778d(0x205)](),_0x424b33=_0x3d386f,(_0x1f26c2||_0x5f1d36)&&_0x2a233b(),_0x5f1d36&&_0x7472c7[_0x5d778d(0x214)](()=>{if(_0x2eb2c5&&_0x5f1d36)_0x3990d0(!![]);},0x0),_0x4a8c99(_0x3d386f,null,!![]);},'suspend'(_0x24ec61=_0x1ffe47(0x38a)){const _0x3b45c0=_0x1ffe47;return _0x2eb2c5=![],_0x353eed(),_0x3990d0(![]),_0x23b252=Date[_0x3b45c0(0x205)](),_0x424b33=_0x24ec61,_0x4a8c99(_0x24ec61,null,!![]);}};Object[_0x1ffe47(0x217)](_0x7472c7,_0x93dcba,{'configurable':!![],'enumerable':![],'writable':![],'value':_0x5afa5e});}(),function installNativeTargetVisualBridge(){'use strict';const _0x45fda1=_0x3d78;const _0x4b830c=window,_0x593864=_0x45fda1(0x3d3),_0x332128=_0x45fda1(0x2d3),_0x1cfe06=_0x45fda1(0x261),_0x43a5ad=_0x45fda1(0x2f5),_0x14733a=_0x45fda1(0x30b),_0x19362d=_0x4b830c[_0x593864];if(_0x19362d?.[_0x45fda1(0x2be)]===_0x332128)return;const _0x32bfa4=new WeakMap(),_0x221c9e=new WeakMap(),_0x2fd21d=[];let _0x2dcee8=0x0,_0xd1037d=0x0,_0x22f7ff=0x0;const _0x31efa3=_0xb00490=>_0xb00490!=null&&(typeof _0xb00490===_0x45fda1(0x369)||typeof _0xb00490===_0x45fda1(0x2b9)),_0x59ff19=_0x3a2d80=>{const _0x16c614=_0x45fda1;if(_0x3a2d80==null||_0x3a2d80===![])return{'active':![],'damaging':![],'kind':_0x16c614(0x24e)};if(_0x3a2d80===!![])return{'active':!![],'damaging':!![],'kind':_0x16c614(0x342)};let _0x22ad9a='';try{_0x22ad9a=String(_0x3a2d80)[_0x16c614(0x22e)]();}catch(_0x149493){}if(_0x22ad9a['includes'](_0x16c614(0x25b)))return{'active':!![],'damaging':!![],'kind':_0x16c614(0x25b)};if(_0x22ad9a[_0x16c614(0x297)]('TARGETING_HEALING'))return{'active':!![],'damaging':![],'kind':'TARGETING_HEALING'};if(_0x22ad9a==='RADAR'||_0x22ad9a[_0x16c614(0x297)]('TARGETING_RADAR'))return{'active':!![],'damaging':![],'kind':_0x16c614(0x344)};const _0x5058ae=Number(_0x3a2d80?.[_0x16c614(0x273)]);if(_0x5058ae===0x0)return{'active':!![],'damaging':!![],'kind':'ENUM_0_DAMAGING'};if(_0x5058ae===0x1)return{'active':!![],'damaging':![],'kind':'ENUM_1_HEALING'};if(_0x5058ae===0x2)return{'active':!![],'damaging':![],'kind':_0x16c614(0x357)};return{'active':![],'damaging':![],'kind':_0x16c614(0x367)};},_0x5a3f26=(_0x34d497,_0x50c994,_0x110915=![])=>{const _0x2496e8=_0x45fda1;if(!_0x31efa3(_0x34d497))return;const _0x4cb097=_0x110915?{'active':![],'damaging':![],'kind':_0x2496e8(0x2cc)}:_0x59ff19(_0x50c994);try{_0x4b830c['dispatchEvent'](new CustomEvent(_0x14733a,{'detail':{'entity':_0x34d497,'active':_0x4cb097[_0x2496e8(0x337)],'damaging':_0x4cb097[_0x2496e8(0x359)],'kind':_0x4cb097[_0x2496e8(0x1f7)],'rawValue':_0x50c994,'at':Date[_0x2496e8(0x205)]()}})),_0x22f7ff+=0x1;}catch(_0x326cfa){_0x2fd21d[_0x2496e8(0x2c3)]({'stage':'dispatch','message':String(_0x326cfa?.['message']||_0x326cfa)});}},_0x5b663d=_0x2c6257=>{const _0x433bb4=_0x45fda1;if(!_0x31efa3(_0x2c6257))return;_0x5a3f26(_0x32bfa4['get'](_0x2c6257),_0x221c9e[_0x433bb4(0x3a3)](_0x2c6257));},_0x4ffa32=(_0x408852,_0x5c1c2a,_0x4c2079,_0x1823fa)=>{const _0x2d8b0e=_0x45fda1;if(!_0x31efa3(_0x5c1c2a))return;if(_0x408852===_0x2d8b0e(0x28a)){_0x2dcee8+=0x1;const _0x5e6c35=_0x32bfa4[_0x2d8b0e(0x3a3)](_0x5c1c2a);if(_0x5e6c35&&_0x5e6c35!==_0x4c2079)_0x5a3f26(_0x5e6c35,null,!![]);if(_0x31efa3(_0x4c2079))_0x32bfa4['set'](_0x5c1c2a,_0x4c2079);else _0x32bfa4[_0x2d8b0e(0x398)](_0x5c1c2a);_0x5b663d(_0x5c1c2a);return;}_0xd1037d+=0x1,_0x221c9e['set'](_0x5c1c2a,_0x4c2079),_0x5b663d(_0x5c1c2a);if(_0x1823fa!=null&&_0x4c2079==null)_0x5a3f26(_0x32bfa4[_0x2d8b0e(0x3a3)](_0x5c1c2a),null,!![]);},_0x348149=(_0x35e343,_0x21a19d)=>{const _0x29b898=_0x45fda1,_0x129f30=Object[_0x29b898(0x33a)](Object[_0x29b898(0x373)],_0x35e343);if(_0x129f30)return _0x2fd21d[_0x29b898(0x2c3)]({'stage':'install','field':_0x35e343,'message':'Object.prototype\x20已存在同名字段，未覆盖'}),![];const _0x252a3f=function _0x375abb(_0x44c474){const _0x117e8e=_0x29b898;let _0x5d7b43=_0x44c474;try{Object[_0x117e8e(0x217)](this,_0x35e343,{'configurable':!![],'enumerable':!![],'get'(){return _0x5d7b43;},'set'(_0x378a66){const _0x147ebe=_0x5d7b43;_0x5d7b43=_0x378a66,_0x4ffa32(_0x21a19d,this,_0x378a66,_0x147ebe);}}),_0x4ffa32(_0x21a19d,this,_0x44c474,undefined);}catch(_0x3de276){_0x2fd21d['push']({'stage':_0x117e8e(0x3a0),'field':_0x35e343,'message':String(_0x3de276?.['message']||_0x3de276)});}};Object[_0x29b898(0x217)](_0x252a3f,_0x29b898(0x227),{'value':_0x332128});try{return Object[_0x29b898(0x217)](Object['prototype'],_0x35e343,{'configurable':!![],'enumerable':![],'get':undefined,'set':_0x252a3f}),!![];}catch(_0x3aceeb){return _0x2fd21d[_0x29b898(0x2c3)]({'stage':'install','field':_0x35e343,'message':String(_0x3aceeb?.[_0x29b898(0x218)]||_0x3aceeb)}),![];}},_0x3ca70f=![],_0x284418=![],_0x340512=Object[_0x45fda1(0x245)]({'version':_0x332128,'targetEntityField':_0x1cfe06,'targetHighlightField':_0x43a5ad,'available':_0x3ca70f&&_0x284418,'classify':_0x59ff19,'getDiagnostics':()=>({'version':_0x332128,'available':_0x3ca70f&&_0x284418,'entityEvents':_0x2dcee8,'highlightEvents':_0xd1037d,'visualEvents':_0x22f7ff,'errors':_0x2fd21d[_0x45fda1(0x2d6)](_0x31543d=>({..._0x31543d}))})});Object['defineProperty'](_0x4b830c,_0x593864,{'configurable':![],'enumerable':![],'writable':![],'value':_0x340512});}(),function installStandaloneXrayControlPanel(){'use strict';const _0x33dcce=_0x3d78;const _0x1072b1=window,_0x26c313=document,_0x14d1e0=_0x33dcce(0x21b),_0x3c77dc=_0x33dcce(0x293),_0x463557=_0x33dcce(0x311),_0x3d97c3=[_0x33dcce(0x2b6),'Trklink1917',_0x33dcce(0x267),_0x33dcce(0x2f8),'EIaina',_0x33dcce(0x35d)],_0x37b87f=_0xc841c4=>String(_0xc841c4==null?'':_0xc841c4)[_0x33dcce(0x22c)](),_0x152c85=_0x3972ac=>_0x37b87f(_0x3972ac)[_0x33dcce(0x2df)](),_0xf4cbae=new Set(_0x3d97c3['map'](_0x4f0cb3=>_0x152c85(_0x4f0cb3))[_0x33dcce(0x375)](Boolean)),_0x5b81ac=_0x59fef9=>{const _0x17083d=_0x33dcce;if(_0x59fef9==null)return'';let _0x4e18f6=String(_0x59fef9)[_0x17083d(0x226)](/\u00a0/g,'\x20')[_0x17083d(0x22c)]();if(!_0x4e18f6)return'';const _0x4956a3=Math['max'](_0x4e18f6[_0x17083d(0x334)](']'),_0x4e18f6[_0x17083d(0x334)]('】'),_0x4e18f6['lastIndexOf'](')'));if(_0x4956a3>=0x0)_0x4e18f6=_0x4e18f6[_0x17083d(0x363)](_0x4956a3+0x1)[_0x17083d(0x22c)]();return _0x4e18f6;},_0x250693=()=>{const _0x45abfd=_0x33dcce;try{const _0x1ffabf=_0x26c313[_0x45abfd(0x3a9)]('[class*=\x22UserInfoContainerStyle-userNameRank\x22]');if(_0x1ffabf){const _0x376a10=_0x37b87f(_0x5b81ac(_0x1ffabf[_0x45abfd(0x2e9)]));if(_0x376a10)return{'name':_0x376a10,'source':_0x45abfd(0x379)};}}catch(_0x2f8cfa){}try{const _0x460c46=_0x26c313[_0x45abfd(0x1cc)](_0x45abfd(0x2d7));for(let _0xd549c2=0x0;_0xd549c2<_0x460c46['length'];_0xd549c2+=0x1){const _0x30e558=_0x460c46[_0xd549c2][_0x45abfd(0x37b)]||'';if(typeof _0x30e558===_0x45abfd(0x1c7)&&/UserInfoContainerStyle-userNameRank/[_0x45abfd(0x2c5)](_0x30e558)){const _0x1a009d=_0x37b87f(_0x5b81ac(_0x460c46[_0xd549c2]['textContent']));if(_0x1a009d)return{'name':_0x1a009d,'source':_0x45abfd(0x1c1)};}}}catch(_0xd4dc2f){}return{'name':'','source':''};},_0x1866e2=_0x3d754f=>_0xf4cbae[_0x33dcce(0x1c6)](_0x152c85(_0x3d754f)),_0xe3d524=Object['freeze']({'outline':![],'allyOutline':!![],'ids':![],'enemy':_0x33dcce(0x3ba),'ally':_0x33dcce(0x20f),'hittable':_0x33dcce(0x294),'invincible':_0x33dcce(0x2ef),'bot':_0x33dcce(0x230),'hidden':![],'pos':null,'threeEnabled':![],'threeHotkey':'9','threeInterval':0x32,'mineEnabled':![],'mineHotkey':'F4','mineInterval':0x17,'activePage':_0x33dcce(0x306)}),_0x2c5f88=_0x1072b1[_0x33dcce(0x23d)];if(!_0x2c5f88){console[_0x33dcce(0x29e)]('[StandaloneXray]\x20战术透视早期运行时未安装');return;}const _0x1f8816=(_0x4d3515,_0x2106dd)=>/^#[0-9a-f]{6}$/i[_0x33dcce(0x2c5)](String(_0x4d3515||''))?String(_0x4d3515)[_0x33dcce(0x2df)]():_0x2106dd,_0x158359=()=>{const _0x4dd8a0=_0x33dcce;let _0xf03dbc={};try{_0xf03dbc=JSON[_0x4dd8a0(0x2c9)](_0x1072b1[_0x4dd8a0(0x244)][_0x4dd8a0(0x34a)](_0x3c77dc)||'{}');}catch(_0x322a82){}return{'outline':_0xf03dbc[_0x4dd8a0(0x289)]===!![],'allyOutline':_0xf03dbc['allyOutline']!==![],'ids':_0xf03dbc[_0x4dd8a0(0x351)]===!![],'enemy':_0x1f8816(_0xf03dbc[_0x4dd8a0(0x2c0)],_0xe3d524[_0x4dd8a0(0x2c0)]),'ally':_0x1f8816(_0xf03dbc['ally'],_0xe3d524[_0x4dd8a0(0x3d9)]),'hittable':_0x1f8816(_0xf03dbc[_0x4dd8a0(0x1d1)],_0xe3d524[_0x4dd8a0(0x1d1)]),'invincible':_0x1f8816(_0xf03dbc[_0x4dd8a0(0x206)],_0xe3d524[_0x4dd8a0(0x206)]),'bot':_0x1f8816(_0xf03dbc[_0x4dd8a0(0x2b2)],_0xe3d524['bot']),'hidden':_0xf03dbc['hidden']===!![],'pos':_0xf03dbc[_0x4dd8a0(0x219)]&&Number[_0x4dd8a0(0x356)](_0xf03dbc[_0x4dd8a0(0x219)][_0x4dd8a0(0x20c)])&&Number[_0x4dd8a0(0x356)](_0xf03dbc[_0x4dd8a0(0x219)]['top'])?{'left':_0xf03dbc[_0x4dd8a0(0x219)]['left'],'top':_0xf03dbc[_0x4dd8a0(0x219)][_0x4dd8a0(0x3c2)]}:null,'threeEnabled':_0xf03dbc[_0x4dd8a0(0x1f4)]===!![],'threeHotkey':typeof _0xf03dbc[_0x4dd8a0(0x2a4)]===_0x4dd8a0(0x1c7)&&_0xf03dbc[_0x4dd8a0(0x2a4)]?_0xf03dbc[_0x4dd8a0(0x2a4)][_0x4dd8a0(0x363)](0x0,0xc):_0xe3d524[_0x4dd8a0(0x2a4)],'threeInterval':Number['isFinite'](_0xf03dbc[_0x4dd8a0(0x220)])&&_0xf03dbc[_0x4dd8a0(0x220)]>=0x32?Math[_0x4dd8a0(0x296)](0x64,Math[_0x4dd8a0(0x1d8)](0x32,Math[_0x4dd8a0(0x2e7)](_0xf03dbc[_0x4dd8a0(0x220)]))):_0xe3d524[_0x4dd8a0(0x220)],'mineEnabled':_0xf03dbc[_0x4dd8a0(0x2ac)]===!![],'mineHotkey':typeof _0xf03dbc['mineHotkey']===_0x4dd8a0(0x1c7)?_0xf03dbc[_0x4dd8a0(0x387)][_0x4dd8a0(0x363)](0x0,0xc):_0xe3d524[_0x4dd8a0(0x387)],'mineInterval':Number[_0x4dd8a0(0x356)](_0xf03dbc[_0x4dd8a0(0x23c)])&&_0xf03dbc[_0x4dd8a0(0x23c)]>=0x14?Math[_0x4dd8a0(0x296)](0x32,Math[_0x4dd8a0(0x1d8)](0x14,Math[_0x4dd8a0(0x2e7)](_0xf03dbc[_0x4dd8a0(0x23c)]))):_0xe3d524[_0x4dd8a0(0x23c)],'activePage':[_0x4dd8a0(0x306),_0x4dd8a0(0x331),_0x4dd8a0(0x1db),_0x4dd8a0(0x2c4),_0x4dd8a0(0x2eb)]['includes'](_0xf03dbc[_0x4dd8a0(0x3a5)])?_0xf03dbc[_0x4dd8a0(0x3a5)]:_0xe3d524[_0x4dd8a0(0x3a5)]};},_0x523047=_0x158359(),_0x46e51d=()=>{const _0xacb016=_0x33dcce;try{_0x1072b1[_0xacb016(0x244)][_0xacb016(0x2b7)](_0x3c77dc,JSON['stringify'](_0x523047));}catch(_0xfa4e90){}},_0x554f0a=_0x35a1dd=>Number[_0x33dcce(0x2d9)](_0x35a1dd[_0x33dcce(0x363)](0x1),0x10),_0x1d893f=()=>_0x2c5f88['setTeamColors']({'enemy':_0x554f0a(_0x523047[_0x33dcce(0x2c0)]),'ally':_0x554f0a(_0x523047[_0x33dcce(0x3d9)]),'hittable':_0x554f0a(_0x523047['hittable']),'invincible':_0x554f0a(_0x523047['invincible']),'bot':_0x554f0a(_0x523047[_0x33dcce(0x2b2)])},_0x33dcce(0x348));_0x1d893f(),_0x2c5f88[_0x33dcce(0x280)](![],{'reason':_0x33dcce(0x3d6)}),_0x2c5f88[_0x33dcce(0x31e)](![],{'reason':_0x33dcce(0x3d6)}),_0x2c5f88['setIdEnabled'](![],{'reason':_0x33dcce(0x3d6)});const _0xb209c8={'Root':undefined,'World':undefined,'LocalTank':undefined},_0x4ba88a={'ReactContainer':undefined,'Root':{'Key1':undefined,'Key2':undefined},'_TOState':{'Key1':undefined},'TOState':{},'isGameReady':{'isReady':undefined,'isReadyKey':undefined},'World':{'Key1':undefined,'Key2':undefined,'Key3':undefined,'Key4':undefined,'Key5':undefined},'LocalTank':{'Key1':undefined,'Key2':undefined}},_0x3c90eb={'base':_0x4ba88a,'simpleName'(_0x57de1e){const _0x5eada0=_0x33dcce,_0x1d4a7d={};if(!_0x57de1e||_0x57de1e===![])return _0x1d4a7d;for(const _0x4ecebd in _0x57de1e){try{const _0x14fc11=_0x57de1e[_0x4ecebd]['toString']()[_0x5eada0(0x209)](/^\w+/);if(_0x14fc11)_0x1d4a7d[_0x14fc11[0x0]]=_0x57de1e[_0x4ecebd];}catch(_0x2885bd){}}return _0x1d4a7d;},'stateNode2'(){const _0x4a4fb1=_0x33dcce,_0x7173=_0x26c313[_0x4a4fb1(0x3cd)](_0x4a4fb1(0x36b));if(!_0x7173)return null;if(this[_0x4a4fb1(0x25d)][_0x4a4fb1(0x3d5)])return _0x7173[this[_0x4a4fb1(0x25d)][_0x4a4fb1(0x3d5)]];for(const _0x58924f in _0x7173){if(_0x58924f[_0x4a4fb1(0x1f1)](_0x4a4fb1(0x27b)))return this[_0x4a4fb1(0x25d)][_0x4a4fb1(0x3d5)]=_0x58924f,_0x7173[_0x58924f];}return null;},'getReactStateNode'(){const _0x5eaa4e=_0x33dcce;try{const _0x3accf9=this[_0x5eaa4e(0x292)]();if(this['base'][_0x5eaa4e(0x33f)]['Key1']&&this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)]['Key2'])return _0x3accf9&&_0x3accf9['child']&&_0x3accf9[_0x5eaa4e(0x310)]['child']&&_0x3accf9[_0x5eaa4e(0x310)][_0x5eaa4e(0x310)]['stateNode']&&_0x3accf9[_0x5eaa4e(0x310)][_0x5eaa4e(0x310)]['stateNode'][this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)][_0x5eaa4e(0x322)]]&&_0x3accf9[_0x5eaa4e(0x310)][_0x5eaa4e(0x310)][_0x5eaa4e(0x391)][this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)][_0x5eaa4e(0x322)]][this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)][_0x5eaa4e(0x32e)]];const _0x208b45=_0x3accf9&&_0x3accf9[_0x5eaa4e(0x310)]&&_0x3accf9[_0x5eaa4e(0x310)][_0x5eaa4e(0x310)]&&_0x3accf9[_0x5eaa4e(0x310)][_0x5eaa4e(0x310)][_0x5eaa4e(0x391)];if(!_0x208b45)return;const _0x312edd=Object['keys'](_0x208b45);return this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)][_0x5eaa4e(0x322)]=_0x312edd[0x5],this['base'][_0x5eaa4e(0x33f)][_0x5eaa4e(0x32e)]=Object[_0x5eaa4e(0x328)](_0x208b45[this[_0x5eaa4e(0x25d)]['Root']['Key1']])[0x2],this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x345)][_0x5eaa4e(0x322)]=Object[_0x5eaa4e(0x328)](_0x208b45[this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)]['Key1']][this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)][_0x5eaa4e(0x32e)]])[0x4],_0xb209c8['Root']=_0x208b45[this['base'][_0x5eaa4e(0x33f)][_0x5eaa4e(0x322)]][this[_0x5eaa4e(0x25d)][_0x5eaa4e(0x33f)][_0x5eaa4e(0x32e)]],_0xb209c8[_0x5eaa4e(0x33f)];}catch(_0x46e9ca){return undefined;}},'findIsGameReady'(){const _0x3fa32b=_0x33dcce,_0x27ca03=this['getReactStateNode']();if(this[_0x3fa32b(0x25d)][_0x3fa32b(0x345)][_0x3fa32b(0x322)]&&!this[_0x3fa32b(0x25d)]['isGameReady'][_0x3fa32b(0x3a7)]){const _0x33a943=_0x27ca03&&_0x27ca03[this[_0x3fa32b(0x25d)]['_TOState']['Key1']];for(const _0x39b04e in _0x33a943){try{_0x33a943[_0x39b04e]&&_0x33a943[_0x39b04e][_0x3fa32b(0x256)]()[_0x3fa32b(0x1f1)](_0x3fa32b(0x29d))&&(this[_0x3fa32b(0x25d)][_0x3fa32b(0x374)]['BattleStatistics']=_0x39b04e);}catch(_0x1c518f){}}this[_0x3fa32b(0x25d)][_0x3fa32b(0x254)][_0x3fa32b(0x3a7)]=Object['keys'](_0x27ca03&&_0x27ca03[this[_0x3fa32b(0x25d)][_0x3fa32b(0x345)]['Key1']]&&_0x27ca03[this[_0x3fa32b(0x25d)][_0x3fa32b(0x345)][_0x3fa32b(0x322)]][this[_0x3fa32b(0x25d)][_0x3fa32b(0x374)][_0x3fa32b(0x29d)]]||{})[0x14];}if(this['base']['isGameReady'][_0x3fa32b(0x3a7)])return this['base'][_0x3fa32b(0x254)][_0x3fa32b(0x32f)]=_0x27ca03&&_0x27ca03[this[_0x3fa32b(0x25d)][_0x3fa32b(0x345)][_0x3fa32b(0x322)]]&&_0x27ca03[this[_0x3fa32b(0x25d)][_0x3fa32b(0x345)][_0x3fa32b(0x322)]][this[_0x3fa32b(0x25d)][_0x3fa32b(0x374)]['BattleStatistics']]&&_0x27ca03[this['base'][_0x3fa32b(0x345)]['Key1']][this[_0x3fa32b(0x25d)]['TOState'][_0x3fa32b(0x29d)]][this[_0x3fa32b(0x25d)][_0x3fa32b(0x254)][_0x3fa32b(0x3a7)]],this[_0x3fa32b(0x25d)][_0x3fa32b(0x254)][_0x3fa32b(0x32f)];return![];},'tick'(){const _0x290653=_0x33dcce;if(!this[_0x290653(0x272)]())return;const _0x4505b7=_0xb209c8[_0x290653(0x33f)];if(!_0x4505b7)return;try{!this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x322)]&&(this[_0x290653(0x25d)]['World'][_0x290653(0x322)]=Object['keys'](_0x4505b7)[0x1],this['base'][_0x290653(0x31c)][_0x290653(0x32e)]=Object['keys'](_0x4505b7[this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x322)]])[0x1]);const _0x26e108=_0x4505b7[this['base'][_0x290653(0x31c)][_0x290653(0x322)]]&&_0x4505b7[this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x322)]][this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x32e)]];if(!_0x26e108)return;const _0x2c9dfb=Object[_0x290653(0x2d2)](_0x26e108)[_0x290653(0x1d4)](([,_0x5d7d84])=>Object[_0x290653(0x328)](_0x5d7d84||{})['length']===0x3&&typeof Object[_0x290653(0x320)](_0x5d7d84)[0x2]===_0x290653(0x361));if(_0x2c9dfb){this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x395)]=_0x2c9dfb[0x1],this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x321)]=Object[_0x290653(0x328)](this[_0x290653(0x25d)]['World'][_0x290653(0x395)])[0x0],this['base'][_0x290653(0x31c)]['Key5']=Object[_0x290653(0x328)](this['base'][_0x290653(0x31c)]['Key3'][this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x321)]])[0x1],_0xb209c8[_0x290653(0x31c)]=this['base'][_0x290653(0x31c)][_0x290653(0x395)][this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x321)]][this['base'][_0x290653(0x31c)][_0x290653(0x36c)]];const _0x35e4fb=this[_0x290653(0x25d)]['World']['Key3'][this[_0x290653(0x25d)][_0x290653(0x31c)][_0x290653(0x321)]];this[_0x290653(0x25d)]['LocalTank'][_0x290653(0x322)]=Object[_0x290653(0x328)](_0x35e4fb)[0x7],this[_0x290653(0x25d)][_0x290653(0x32c)][_0x290653(0x32e)]=_0x35e4fb[this['base'][_0x290653(0x32c)][_0x290653(0x322)]]?Object[_0x290653(0x328)](_0x35e4fb[this[_0x290653(0x25d)][_0x290653(0x32c)][_0x290653(0x322)]])[0x0]:undefined,_0xb209c8[_0x290653(0x32c)]=_0x35e4fb[this['base'][_0x290653(0x32c)]['Key1']]&&_0x35e4fb[this[_0x290653(0x25d)][_0x290653(0x32c)]['Key1']][this[_0x290653(0x25d)][_0x290653(0x32c)][_0x290653(0x32e)]];}this[_0x290653(0x2de)]();}catch(_0x1d019a){}},'findSupplies'(){const _0x2f7ba2=_0x33dcce;try{if(!this[_0x2f7ba2(0x272)]())return;const _0x271e3b=Object['entries'](_0xb209c8[_0x2f7ba2(0x32c)]||{})[_0x2f7ba2(0x1d4)](([,_0x2f5540])=>Object[_0x2f7ba2(0x328)](_0x2f5540)[_0x2f7ba2(0x1f5)]>=0x1e&&this[_0x2f7ba2(0x2da)](_0x2f5540)[_0x2f7ba2(0x29f)]);if(!_0x271e3b)return;const _0x2f09a3=_0xb209c8['LocalTank'][_0x271e3b[0x0]],_0x4bb74c=_0x2f09a3[Object['keys'](_0x2f09a3)[0x9]][Object['keys'](_0x2f09a3[Object[_0x2f7ba2(0x328)](_0x2f09a3)[0x9]])[0x5]],_0xe640ad={},_0x33c30d=_0x4bb74c[Object[_0x2f7ba2(0x328)](_0x4bb74c)[0x0]],_0x47678b=_0x4bb74c[Object['keys'](_0x4bb74c)[0x1]];for(let _0x290d95=0x0;_0x290d95<_0x33c30d[_0x2f7ba2(0x1f5)];_0x290d95++){if(!_0x33c30d[_0x290d95]||!_0x47678b[_0x290d95])continue;const _0x2abdf4=_0x33c30d[_0x290d95][Object['keys'](_0x33c30d[_0x290d95])[0x0]],_0x38fd53=_0x47678b[_0x290d95][Object[_0x2f7ba2(0x328)](_0x47678b[_0x290d95])[0x0]];_0xe640ad[_0x2abdf4]=_0x38fd53;}_0xb209c8[_0x2f7ba2(0x30e)]=_0xe640ad;}catch(_0x3ad61b){}}};_0x1072b1[_0x33dcce(0x24d)](()=>_0x3c90eb[_0x33dcce(0x34f)](),0x64);const _0x15706d=[_0x33dcce(0x1ca),'self.onmessage\x20=\x20function(e)\x20{',_0x33dcce(0x29a),_0x33dcce(0x27f),_0x33dcce(0x1e0),_0x33dcce(0x1d9),_0x33dcce(0x347),'};']['join']('\x0a');let _0x1ed47c=null;try{_0x1ed47c=new Worker(URL[_0x33dcce(0x1f6)](new Blob([_0x15706d],{'type':_0x33dcce(0x271)})));}catch(_0x2a5b23){_0x1ed47c=null;}const _0x1dc645=[_0x33dcce(0x3bc),_0x33dcce(0x2f2),_0x33dcce(0x392)];_0x1ed47c&&(_0x1ed47c['onmessage']=_0x3eaa7=>{const _0x5bd782=_0x33dcce;if(!_0x523047[_0x5bd782(0x1f4)]||!_0x43dddf)return;const _0x272ecd=_0xb209c8[_0x5bd782(0x30e)]&&_0xb209c8[_0x5bd782(0x30e)][_0x3eaa7['data'][_0x5bd782(0x393)]];if(typeof _0x272ecd!==_0x5bd782(0x2b9))return;try{_0x272ecd();}catch(_0x1f9714){}},_0x1dc645[_0x33dcce(0x385)](_0x3fe60=>{const _0x20de9d=_0x33dcce;_0x1ed47c[_0x20de9d(0x240)]({'type':_0x20de9d(0x300),'supply':_0x3fe60,'ms':_0x523047[_0x20de9d(0x220)]});}));const _0x7c2961=()=>{const _0x414d62=_0x33dcce;if(!_0x1ed47c)return;_0x1dc645[_0x414d62(0x385)](_0x2a26c6=>{const _0x59ea9a=_0x414d62;_0x1ed47c[_0x59ea9a(0x240)]({'type':_0x59ea9a(0x2f4),'supply':_0x2a26c6,'ms':_0x523047['threeInterval']});});},_0xc3c0c0=()=>!!_0x26c313[_0x33dcce(0x3a9)](_0x33dcce(0x2ca))||!!_0x26c313[_0x33dcce(0x3a9)](_0x33dcce(0x2f1)),_0x5b4130=()=>{},_0x9cfcd3=()=>{const _0x34c1b4=_0x33dcce,_0x4794f6=_0x26c313[_0x34c1b4(0x3cd)](_0x14d1e0);if(!_0x4794f6||!_0x4794f6[_0x34c1b4(0x2d8)])return;const _0x1ada18=_0x4794f6[_0x34c1b4(0x2d8)][_0x34c1b4(0x3cd)](_0x34c1b4(0x303));_0x1ada18&&(_0x1ada18[_0x34c1b4(0x2e9)]='['+(_0x523047[_0x34c1b4(0x2a4)]||'无')+_0x34c1b4(0x39e)+(_0x523047[_0x34c1b4(0x1f4)]?'运行中':'已停止'),_0x1ada18['classList'][_0x34c1b4(0x39b)](_0x34c1b4(0x302),_0x523047['threeEnabled']));},_0xa7c709=_0x22e33d=>{const _0x58cd29=_0x33dcce;if(_0xc3c0c0())return;_0x523047['threeEnabled']=!!_0x22e33d,_0x46e51d(),_0x9cfcd3(),_0x5b4130(_0x523047[_0x58cd29(0x1f4)]?'三开开启（内核触发）':_0x58cd29(0x2d5));},_0x20bd99=()=>_0xa7c709(!_0x523047[_0x33dcce(0x1f4)]);let _0xb2a363=null;const _0x511c27=()=>{const _0x315091=_0x33dcce,_0x4c12a2={'bubbles':!![],'cancelable':!![],'charCode':0x0,'ctrlKey':![],'location':0x0,'code':'Digit5','key':'5','shiftKey':![],'keyCode':0x35,'which':0x35,'repeat':!![]};try{_0x26c313[_0x315091(0x1ed)][_0x315091(0x275)](new KeyboardEvent(_0x315091(0x3b5),_0x4c12a2)),_0x26c313[_0x315091(0x1ed)][_0x315091(0x275)](new KeyboardEvent(_0x315091(0x2ed),_0x4c12a2));}catch(_0x855f74){}},_0x232906=()=>{const _0x5731da=_0x33dcce;if(_0xb2a363!==null){try{_0x1072b1[_0x5731da(0x3a1)](_0xb2a363);}catch(_0x5435cd){}_0xb2a363=null;}},_0x5301e0=()=>{const _0x31e7cf=_0x33dcce;_0x232906(),_0xb2a363=_0x1072b1[_0x31e7cf(0x24d)](_0x511c27,_0x523047[_0x31e7cf(0x23c)]);},_0x3b2b82=()=>{const _0x5c96ea=_0x33dcce,_0x34a8c7=_0x26c313['getElementById'](_0x14d1e0);if(!_0x34a8c7||!_0x34a8c7[_0x5c96ea(0x2d8)])return;const _0x1a7825=_0x34a8c7['shadowRoot'][_0x5c96ea(0x3cd)](_0x5c96ea(0x36d));_0x1a7825&&(_0x1a7825[_0x5c96ea(0x2e9)]='['+(_0x523047[_0x5c96ea(0x387)]||'无')+_0x5c96ea(0x2a7)+(_0x523047[_0x5c96ea(0x2ac)]?_0x5c96ea(0x26f):_0x5c96ea(0x29b)),_0x1a7825[_0x5c96ea(0x1e6)]['toggle'](_0x5c96ea(0x302),_0x523047['mineEnabled']));},_0x49448a=_0x1e35c9=>{const _0x468456=_0x33dcce;if(_0xc3c0c0())return;if(_0x1e35c9&&!_0x43dddf){_0x5b4130(_0x468456(0x386));return;}_0x523047[_0x468456(0x2ac)]=!!_0x1e35c9;if(_0x523047['mineEnabled'])_0x5301e0();else _0x232906();_0x46e51d(),_0x3b2b82(),_0x5b4130(_0x523047[_0x468456(0x2ac)]?_0x468456(0x26c):_0x468456(0x262));},_0x1dab2f=()=>_0x49448a(!_0x523047[_0x33dcce(0x2ac)]),_0x57e6df={'A':null,'B':null,'MIX':null};let _0xd034c3=null;const _0xa0f306={'A':_0x33dcce(0x3c4),'B':_0x33dcce(0x237),'MIX':_0x33dcce(0x20d)},_0x586d11={'A':'A队','B':'B队','MIX':'混战'},_0x5791df=()=>Object[_0x33dcce(0x328)](_0x57e6df)['filter'](_0xe111c3=>_0x57e6df[_0xe111c3]!==null),_0x37e878=_0x495d50=>{const _0x48c2f4=_0x33dcce;try{_0x57e6df[_0x495d50]&&_0x57e6df[_0x495d50][_0x48c2f4(0x20a)]();}catch(_0x483a56){}_0x57e6df[_0x495d50]=null;},_0x5c4bab=()=>{const _0xf12af2=_0x33dcce;if(_0x5791df()[_0xf12af2(0x1f5)]>0x0)return;try{_0xd034c3&&_0xd034c3[_0xf12af2(0x20a)]();}catch(_0x5b8020){}_0xd034c3=null;},_0x798b2=_0x4e8501=>{_0x37e878(_0x4e8501),_0x5c4bab(),_0x40951b();},_0x5f22b7=()=>{const _0x105db6=_0x33dcce;['A','B',_0x105db6(0x3d2)][_0x105db6(0x385)](_0x37e878),_0x5c4bab(),_0x40951b();},_0x40951b=()=>{const _0x5e1d05=_0x33dcce,_0x5d690f=_0x26c313[_0x5e1d05(0x3cd)](_0x14d1e0);if(!_0x5d690f||!_0x5d690f[_0x5e1d05(0x2d8)])return;['A','B',_0x5e1d05(0x3d2)]['forEach'](_0x871fa6=>{const _0x4e192b=_0x5e1d05,_0x298247=_0x5d690f['shadowRoot']['getElementById'](_0xa0f306[_0x871fa6]);if(_0x298247)_0x298247[_0x4e192b(0x1e6)][_0x4e192b(0x39b)]('on',_0x57e6df[_0x871fa6]!==null);});},_0x503b64=()=>{const _0x3cc578=_0x33dcce;if(_0xd034c3)return;_0xd034c3=new MutationObserver(()=>{const _0x4edd4b=_0x3d78,_0x3a39ec=_0x26c313['querySelector'](_0x4edd4b(0x2ce)),_0x260a19=_0x3a39ec&&_0x3a39ec['querySelector'](_0x4edd4b(0x376));if(_0x260a19){try{_0x260a19['click']();}catch(_0x70c5c4){}try{_0xd034c3&&_0xd034c3[_0x4edd4b(0x20a)]();}catch(_0x55ff6a){}_0xd034c3=null;}}),_0xd034c3[_0x3cc578(0x3cc)](_0x26c313[_0x3cc578(0x1ed)],{'childList':!![],'subtree':!![]});},_0x202ec6=_0x75855c=>{_0x5b4130('已进入['+_0x586d11[_0x75855c]+']'),_0x5f22b7();},_0x437495=_0x25229f=>{const _0x29f1d0=_0x33dcce,_0x4ec1a9=_0x26c313[_0x29f1d0(0x1cc)](_0x29f1d0(0x309)),_0xdad35f=_0x4ec1a9[_0x25229f==='A'?0x0:0x1];if(!_0xdad35f){_0x5b4130(_0x29f1d0(0x24c)),_0x40951b();return;}if(!_0xdad35f['classList']['contains'](_0x29f1d0(0x38f))){try{_0xdad35f[_0x29f1d0(0x38b)]();}catch(_0xa052ac){}_0x202ec6(_0x25229f);return;}_0x57e6df[_0x25229f]=new MutationObserver(()=>{const _0x35b441=_0x29f1d0;if(!_0xdad35f[_0x35b441(0x1e6)][_0x35b441(0x35c)](_0x35b441(0x38f))){try{_0xdad35f[_0x35b441(0x38b)]();}catch(_0xa0f5b5){}_0x202ec6(_0x25229f);}}),_0x57e6df[_0x25229f][_0x29f1d0(0x3cc)](_0xdad35f,{'attributes':!![],'attributeFilter':[_0x29f1d0(0x2d4)]});},_0x74df62=()=>{const _0x13da96=_0x33dcce;let _0x55ea47=null;try{_0x55ea47=_0x26c313[_0x13da96(0x3a9)](_0x13da96(0x260))['lastChild'];}catch(_0x34d826){_0x55ea47=null;}if(!_0x55ea47||!_0x55ea47[_0x13da96(0x314)]){_0x5b4130(_0x13da96(0x24c)),_0x40951b();return;}_0x57e6df[_0x13da96(0x3d2)]=new MutationObserver(()=>{const _0x22efd1=_0x13da96;try{_0x55ea47[_0x22efd1(0x314)][_0x22efd1(0x1e6)]&&_0x55ea47['firstChild'][_0x22efd1(0x1e6)][_0x22efd1(0x1f5)]>=0x2&&(_0x55ea47[_0x22efd1(0x314)]['click'](),_0x202ec6(_0x22efd1(0x3d2)));}catch(_0x697c07){}}),_0x57e6df[_0x13da96(0x3d2)][_0x13da96(0x3cc)](_0x55ea47,{'childList':!![],'subtree':!![]});},_0x9465dd=_0x1708e4=>{const _0x5365b0=_0x33dcce;if(!_0x43dddf){_0x5b4130('未授权：房间点场已锁定'),_0x40951b();return;}if(_0x57e6df[_0x1708e4]!==null){_0x798b2(_0x1708e4),_0x5b4130(_0x5365b0(0x381)+_0x586d11[_0x1708e4]+']已停止');return;}_0x1708e4==='MIX'?(_0x37e878('A'),_0x37e878('B'),_0x74df62()):(_0x37e878('MIX'),_0x437495(_0x1708e4));try{const _0x46f919=_0x26c313[_0x5365b0(0x3a9)](_0x5365b0(0x258));if(_0x46f919&&_0x46f919['textContent'][_0x5365b0(0x297)]('超限'))_0x503b64();}catch(_0x5c023f){}_0x40951b(),_0x57e6df[_0x1708e4]!==null&&_0x5b4130(_0x5365b0(0x381)+_0x586d11[_0x1708e4]+_0x5365b0(0x343));},_0x3c72e6=()=>{const _0x4a03dd=_0x33dcce;if(_0x26c313[_0x4a03dd(0x3cd)](_0x14d1e0))return;if(!_0x26c313[_0x4a03dd(0x2bf)]){_0x1072b1[_0x4a03dd(0x214)](_0x3c72e6,0x0);return;}const _0x4b0090=_0x26c313[_0x4a03dd(0x332)](_0x4a03dd(0x2ad));_0x4b0090['id']=_0x14d1e0;const _0x310b7e=_0x4b0090[_0x4a03dd(0x37f)]({'mode':_0x4a03dd(0x3bd)});_0x310b7e[_0x4a03dd(0x32a)]=_0x4a03dd(0x3b6),_0x26c313['documentElement'][_0x4a03dd(0x2cb)](_0x4b0090);const _0x2d5389=_0x310b7e['querySelector'](_0x4a03dd(0x355));_0x2d5389['classList']['add'](_0x4a03dd(0x222),_0x4a03dd(0x377));const _0x2d4178=_0x310b7e[_0x4a03dd(0x3a9)]('.head'),_0x902712=_0x310b7e['querySelector']('.sky'),_0x1996b1=_0x310b7e[_0x4a03dd(0x3a9)](_0x4a03dd(0x352)),_0x16b860=_0x310b7e[_0x4a03dd(0x3a9)](_0x4a03dd(0x274)),_0x1d7147=_0x310b7e['querySelector'](_0x4a03dd(0x301)),_0x245e98=_0x310b7e['querySelector'](_0x4a03dd(0x35b)),_0x54141e=_0x310b7e[_0x4a03dd(0x3a9)]('.ally'),_0x16f5dd=_0x310b7e[_0x4a03dd(0x3a9)](_0x4a03dd(0x35e)),_0x52ee0b=_0x310b7e['querySelector']('.invincible'),_0x209d01=_0x310b7e['querySelector'](_0x4a03dd(0x25e)),_0x503da6=_0x310b7e[_0x4a03dd(0x3a9)](_0x4a03dd(0x31b)),_0x7a51e2=_0x310b7e[_0x4a03dd(0x3a9)](_0x4a03dd(0x1e7));_0x7a51e2&&(_0x7a51e2['onerror']=()=>{const _0x43cc5e=_0x4a03dd,_0x375af0=document[_0x43cc5e(0x332)](_0x43cc5e(0x2ad));_0x375af0[_0x43cc5e(0x37b)]='about-avatar\x20about-avatar-fb',_0x375af0['textContent']='☄️',_0x7a51e2[_0x43cc5e(0x1c4)](_0x375af0);},_0x7a51e2['src']='https://q2.qlogo.cn/g?b=qq&nk=669481357&s=100');const _0x50560d=_0x310b7e[_0x4a03dd(0x3a9)](_0x4a03dd(0x1c2)),_0x5ca781=_0x310b7e[_0x4a03dd(0x3a9)]('.clock-date'),_0x12b1f5=_0x43c41e=>String(_0x43c41e)[_0x4a03dd(0x241)](0x2,'0'),_0x1e32cc=()=>{const _0x1c55aa=_0x4a03dd,_0x433a01=new Date();_0x50560d[_0x1c55aa(0x2e9)]=_0x12b1f5(_0x433a01[_0x1c55aa(0x30a)]())+':'+_0x12b1f5(_0x433a01[_0x1c55aa(0x285)]())+':'+_0x12b1f5(_0x433a01[_0x1c55aa(0x2ab)]()),_0x5ca781['textContent']=_0x433a01[_0x1c55aa(0x2aa)]()+'年'+(_0x433a01['getMonth']()+0x1)+'月'+_0x433a01[_0x1c55aa(0x397)]()+'日';};_0x1e32cc(),setInterval(_0x1e32cc,0x3e8);const _0x2fd8b5=Array[_0x4a03dd(0x28e)](_0x310b7e['querySelectorAll'](_0x4a03dd(0x298))),_0x113972=Array[_0x4a03dd(0x28e)](_0x310b7e[_0x4a03dd(0x1cc)]('.page')),_0x5815fa=(_0x409387,_0x2a5d6c)=>{const _0x3f22e9=_0x4a03dd;_0x2fd8b5[_0x3f22e9(0x385)](_0x2ceb49=>_0x2ceb49['classList'][_0x3f22e9(0x39b)](_0x3f22e9(0x337),_0x2ceb49[_0x3f22e9(0x317)][_0x3f22e9(0x2e5)]===_0x409387)),_0x113972[_0x3f22e9(0x385)](_0x23221d=>_0x23221d[_0x3f22e9(0x1e6)][_0x3f22e9(0x39b)]('active',_0x23221d[_0x3f22e9(0x317)][_0x3f22e9(0x2e5)]===_0x409387)),_0x523047[_0x3f22e9(0x3a5)]=_0x409387;if(_0x2a5d6c)_0x46e51d();_0x1072b1['requestAnimationFrame'](()=>_0x57aeb3());};_0x2fd8b5[_0x4a03dd(0x385)](_0x4ccf42=>_0x4ccf42[_0x4a03dd(0x364)](_0x4a03dd(0x38b),()=>_0x5815fa(_0x4ccf42[_0x4a03dd(0x317)][_0x4a03dd(0x2e5)],!![]))),_0x5815fa(_0x523047['activePage']||_0x4a03dd(0x306),![]);const _0x4ba283=_0x310b7e[_0x4a03dd(0x3cd)](_0x4a03dd(0x303)),_0x3e6eef=_0x310b7e[_0x4a03dd(0x3cd)](_0x4a03dd(0x2a5)),_0x21c93d=_0x310b7e[_0x4a03dd(0x3cd)]('three-interval'),_0x58786f=_0x310b7e[_0x4a03dd(0x3cd)](_0x4a03dd(0x327));_0x3e6eef[_0x4a03dd(0x3b9)]=_0x523047[_0x4a03dd(0x2a4)],_0x21c93d['value']=String(_0x523047[_0x4a03dd(0x220)]),_0x58786f[_0x4a03dd(0x2e9)]=_0x523047['threeHotkey']||'无';const _0x3013cf=()=>{const _0x5d16e1=_0x4a03dd;_0x4ba283[_0x5d16e1(0x2e9)]='['+(_0x523047['threeHotkey']||'无')+']\x20三开\x20·\x20'+(_0x523047[_0x5d16e1(0x1f4)]?'运行中':_0x5d16e1(0x29b)),_0x4ba283[_0x5d16e1(0x1e6)][_0x5d16e1(0x39b)]('run',_0x523047['threeEnabled']);};_0x3013cf(),_0x4ba283['addEventListener'](_0x4a03dd(0x38b),()=>_0x20bd99()),_0x3e6eef['addEventListener'](_0x4a03dd(0x221),()=>_0x3e6eef[_0x4a03dd(0x1e6)][_0x4a03dd(0x389)](_0x4a03dd(0x26b))),_0x3e6eef[_0x4a03dd(0x364)](_0x4a03dd(0x288),()=>_0x3e6eef['classList'][_0x4a03dd(0x257)]('recording')),_0x3e6eef[_0x4a03dd(0x364)](_0x4a03dd(0x3b5),_0x4693fd=>{const _0x402024=_0x4a03dd;_0x4693fd[_0x402024(0x2f3)](),_0x4693fd['stopPropagation']();const _0x197855=_0x4693fd[_0x402024(0x290)]===_0x402024(0x308)?'':_0x4693fd['key']||'';_0x523047['threeHotkey']=_0x197855,_0x3e6eef[_0x402024(0x3b9)]=_0x197855,_0x58786f[_0x402024(0x2e9)]=_0x197855||'无',_0x46e51d(),_0x3013cf(),_0x3e6eef[_0x402024(0x288)]();});const _0x4a888b=_0x420a4e=>{const _0x5a805c=_0x4a03dd,_0x2801a9=Math[_0x5a805c(0x1d8)](0x32,Math[_0x5a805c(0x296)](0x64,Math[_0x5a805c(0x2e7)](Number['isFinite'](_0x420a4e)?_0x420a4e:_0x523047[_0x5a805c(0x220)])));_0x523047[_0x5a805c(0x220)]=_0x2801a9,_0x21c93d[_0x5a805c(0x3b9)]=String(_0x2801a9),_0x46e51d(),_0x7c2961();};_0x21c93d[_0x4a03dd(0x364)]('change',()=>{const _0x19dfa9=_0x4a03dd;_0x4a888b(parseInt(_0x21c93d[_0x19dfa9(0x3b9)],0xa));});const _0x509cb7=_0x310b7e[_0x4a03dd(0x3cd)](_0x4a03dd(0x36d)),_0x56607d=_0x310b7e[_0x4a03dd(0x3cd)](_0x4a03dd(0x203)),_0x3b5c26=_0x310b7e[_0x4a03dd(0x3cd)](_0x4a03dd(0x2b1));_0x56607d[_0x4a03dd(0x3b9)]=_0x523047[_0x4a03dd(0x387)],_0x3b5c26[_0x4a03dd(0x3b9)]=String(_0x523047[_0x4a03dd(0x23c)]);const _0x5bff03=()=>{const _0x1f2391=_0x4a03dd;_0x509cb7[_0x1f2391(0x2e9)]='['+(_0x523047[_0x1f2391(0x387)]||'无')+_0x1f2391(0x2a7)+(_0x523047[_0x1f2391(0x2ac)]?'运行中':'已停止'),_0x509cb7[_0x1f2391(0x1e6)][_0x1f2391(0x39b)](_0x1f2391(0x302),_0x523047[_0x1f2391(0x2ac)]);};_0x5bff03(),_0x509cb7[_0x4a03dd(0x364)](_0x4a03dd(0x38b),()=>_0x1dab2f()),_0x56607d[_0x4a03dd(0x364)]('focus',()=>_0x56607d[_0x4a03dd(0x1e6)][_0x4a03dd(0x389)](_0x4a03dd(0x26b))),_0x56607d[_0x4a03dd(0x364)](_0x4a03dd(0x288),()=>_0x56607d['classList']['remove'](_0x4a03dd(0x26b))),_0x56607d[_0x4a03dd(0x364)](_0x4a03dd(0x3b5),_0x3d1a81=>{const _0x8d408a=_0x4a03dd;_0x3d1a81[_0x8d408a(0x2f3)](),_0x3d1a81[_0x8d408a(0x200)]();const _0x47e0d7=_0x3d1a81[_0x8d408a(0x290)]===_0x8d408a(0x308)?'':_0x3d1a81[_0x8d408a(0x290)]||'';_0x523047[_0x8d408a(0x387)]=_0x47e0d7,_0x56607d[_0x8d408a(0x3b9)]=_0x47e0d7,_0x46e51d(),_0x5bff03(),_0x56607d[_0x8d408a(0x288)]();});const _0x3d0cc1=_0x47ea53=>{const _0x5a1513=_0x4a03dd,_0x17898b=Math[_0x5a1513(0x1d8)](0x14,Math['min'](0x32,Math[_0x5a1513(0x2e7)](Number['isFinite'](_0x47ea53)?_0x47ea53:_0x523047['mineInterval'])));_0x523047[_0x5a1513(0x23c)]=_0x17898b,_0x3b5c26['value']=String(_0x17898b),_0x46e51d();if(_0x523047[_0x5a1513(0x2ac)])_0x5301e0();};_0x3b5c26['addEventListener'](_0x4a03dd(0x28f),()=>{const _0x51cb9e=_0x4a03dd;_0x3d0cc1(parseInt(_0x3b5c26[_0x51cb9e(0x3b9)],0xa));}),_0x310b7e['querySelectorAll'](_0x4a03dd(0x22f))['forEach'](_0x1ac498=>{const _0x1d8bd6=_0x4a03dd;_0x1ac498[_0x1d8bd6(0x364)]('click',()=>{const _0x108030=_0x1d8bd6,_0x52c76b=_0x310b7e['getElementById'](_0x1ac498['dataset'][_0x108030(0x3d8)]);if(!_0x52c76b)return;const _0x1661ca=_0x1ac498[_0x108030(0x317)][_0x108030(0x3d8)],_0x1357b9=parseInt(_0x52c76b[_0x108030(0x3b9)],0xa),_0x24336c=Number[_0x108030(0x356)](_0x1357b9)?_0x1357b9:_0x1661ca==='three-interval'?_0x523047['threeInterval']:_0x523047[_0x108030(0x23c)],_0x553b5a=_0x24336c+(_0x1ac498[_0x108030(0x317)][_0x108030(0x243)]==='-1'?-0x1:0x1);if(_0x1661ca===_0x108030(0x383))_0x4a888b(_0x553b5a);else _0x3d0cc1(_0x553b5a);});});const _0x55e666={'A':_0x310b7e[_0x4a03dd(0x3cd)](_0x4a03dd(0x3c4)),'B':_0x310b7e['getElementById']('join-b'),'MIX':_0x310b7e[_0x4a03dd(0x3cd)]('join-mix')};Object[_0x4a03dd(0x328)](_0x55e666)[_0x4a03dd(0x385)](_0xc8fa09=>{const _0x4b49b5=_0x4a03dd;if(_0x55e666[_0xc8fa09])_0x55e666[_0xc8fa09][_0x4b49b5(0x364)](_0x4b49b5(0x38b),()=>_0x9465dd(_0xc8fa09));}),_0x40951b(),_0x245e98[_0x4a03dd(0x3b9)]=_0x523047[_0x4a03dd(0x2c0)],_0x54141e[_0x4a03dd(0x3b9)]=_0x523047['ally'],_0x16f5dd[_0x4a03dd(0x3b9)]=_0x523047[_0x4a03dd(0x1d1)],_0x52ee0b['value']=_0x523047[_0x4a03dd(0x206)],_0x209d01['value']=_0x523047[_0x4a03dd(0x2b2)];const _0x168b5f=()=>{const _0x5a1d67=_0x4a03dd;_0x1996b1[_0x5a1d67(0x1e6)][_0x5a1d67(0x39b)]('on',_0x523047['outline']),_0x16b860['classList'][_0x5a1d67(0x39b)]('on',_0x523047[_0x5a1d67(0x22b)]),_0x16b860[_0x5a1d67(0x208)]=!_0x523047[_0x5a1d67(0x289)],_0x1d7147[_0x5a1d67(0x1e6)]['toggle']('on',_0x523047[_0x5a1d67(0x351)]);},_0x396c9e=()=>_0x2d5389[_0x4a03dd(0x1e6)]['toggle'](_0x4a03dd(0x35f),_0x523047['hidden']);_0x396c9e();const _0x5ee7f7=()=>{};_0x168b5f(),_0x5ee7f7(_0x2c5f88['getState']()),_0x1996b1[_0x4a03dd(0x364)]('click',()=>{const _0x3ce9ea=_0x4a03dd;_0x523047[_0x3ce9ea(0x289)]=!_0x523047[_0x3ce9ea(0x289)],_0x46e51d(),_0x168b5f(),_0x5ee7f7(_0x2c5f88[_0x3ce9ea(0x280)](_0x523047[_0x3ce9ea(0x289)],{'reason':_0x3ce9ea(0x1d3)}));}),_0x16b860['addEventListener'](_0x4a03dd(0x38b),()=>{const _0x233c9e=_0x4a03dd;_0x523047[_0x233c9e(0x22b)]=!_0x523047[_0x233c9e(0x22b)],_0x46e51d(),_0x168b5f(),_0x5ee7f7(_0x2c5f88[_0x233c9e(0x31e)](_0x523047[_0x233c9e(0x22b)],{'reason':_0x233c9e(0x252)}));}),_0x1d7147['addEventListener'](_0x4a03dd(0x38b),()=>{const _0x57adec=_0x4a03dd;_0x523047[_0x57adec(0x351)]=!_0x523047['ids'],_0x46e51d(),_0x168b5f(),_0x5ee7f7(_0x2c5f88['setIdEnabled'](_0x523047[_0x57adec(0x351)],{'reason':_0x57adec(0x1e2)}));});const _0x401087=()=>{const _0x368961=_0x4a03dd;_0x523047[_0x368961(0x2c0)]=_0x245e98['value'],_0x523047[_0x368961(0x3d9)]=_0x54141e[_0x368961(0x3b9)],_0x523047[_0x368961(0x1d1)]=_0x16f5dd['value'],_0x523047[_0x368961(0x206)]=_0x52ee0b[_0x368961(0x3b9)],_0x523047[_0x368961(0x2b2)]=_0x209d01[_0x368961(0x3b9)],_0x46e51d(),_0x1d893f();};_0x245e98[_0x4a03dd(0x364)]('input',_0x401087),_0x54141e[_0x4a03dd(0x364)](_0x4a03dd(0x1fb),_0x401087),_0x16f5dd[_0x4a03dd(0x364)](_0x4a03dd(0x1fb),_0x401087),_0x52ee0b[_0x4a03dd(0x364)]('input',_0x401087),_0x209d01[_0x4a03dd(0x364)](_0x4a03dd(0x1fb),_0x401087),_0x1072b1['addEventListener'](_0x463557,_0x28f7ed=>_0x5ee7f7(_0x28f7ed['detail']));const _0x446d9e=_0x902712[_0x4a03dd(0x382)]('2d');let _0x2d7f5d=0x0,_0x51cba9=0x0,_0xfca487=0x1;const _0x1f14e7=Math['PI']*0x2,_0x483fa7=(_0x259684,_0x3b3102,_0x2461ca)=>Math[_0x4a03dd(0x1d8)](_0x3b3102,Math[_0x4a03dd(0x296)](_0x2461ca,_0x259684)),_0x6e15e7=(_0x244034,_0x12ff59)=>{const _0x366acd=_0x4a03dd,_0x46de80=Number['parseInt'](_0x244034[_0x366acd(0x363)](0x1),0x10);return _0x366acd(0x23f)+(_0x46de80>>0x10&0xff)+','+(_0x46de80>>0x8&0xff)+','+(_0x46de80&0xff)+','+_0x12ff59+')';},_0x14c744=[_0x4a03dd(0x384),_0x4a03dd(0x1fd),_0x4a03dd(0x2ef),'#fbcfe8','#ddd6fe'],_0x4e5e85=[_0x4a03dd(0x27e),_0x4a03dd(0x3ab),_0x4a03dd(0x21e),_0x4a03dd(0x32d),_0x4a03dd(0x22a)];let _0x36e562=[],_0x4b8b2a=[],_0x53a896=[],_0x3f8c63=[];const _0x1e73e4=(_0x1be8a3,_0x100016)=>_0x1be8a3+Math[_0x4a03dd(0x213)]()*(_0x100016-_0x1be8a3),_0x57aeb3=()=>{const _0x1b2ce9=_0x4a03dd,_0x9469c5=_0x2d5389[_0x1b2ce9(0x1ea)]();_0x2d7f5d=Math[_0x1b2ce9(0x1d8)](0x1,_0x9469c5[_0x1b2ce9(0x247)]),_0x51cba9=Math['max'](0x1,_0x9469c5['height']),_0xfca487=Math[_0x1b2ce9(0x296)](_0x1072b1['devicePixelRatio']||0x1,0x2),_0x902712[_0x1b2ce9(0x247)]=Math[_0x1b2ce9(0x2e7)](_0x2d7f5d*_0xfca487),_0x902712[_0x1b2ce9(0x335)]=Math[_0x1b2ce9(0x2e7)](_0x51cba9*_0xfca487),_0x446d9e[_0x1b2ce9(0x2cd)](_0xfca487,0x0,0x0,_0xfca487,0x0,0x0),_0x36e562=[];const _0x4b24bd=Math[_0x1b2ce9(0x2e7)](_0x483fa7(_0x2d7f5d*_0x51cba9/0x578,0x2e,0x96));for(let _0xab88e=0x0;_0xab88e<_0x4b24bd;_0xab88e++){const _0x2f4670=Math[_0x1b2ce9(0x213)]()<0.07;_0x36e562[_0x1b2ce9(0x2c3)]({'x':Math['random']()*_0x2d7f5d,'y':Math[_0x1b2ce9(0x213)]()*_0x51cba9,'r':_0x2f4670?_0x1e73e4(1.5,2.4):_0x1e73e4(0.3,1.2),'a':_0x1e73e4(0.35,0.9),'tw':_0x1e73e4(0.0008,0.004),'ph':_0x1e73e4(0x0,_0x1f14e7),'big':_0x2f4670,'c':_0x14c744[Math[_0x1b2ce9(0x213)]()*_0x14c744[_0x1b2ce9(0x1f5)]|0x0]});}_0x4b8b2a=[];const _0x337905=Math[_0x1b2ce9(0x2e7)](_0x483fa7(_0x2d7f5d*_0x51cba9/0x1b58,0xc,0x2e));for(let _0x4d8ca8=0x0;_0x4d8ca8<_0x337905;_0x4d8ca8++){_0x4b8b2a[_0x1b2ce9(0x2c3)]({'x':Math[_0x1b2ce9(0x213)]()*_0x2d7f5d,'y':Math[_0x1b2ce9(0x213)]()*_0x51cba9,'r':_0x1e73e4(0.3,1.2),'a':_0x1e73e4(0.08,0.3),'vx':_0x1e73e4(-0.012,0.012),'vy':_0x1e73e4(0.004,0.022),'tw':_0x1e73e4(0.0006,0.003),'ph':_0x1e73e4(0x0,_0x1f14e7)});}},_0x43a666=()=>{const _0x5c44bf=_0x4a03dd,_0xb782fd=Math[_0x5c44bf(0x213)]()<0.5,_0x396058=(0x10+Math['random']()*0x12)*Math['PI']/0xb4,_0x14e212=_0x1e73e4(0xb4,0x140),_0x131b09=Math[_0x5c44bf(0x213)]()<0.22,_0x1ea6f6={'x':_0xb782fd?_0x1e73e4(-0x3c,_0x2d7f5d*0.35):_0x1e73e4(_0x2d7f5d*0.65,_0x2d7f5d+0x3c),'y':_0x1e73e4(-0x28,_0x51cba9*0.55),'vx':Math['cos'](_0x396058)*_0x14e212*(_0xb782fd?0x1:-0x1),'vy':Math[_0x5c44bf(0x23b)](_0x396058)*_0x14e212,'life':0x0,'maxLife':_0x1e73e4(0x960,0xfa0),'size':_0x131b09?_0x1e73e4(0x2,2.8):_0x1e73e4(1.2,1.9),'fireball':_0x131b09,'trail':[],'maxTrail':_0x131b09?0x3c:0x22,'c':_0x4e5e85[Math['random']()*_0x4e5e85['length']|0x0]};return _0x53a896[_0x5c44bf(0x2c3)](_0x1ea6f6),_0x1ea6f6;},_0x35169c=_0x51beb6=>{const _0x295a33=_0x4a03dd;for(let _0x57bdfa=0x0;_0x57bdfa<0x16;_0x57bdfa++){const _0x3d9a56=Math['random']()*_0x1f14e7,_0x1767ed=_0x1e73e4(0x3c,0x104);_0x3f8c63['push']({'x':_0x51beb6['x'],'y':_0x51beb6['y'],'vx':Math[_0x295a33(0x276)](_0x3d9a56)*_0x1767ed,'vy':Math[_0x295a33(0x23b)](_0x3d9a56)*_0x1767ed,'life':0x0,'maxLife':_0x1e73e4(0x15e,0x320),'r':_0x1e73e4(0.8,2.2),'c':_0x51beb6['c']});}};let _0x297c27=0x0,_0x20cc5a=performance[_0x4a03dd(0x205)](),_0x344068=0x0;const _0x134452=_0x20940f=>{const _0x1f6652=_0x4a03dd;_0x344068=_0x1072b1[_0x1f6652(0x2a6)](_0x134452);const _0x2b894d=Math[_0x1f6652(0x296)](0x32,_0x20940f-_0x20cc5a);_0x20cc5a=_0x20940f;const _0x2ca323=_0x20940f;if(_0x523047['hidden'])return;_0x446d9e[_0x1f6652(0x207)](0x0,0x0,_0x2d7f5d,_0x51cba9);const _0x2203bd=_0x446d9e[_0x1f6652(0x378)](0x0,0x0,_0x2d7f5d,_0x51cba9);_0x2203bd['addColorStop'](0x0,_0x1f6652(0x3a8)),_0x2203bd['addColorStop'](0.5,_0x1f6652(0x3cf)),_0x2203bd['addColorStop'](0x1,_0x1f6652(0x1c8)),_0x446d9e[_0x1f6652(0x39a)]=_0x2203bd,_0x446d9e['fillRect'](0x0,0x0,_0x2d7f5d,_0x51cba9);const _0x37db8a=[{'bx':0.22+0.1*Math[_0x1f6652(0x23b)](_0x2ca323*0.00021),'by':0.3+0.06*Math['cos'](_0x2ca323*0.00017),'rx':0.62,'ry':0.42,'a':0.34+0.1*Math['sin'](_0x2ca323*0.0009),'c':_0x1f6652(0x26a)},{'bx':0.62+0.12*Math[_0x1f6652(0x276)](_0x2ca323*0.00016),'by':0.36+0.08*Math[_0x1f6652(0x23b)](_0x2ca323*0.00022),'rx':0.66,'ry':0.46,'a':0.36+0.11*Math['sin'](_0x2ca323*0.0007+0x2),'c':_0x1f6652(0x216)},{'bx':0.85+0.07*Math['sin'](_0x2ca323*0.00019+0x1),'by':0.72+0.07*Math['cos'](_0x2ca323*0.00015),'rx':0.58,'ry':0.44,'a':0.3+0.09*Math[_0x1f6652(0x23b)](_0x2ca323*0.0008+0x4),'c':_0x1f6652(0x339)},{'bx':0.3+0.09*Math[_0x1f6652(0x276)](_0x2ca323*0.00014),'by':0.85+0.06*Math[_0x1f6652(0x23b)](_0x2ca323*0.0002),'rx':0.55,'ry':0.4,'a':0.22+0.07*Math['sin'](_0x2ca323*0.0006+0x1),'c':_0x1f6652(0x1f0)}];for(const _0x3fc1a0 of _0x37db8a){const _0x1474c3=_0x3fc1a0['bx']*_0x2d7f5d,_0x4f032b=_0x3fc1a0['by']*_0x51cba9,_0x261a03=_0x3fc1a0['rx']*_0x2d7f5d,_0x4614fe=_0x3fc1a0['ry']*_0x51cba9,_0x26b380=_0x446d9e[_0x1f6652(0x282)](_0x1474c3,_0x4f032b,0x0,_0x1474c3,_0x4f032b,Math[_0x1f6652(0x1d8)](_0x261a03,_0x4614fe));_0x26b380[_0x1f6652(0x1f2)](0x0,_0x1f6652(0x23f)+_0x3fc1a0['c']+','+Math[_0x1f6652(0x1d8)](0x0,_0x3fc1a0['a'])+')'),_0x26b380[_0x1f6652(0x1f2)](0.55,'rgba('+_0x3fc1a0['c']+','+Math[_0x1f6652(0x1d8)](0x0,_0x3fc1a0['a']*0.4)+')'),_0x26b380[_0x1f6652(0x1f2)](0x1,_0x1f6652(0x23f)+_0x3fc1a0['c']+_0x1f6652(0x3b2)),_0x446d9e[_0x1f6652(0x3aa)]=0x1,_0x446d9e[_0x1f6652(0x39a)]=_0x26b380,_0x446d9e[_0x1f6652(0x224)](),_0x446d9e[_0x1f6652(0x21f)](_0x1474c3,_0x4f032b),_0x446d9e['scale'](0x1,_0x4614fe/_0x261a03),_0x446d9e[_0x1f6652(0x21f)](-_0x1474c3,-_0x4f032b),_0x446d9e['beginPath'](),_0x446d9e['arc'](_0x1474c3,_0x4f032b,_0x261a03,0x0,_0x1f14e7),_0x446d9e['fill'](),_0x446d9e[_0x1f6652(0x23a)]();}_0x446d9e[_0x1f6652(0x3aa)]=0x1;for(const _0x47a9e0 of _0x4b8b2a){_0x47a9e0['x']+=_0x47a9e0['vx']*_0x2b894d,_0x47a9e0['y']-=_0x47a9e0['vy']*_0x2b894d;_0x47a9e0['y']<-0x8&&(_0x47a9e0['y']=_0x51cba9+0x8,_0x47a9e0['x']=Math[_0x1f6652(0x213)]()*_0x2d7f5d);if(_0x47a9e0['x']<-0x8)_0x47a9e0['x']=_0x2d7f5d+0x8;if(_0x47a9e0['x']>_0x2d7f5d+0x8)_0x47a9e0['x']=-0x8;_0x446d9e[_0x1f6652(0x3aa)]=_0x47a9e0['a']*(0.6+0.4*Math['sin'](_0x2ca323*_0x47a9e0['tw']+_0x47a9e0['ph'])),_0x446d9e[_0x1f6652(0x39a)]=_0x1f6652(0x323),_0x446d9e[_0x1f6652(0x3c7)](),_0x446d9e[_0x1f6652(0x251)](_0x47a9e0['x'],_0x47a9e0['y'],_0x47a9e0['r'],0x0,_0x1f14e7),_0x446d9e[_0x1f6652(0x270)]();}for(const _0x4ac51b of _0x36e562){const _0x4d975e=_0x4ac51b['a']*(0.55+0.45*Math['sin'](_0x2ca323*_0x4ac51b['tw']+_0x4ac51b['ph']));if(_0x4ac51b[_0x1f6652(0x269)]){const _0x4e4600=_0x446d9e[_0x1f6652(0x282)](_0x4ac51b['x'],_0x4ac51b['y'],0x0,_0x4ac51b['x'],_0x4ac51b['y'],_0x4ac51b['r']*0x4);_0x4e4600[_0x1f6652(0x1f2)](0x0,_0x6e15e7(_0x4ac51b['c'],Math[_0x1f6652(0x1d8)](0x0,_0x4d975e))),_0x4e4600[_0x1f6652(0x1f2)](0x1,_0x6e15e7(_0x4ac51b['c'],0x0)),_0x446d9e[_0x1f6652(0x3aa)]=0x1,_0x446d9e[_0x1f6652(0x39a)]=_0x4e4600,_0x446d9e['beginPath'](),_0x446d9e[_0x1f6652(0x251)](_0x4ac51b['x'],_0x4ac51b['y'],_0x4ac51b['r']*0x4,0x0,_0x1f14e7),_0x446d9e[_0x1f6652(0x270)]();}_0x446d9e[_0x1f6652(0x3aa)]=Math[_0x1f6652(0x1d8)](0x0,_0x4d975e),_0x446d9e[_0x1f6652(0x39a)]=_0x4ac51b['c'],_0x446d9e[_0x1f6652(0x3c7)](),_0x446d9e[_0x1f6652(0x251)](_0x4ac51b['x'],_0x4ac51b['y'],_0x4ac51b['r'],0x0,_0x1f14e7),_0x446d9e['fill']();}_0x446d9e['globalAlpha']=0x1,_0x297c27+=_0x2b894d;_0x297c27>_0x1e73e4(0x226,0x4b0)&&_0x53a896[_0x1f6652(0x1f5)]<0x7&&(_0x297c27=0x0,_0x43a666());for(let _0x597940=_0x53a896[_0x1f6652(0x1f5)]-0x1;_0x597940>=0x0;_0x597940--){const _0x356f29=_0x53a896[_0x597940];_0x356f29[_0x1f6652(0x34d)][_0x1f6652(0x2c3)]({'x':_0x356f29['x'],'y':_0x356f29['y']});if(_0x356f29[_0x1f6652(0x34d)][_0x1f6652(0x1f5)]>_0x356f29['maxTrail'])_0x356f29[_0x1f6652(0x34d)][_0x1f6652(0x2a0)]();const _0x40f9b0=_0x2b894d/0x3e8;_0x356f29['x']+=_0x356f29['vx']*_0x40f9b0,_0x356f29['y']+=_0x356f29['vy']*_0x40f9b0,_0x356f29[_0x1f6652(0x1dd)]+=_0x2b894d;const _0x4f0f9c=_0x356f29['x']<-0x8c||_0x356f29['x']>_0x2d7f5d+0x8c||_0x356f29['y']>_0x51cba9+0x8c;if(_0x356f29[_0x1f6652(0x1dd)]>_0x356f29['maxLife']||_0x4f0f9c){if(_0x356f29[_0x1f6652(0x26d)])_0x35169c(_0x356f29);_0x53a896[_0x1f6652(0x1dc)](_0x597940,0x1);continue;}const _0x4d37cc=_0x356f29[_0x1f6652(0x34d)];if(_0x4d37cc[_0x1f6652(0x1f5)]>0x1){_0x446d9e['lineCap']='round';for(let _0x30c4ec=0x1;_0x30c4ec<_0x4d37cc[_0x1f6652(0x1f5)];_0x30c4ec++){const _0x10f35f=_0x30c4ec/(_0x4d37cc['length']-0x1);_0x446d9e[_0x1f6652(0x3aa)]=_0x10f35f*0.35,_0x446d9e[_0x1f6652(0x2c2)]=_0x356f29['c'],_0x446d9e[_0x1f6652(0x307)]=Math[_0x1f6652(0x1d8)](0.5,_0x356f29['size']*_0x10f35f*2.4),_0x446d9e['beginPath'](),_0x446d9e[_0x1f6652(0x1cb)](_0x4d37cc[_0x30c4ec-0x1]['x'],_0x4d37cc[_0x30c4ec-0x1]['y']),_0x446d9e[_0x1f6652(0x3bf)](_0x4d37cc[_0x30c4ec]['x'],_0x4d37cc[_0x30c4ec]['y']),_0x446d9e[_0x1f6652(0x394)]();}for(let _0x513017=0x1;_0x513017<_0x4d37cc[_0x1f6652(0x1f5)];_0x513017++){const _0x145f26=_0x513017/(_0x4d37cc[_0x1f6652(0x1f5)]-0x1);_0x446d9e[_0x1f6652(0x3aa)]=_0x145f26,_0x446d9e[_0x1f6652(0x2c2)]=_0x1f6652(0x2ef),_0x446d9e['lineWidth']=Math[_0x1f6652(0x1d8)](0.3,_0x356f29[_0x1f6652(0x21c)]*_0x145f26*0.7),_0x446d9e[_0x1f6652(0x3c7)](),_0x446d9e[_0x1f6652(0x1cb)](_0x4d37cc[_0x513017-0x1]['x'],_0x4d37cc[_0x513017-0x1]['y']),_0x446d9e[_0x1f6652(0x3bf)](_0x4d37cc[_0x513017]['x'],_0x4d37cc[_0x513017]['y']),_0x446d9e[_0x1f6652(0x394)]();}const _0x1cb05d=_0x446d9e[_0x1f6652(0x282)](_0x356f29['x'],_0x356f29['y'],0x0,_0x356f29['x'],_0x356f29['y'],_0x356f29[_0x1f6652(0x21c)]*0x5);_0x1cb05d[_0x1f6652(0x1f2)](0x0,_0x6e15e7(_0x1f6652(0x2ef),0x1)),_0x1cb05d['addColorStop'](0.25,_0x6e15e7(_0x1f6652(0x2ef),0.8)),_0x1cb05d[_0x1f6652(0x1f2)](0.55,_0x6e15e7(_0x356f29['c'],0.55)),_0x1cb05d['addColorStop'](0x1,_0x6e15e7(_0x356f29['c'],0x0)),_0x446d9e['globalAlpha']=0x1,_0x446d9e[_0x1f6652(0x39a)]=_0x1cb05d,_0x446d9e[_0x1f6652(0x3c7)](),_0x446d9e['arc'](_0x356f29['x'],_0x356f29['y'],_0x356f29[_0x1f6652(0x21c)]*0x5,0x0,_0x1f14e7),_0x446d9e['fill']();}}for(let _0x5d1c44=_0x3f8c63['length']-0x1;_0x5d1c44>=0x0;_0x5d1c44--){const _0x4344ed=_0x3f8c63[_0x5d1c44],_0x508615=_0x2b894d/0x3e8;_0x4344ed['x']+=_0x4344ed['vx']*_0x508615,_0x4344ed['y']+=_0x4344ed['vy']*_0x508615,_0x4344ed[_0x1f6652(0x1dd)]+=_0x2b894d,_0x4344ed['vy']+=0x78*_0x508615;if(_0x4344ed['life']>_0x4344ed[_0x1f6652(0x2bc)]){_0x3f8c63[_0x1f6652(0x1dc)](_0x5d1c44,0x1);continue;}_0x446d9e['globalAlpha']=(0x1-_0x4344ed[_0x1f6652(0x1dd)]/_0x4344ed[_0x1f6652(0x2bc)])*0.95,_0x446d9e[_0x1f6652(0x39a)]=_0x4344ed['c'],_0x446d9e[_0x1f6652(0x3c7)](),_0x446d9e['arc'](_0x4344ed['x'],_0x4344ed['y'],_0x4344ed['r'],0x0,_0x1f14e7),_0x446d9e[_0x1f6652(0x270)]();}_0x446d9e[_0x1f6652(0x3aa)]=0x1;};_0x57aeb3();for(let _0x1beb84=0x0;_0x1beb84<0x4;_0x1beb84++){const _0x12733b=_0x43a666();_0x12733b['life']=_0x1e73e4(0x0,_0x12733b[_0x4a03dd(0x2bc)]*0.5),_0x12733b['x']=_0x1e73e4(-0x28,_0x2d7f5d+0x28),_0x12733b['y']=_0x1e73e4(-0x28,_0x51cba9*0.7);for(let _0x37383b=_0x12733b[_0x4a03dd(0x2cf)];_0x37383b>0x0;_0x37383b--){_0x12733b['trail'][_0x4a03dd(0x2c3)]({'x':_0x12733b['x']-_0x12733b['vx']*_0x37383b*0.016,'y':_0x12733b['y']-_0x12733b['vy']*_0x37383b*0.016});}}_0x344068=_0x1072b1[_0x4a03dd(0x2a6)](_0x134452);try{new ResizeObserver(_0x57aeb3)[_0x4a03dd(0x3cc)](_0x2d5389);}catch(_0x378059){_0x1072b1[_0x4a03dd(0x364)](_0x4a03dd(0x2bb),_0x57aeb3);}const _0x8848c3=(_0x139219,_0x718720)=>{const _0x4adfdc=_0x4a03dd,_0x531b29=Math['max'](0x8,_0x1072b1[_0x4adfdc(0x305)]-_0x2d5389[_0x4adfdc(0x399)]-0x8),_0x78b1f5=Math[_0x4adfdc(0x1d8)](0x8,_0x1072b1[_0x4adfdc(0x278)]-_0x2d5389['offsetHeight']-0x8),_0x3da00d=_0x483fa7(_0x139219,0x8,_0x531b29),_0x34e49b=_0x483fa7(_0x718720,0x8,_0x78b1f5);return _0x2d5389['style'][_0x4adfdc(0x20c)]=_0x3da00d+'px',_0x2d5389['style'][_0x4adfdc(0x3c2)]=_0x34e49b+'px',_0x2d5389[_0x4adfdc(0x201)][_0x4adfdc(0x236)]=_0x4adfdc(0x1da),_0x2d5389[_0x4adfdc(0x201)][_0x4adfdc(0x31d)]=_0x4adfdc(0x1da),{'left':_0x3da00d,'top':_0x34e49b};};if(_0x523047[_0x4a03dd(0x219)])_0x8848c3(_0x523047['pos'][_0x4a03dd(0x20c)],_0x523047[_0x4a03dd(0x219)][_0x4a03dd(0x3c2)]);let _0x78d1fd=![],_0x57c556=0x0,_0x5aa540=0x0;_0x2d4178[_0x4a03dd(0x364)](_0x4a03dd(0x211),_0x15b481=>{const _0x2ed546=_0x4a03dd;_0x78d1fd=!![];const _0x3d83af=_0x2d5389[_0x2ed546(0x1ea)]();_0x57c556=_0x15b481[_0x2ed546(0x346)]-_0x3d83af[_0x2ed546(0x20c)],_0x5aa540=_0x15b481[_0x2ed546(0x33d)]-_0x3d83af[_0x2ed546(0x3c2)];try{_0x2d4178[_0x2ed546(0x37d)](_0x15b481[_0x2ed546(0x2b8)]);}catch(_0x180b97){}}),_0x2d4178[_0x4a03dd(0x364)](_0x4a03dd(0x1f8),_0xc051cb=>{const _0x23dd5e=_0x4a03dd;if(!_0x78d1fd)return;_0x8848c3(_0xc051cb[_0x23dd5e(0x346)]-_0x57c556,_0xc051cb[_0x23dd5e(0x33d)]-_0x5aa540);});const _0x4ca335=_0x368318=>{const _0xa68eb5=_0x4a03dd;if(!_0x78d1fd)return;_0x78d1fd=![];const _0x4bc804=_0x2d5389[_0xa68eb5(0x1ea)]();_0x523047[_0xa68eb5(0x219)]={'left':_0x4bc804[_0xa68eb5(0x20c)],'top':_0x4bc804[_0xa68eb5(0x3c2)]},_0x46e51d();try{_0x2d4178[_0xa68eb5(0x3b4)](_0x368318[_0xa68eb5(0x2b8)]);}catch(_0x2e81c1){}};_0x2d4178[_0x4a03dd(0x364)](_0x4a03dd(0x1c0),_0x4ca335),_0x2d4178[_0x4a03dd(0x364)](_0x4a03dd(0x38d),_0x4ca335);const _0x23fb10=()=>{const _0x3b560=_0x4a03dd;_0x523047[_0x3b560(0x35f)]=!_0x523047[_0x3b560(0x35f)],_0x46e51d(),_0x396c9e(),!_0x523047[_0x3b560(0x35f)]&&(_0x57aeb3(),_0x20cc5a=performance[_0x3b560(0x205)]());};_0x1072b1[_0x4a03dd(0x364)](_0x4a03dd(0x3b5),_0x3fe55a=>{const _0x29f61e=_0x4a03dd;if(_0x3b03d9)return;if(!_0x43dddf)return;const _0x25f35f=typeof _0x3fe55a[_0x29f61e(0x368)]===_0x29f61e(0x2b9)&&_0x3fe55a['composedPath']()[0x0]||_0x3fe55a['target'],_0x281b9a=(_0x25f35f&&_0x25f35f['tagName']||'')[_0x29f61e(0x22e)](),_0x3618f7=_0x281b9a===_0x29f61e(0x2e4)||_0x281b9a==='TEXTAREA'||_0x281b9a==='SELECT'||_0x25f35f&&_0x25f35f[_0x29f61e(0x27c)];if(_0x3618f7)return;if(_0x3fe55a[_0x29f61e(0x39d)]===_0x29f61e(0x3cb)||_0x3fe55a[_0x29f61e(0x39d)]===_0x29f61e(0x2ae)){_0x3fe55a[_0x29f61e(0x2f3)](),_0x23fb10();return;}const _0x4e3ccb=_0x523047['threeHotkey'];if(_0x4e3ccb&&!_0xc3c0c0()&&_0x3fe55a[_0x29f61e(0x39d)]!=='Insert'&&_0x3fe55a[_0x29f61e(0x39d)]!==_0x29f61e(0x2ae)&&(_0x3fe55a['key']===_0x4e3ccb||_0x3fe55a[_0x29f61e(0x290)][_0x29f61e(0x2df)]()===String(_0x4e3ccb)[_0x29f61e(0x2df)]())){_0x3fe55a[_0x29f61e(0x2f3)](),_0x20bd99();return;}const _0x9b4dc4=_0x523047[_0x29f61e(0x387)];_0x9b4dc4&&!_0xc3c0c0()&&(_0x3fe55a[_0x29f61e(0x290)]===_0x9b4dc4||_0x3fe55a['key'][_0x29f61e(0x2df)]()===String(_0x9b4dc4)[_0x29f61e(0x2df)]())&&(_0x3fe55a[_0x29f61e(0x2f3)](),_0x1dab2f());});};let _0x3b03d9=!![],_0x43dddf=![];const _0x223904=()=>{const _0x405ce3=_0x33dcce,_0x29271a=window,_0x5b3f6b=document,_0x26c1f0=_0x5b3f6b[_0x405ce3(0x332)](_0x405ce3(0x2ad));_0x26c1f0[_0x405ce3(0x37b)]=_0x405ce3(0x3ac),_0x26c1f0[_0x405ce3(0x32a)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-root{position:fixed;inset:0;z-index:2147483001;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x27Segoe\x20UI\x27,\x27Microsoft\x20YaHei\x20UI\x27,\x27Microsoft\x20YaHei\x27,sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:#eaf2ff;user-select:none;opacity:0;transition:opacity\x202s\x20ease;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-root.show{opacity:1;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-root.hide{opacity:0;pointer-events:none;transition:opacity\x20.4s\x20ease;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-root\x20canvas{position:absolute;inset:0;width:100%;height:100%;display:block;z-index:1;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-shade{position:absolute;inset:0;z-index:0;background:rgba(8,5,20,.62);}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-inner{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:center;justify-content:center;gap:14px;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-title{font-size:min(76px,11vw);font-weight:700;letter-spacing:8px;color:#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x2022px\x20rgba(168,85,247,.95),0\x200\x2052px\x20rgba(34,211,238,.55);margin-bottom:6px;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-avatar{width:min(200px,28vw);height:min(200px,28vw);border-radius:50%;overflow:hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:4px\x20solid\x20rgba(255,255,255,.55);background:rgba(168,85,247,.18);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x200\x2056px\x20rgba(168,85,247,.75),0\x200\x200\x2014px\x20rgba(34,211,238,.10);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:flex;align-items:center;justify-content:center;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-slogan{margin-top:10px;font-size:min(48px,7vw);font-weight:700;letter-spacing:10px;color:#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x2018px\x20rgba(168,85,247,.9),0\x200\x2042px\x20rgba(34,211,238,.5);}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-author{margin-top:12px;font-size:min(28px,4vw);color:#d9d2f5;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-qq{font-size:min(24px,3.6vw);color:#a99fd6;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-qq\x20b{color:#eaf2ff;font-weight:700;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-progress{width:min(600px,70vw);height:14px;border-radius:7px;margin-top:24px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(255,255,255,.14);overflow:hidden;border:1px\x20solid\x20rgba(168,85,247,.35);}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-bar{height:100%;width:0%;border-radius:7px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:linear-gradient(90deg,#22d3ee,#a855f7,#ec4899);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x200\x2020px\x20rgba(168,85,247,.9);}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ct-splash-pct{margin-top:14px;font-size:min(24px,3.4vw);color:#b8b0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-variant-numeric:tabular-nums;letter-spacing:2px;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-shade\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<canvas\x20class=\x22ct-splash-bg\x22></canvas>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-inner\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-title\x22>Comet\x20Terminal</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-avatar\x22><svg\x20viewBox=\x220\x200\x2096\x2096\x22\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20style=\x22width:100%;height:100%;display:block\x22\x20aria-hidden=\x22true\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<defs>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<radialGradient\x20id=\x22ct-avBg\x22\x20cx=\x220.35\x22\x20cy=\x220.3\x22\x20r=\x220.95\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#0b1a42\x22/><stop\x20offset=\x220.55\x22\x20stop-color=\x22#070d26\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#030510\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</radialGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<radialGradient\x20id=\x22ct-avNebA\x22\x20cx=\x220.5\x22\x20cy=\x220.5\x22\x20r=\x220.5\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#2a7bd0\x22\x20stop-opacity=\x22.5\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#2a7bd0\x22\x20stop-opacity=\x220\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</radialGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<radialGradient\x20id=\x22ct-avNebB\x22\x20cx=\x220.5\x22\x20cy=\x220.5\x22\x20r=\x220.5\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#7a4fd0\x22\x20stop-opacity=\x22.4\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#7a4fd0\x22\x20stop-opacity=\x220\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</radialGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<linearGradient\x20id=\x22ct-avIon\x22\x20gradientUnits=\x22userSpaceOnUse\x22\x20x1=\x2264\x22\x20y1=\x2236\x22\x20x2=\x226\x22\x20y2=\x2288\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#f2fbff\x22\x20stop-opacity=\x22.95\x22/><stop\x20offset=\x220.35\x22\x20stop-color=\x22#9fd2ff\x22\x20stop-opacity=\x22.7\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#9fd2ff\x22\x20stop-opacity=\x220\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</linearGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<linearGradient\x20id=\x22ct-avDust\x22\x20gradientUnits=\x22userSpaceOnUse\x22\x20x1=\x2262\x22\x20y1=\x2238\x22\x20x2=\x2214\x22\x20y2=\x2290\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#f4f7ff\x22\x20stop-opacity=\x22.8\x22/><stop\x20offset=\x220.5\x22\x20stop-color=\x22#c8d9f5\x22\x20stop-opacity=\x22.4\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#e8dcb8\x22\x20stop-opacity=\x220\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</linearGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<radialGradient\x20id=\x22ct-avComa\x22\x20cx=\x220.5\x22\x20cy=\x220.5\x22\x20r=\x220.5\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#ffffff\x22/><stop\x20offset=\x220.3\x22\x20stop-color=\x22#cfeaff\x22\x20stop-opacity=\x22.85\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220.7\x22\x20stop-color=\x22#7db8ff\x22\x20stop-opacity=\x22.4\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#7db8ff\x22\x20stop-opacity=\x220\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</radialGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<linearGradient\x20id=\x22ct-avCrossX\x22\x20gradientUnits=\x22userSpaceOnUse\x22\x20x1=\x2242\x22\x20y1=\x2236\x22\x20x2=\x2286\x22\x20y2=\x2236\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#ffffff\x22\x20stop-opacity=\x220\x22/><stop\x20offset=\x220.5\x22\x20stop-color=\x22#ffffff\x22\x20stop-opacity=\x22.8\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#ffffff\x22\x20stop-opacity=\x220\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</linearGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<linearGradient\x20id=\x22ct-avCrossY\x22\x20gradientUnits=\x22userSpaceOnUse\x22\x20x1=\x2264\x22\x20y1=\x2218\x22\x20x2=\x2264\x22\x20y2=\x2254\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<stop\x20offset=\x220\x22\x20stop-color=\x22#ffffff\x22\x20stop-opacity=\x220\x22/><stop\x20offset=\x220.5\x22\x20stop-color=\x22#ffffff\x22\x20stop-opacity=\x22.8\x22/><stop\x20offset=\x221\x22\x20stop-color=\x22#ffffff\x22\x20stop-opacity=\x220\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</linearGradient>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<filter\x20id=\x22ct-avBlur\x22\x20x=\x22-40%\x22\x20y=\x22-40%\x22\x20width=\x22180%\x22\x20height=\x22180%\x22><feGaussianBlur\x20stdDeviation=\x221.8\x22/></filter>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</defs>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<rect\x20width=\x2296\x22\x20height=\x2296\x22\x20fill=\x22url(#ct-avBg)\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ellipse\x20cx=\x2226\x22\x20cy=\x2222\x22\x20rx=\x2232\x22\x20ry=\x2220\x22\x20fill=\x22url(#ct-avNebA)\x22\x20opacity=\x22.8\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ellipse\x20cx=\x2274\x22\x20cy=\x2272\x22\x20rx=\x2234\x22\x20ry=\x2222\x22\x20fill=\x22url(#ct-avNebB)\x22\x20opacity=\x22.75\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M64\x2036\x20L6\x2088\x22\x20stroke=\x22url(#ct-avIon)\x22\x20stroke-width=\x223.4\x22\x20stroke-linecap=\x22round\x22\x20filter=\x22url(#ct-avBlur)\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M62\x2038\x20C44\x2056,\x2028\x2072,\x2012\x2088\x22\x20stroke=\x22url(#ct-avDust)\x22\x20stroke-width=\x227\x22\x20stroke-linecap=\x22round\x22\x20fill=\x22none\x22\x20filter=\x22url(#ct-avBlur)\x22\x20opacity=\x22.85\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M60\x2040\x20C46\x2056,\x2036\x2070,\x2022\x2086\x22\x20stroke=\x22url(#ct-avDust)\x22\x20stroke-width=\x223.4\x22\x20stroke-linecap=\x22round\x22\x20fill=\x22none\x22\x20filter=\x22url(#ct-avBlur)\x22\x20opacity=\x22.6\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2264\x22\x20cy=\x2236\x22\x20r=\x2217\x22\x20fill=\x22url(#ct-avComa)\x22\x20filter=\x22url(#ct-avBlur)\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M42\x2036\x20L86\x2036\x22\x20stroke=\x22url(#ct-avCrossX)\x22\x20stroke-width=\x220.8\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M64\x2018\x20L64\x2054\x22\x20stroke=\x22url(#ct-avCrossY)\x22\x20stroke-width=\x220.8\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2264\x22\x20cy=\x2236\x22\x20r=\x224.4\x22\x20fill=\x22#ffffff\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2264\x22\x20cy=\x2236\x22\x20r=\x221.9\x22\x20fill=\x22#eaf6ff\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<g\x20fill=\x22#ffffff\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2218\x22\x20cy=\x2234\x22\x20r=\x221.2\x22\x20opacity=\x22.8\x22/><circle\x20cx=\x2230\x22\x20cy=\x2212\x22\x20r=\x221\x22\x20opacity=\x22.65\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2246\x22\x20cy=\x2220\x22\x20r=\x220.9\x22\x20opacity=\x22.7\x22/><circle\x20cx=\x2282\x22\x20cy=\x2224\x22\x20r=\x221.1\x22\x20opacity=\x22.75\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2288\x22\x20cy=\x2252\x22\x20r=\x221\x22\x20opacity=\x22.6\x22/><circle\x20cx=\x2276\x22\x20cy=\x2280\x22\x20r=\x221.2\x22\x20opacity=\x22.7\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2240\x22\x20cy=\x2282\x22\x20r=\x220.9\x22\x20opacity=\x22.55\x22/><circle\x20cx=\x2212\x22\x20cy=\x2266\x22\x20r=\x221\x22\x20opacity=\x22.6\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</g>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2218\x22\x20cy=\x2234\x22\x20r=\x223.2\x22\x20fill=\x22#ffffff\x22\x20opacity=\x22.18\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2282\x22\x20cy=\x2224\x22\x20r=\x223\x22\x20fill=\x22#cfe2ff\x22\x20opacity=\x22.16\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-slogan\x22>彗翼乘风\x20星赴此约</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-author\x22>作者：T_T</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-qq\x22>QQ：<b>669481357</b></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-progress\x22><div\x20class=\x22ct-splash-bar\x22></div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ct-splash-pct\x22>0%</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>',_0x5b3f6b[_0x405ce3(0x2bf)][_0x405ce3(0x2cb)](_0x26c1f0);const _0x30a8de=_0x26c1f0['querySelector'](_0x405ce3(0x325)),_0x4c0572=_0x30a8de[_0x405ce3(0x382)]('2d'),_0x5d5556=Math['PI']*0x2,_0x269f41=['#67e8f9',_0x405ce3(0x3ab),_0x405ce3(0x21e),_0x405ce3(0x32d),_0x405ce3(0x22a)],_0x261328=(_0x2241c9,_0x9e5602)=>_0x2241c9+Math[_0x405ce3(0x213)]()*(_0x9e5602-_0x2241c9);let _0x38a7aa=_0x29271a[_0x405ce3(0x305)],_0x2b01ae=_0x29271a[_0x405ce3(0x278)],_0x57737f=[],_0x391dbc=[],_0x205644=[],_0x32d3ff=0x0,_0x1b15bb=0x0,_0x3a655e=performance['now'](),_0x2167af=![];const _0x1f555a=()=>{const _0x1ebfe6=_0x405ce3,_0x2a1ca7=Math['min'](_0x29271a[_0x1ebfe6(0x330)]||0x1,0x2);_0x38a7aa=_0x29271a[_0x1ebfe6(0x305)],_0x2b01ae=_0x29271a[_0x1ebfe6(0x278)],_0x30a8de[_0x1ebfe6(0x247)]=Math[_0x1ebfe6(0x2e7)](_0x38a7aa*_0x2a1ca7),_0x30a8de[_0x1ebfe6(0x335)]=Math[_0x1ebfe6(0x2e7)](_0x2b01ae*_0x2a1ca7),_0x4c0572[_0x1ebfe6(0x2cd)](_0x2a1ca7,0x0,0x0,_0x2a1ca7,0x0,0x0),_0x57737f=[];const _0xb11496=Math[_0x1ebfe6(0x2e7)](Math[_0x1ebfe6(0x296)](0xdc,_0x38a7aa*_0x2b01ae/0x2328));for(let _0x49050f=0x0;_0x49050f<_0xb11496;_0x49050f++){const _0x100870=Math[_0x1ebfe6(0x213)]()<0.06;_0x57737f[_0x1ebfe6(0x2c3)]({'x':Math[_0x1ebfe6(0x213)]()*_0x38a7aa,'y':Math[_0x1ebfe6(0x213)]()*_0x2b01ae,'r':_0x100870?_0x261328(1.6,2.6):_0x261328(0.4,1.3),'a':_0x261328(0.3,0.95),'tw':_0x261328(0.0008,0.004),'ph':_0x261328(0x0,_0x5d5556),'big':_0x100870});}},_0x483fe9=()=>{const _0x5ddfc8=_0x405ce3,_0x298219=Math[_0x5ddfc8(0x213)]()<0.5,_0x1160dc=(0x10+Math[_0x5ddfc8(0x213)]()*0x12)*Math['PI']/0xb4,_0x26e711=_0x261328(0x104,0x1cc),_0x5e66b8=Math[_0x5ddfc8(0x213)]()<0.2;_0x391dbc['push']({'x':_0x298219?_0x261328(-0x3c,_0x38a7aa*0.4):_0x261328(_0x38a7aa*0.6,_0x38a7aa+0x3c),'y':_0x261328(-0x28,_0x2b01ae*0.55),'vx':Math['cos'](_0x1160dc)*_0x26e711*(_0x298219?0x1:-0x1),'vy':Math[_0x5ddfc8(0x23b)](_0x1160dc)*_0x26e711,'life':0x0,'maxLife':_0x261328(0x7d0,0xd48),'size':_0x5e66b8?_0x261328(2.2,0x3):_0x261328(1.3,2.1),'fb':_0x5e66b8,'trail':[],'maxTrail':_0x5e66b8?0x36:0x20,'c':_0x269f41[Math[_0x5ddfc8(0x213)]()*_0x269f41['length']|0x0]});},_0x452f6b=_0x469f3a=>{const _0x36b311=_0x405ce3;for(let _0x40916f=0x0;_0x40916f<0x12;_0x40916f++){const _0x34127f=Math[_0x36b311(0x213)]()*_0x5d5556,_0xbbb801=_0x261328(0x3c,0xf0);_0x205644['push']({'x':_0x469f3a['x'],'y':_0x469f3a['y'],'vx':Math[_0x36b311(0x276)](_0x34127f)*_0xbbb801,'vy':Math[_0x36b311(0x23b)](_0x34127f)*_0xbbb801,'life':0x0,'maxLife':_0x261328(0x15e,0x2ee),'r':_0x261328(0.8,0x2),'c':_0x469f3a['c']});}},_0xb81d46=_0x411e2d=>{const _0x519f47=_0x405ce3;if(_0x2167af)return;_0x32d3ff=_0x29271a[_0x519f47(0x2a6)](_0xb81d46);const _0x5b214f=Math[_0x519f47(0x296)](0x32,_0x411e2d-_0x3a655e);_0x3a655e=_0x411e2d;const _0x58000d=_0x5b214f/0x3e8;_0x4c0572[_0x519f47(0x207)](0x0,0x0,_0x38a7aa,_0x2b01ae);for(const _0xdca6b5 of _0x57737f){const _0x5e3a02=_0xdca6b5['a']*(0.55+0.45*Math[_0x519f47(0x23b)](_0x411e2d*_0xdca6b5['tw']+_0xdca6b5['ph']));if(_0xdca6b5[_0x519f47(0x269)]){const _0x21beb4=_0x4c0572[_0x519f47(0x282)](_0xdca6b5['x'],_0xdca6b5['y'],0x0,_0xdca6b5['x'],_0xdca6b5['y'],_0xdca6b5['r']*0x4);_0x21beb4['addColorStop'](0x0,_0x519f47(0x1de)+Math[_0x519f47(0x1d8)](0x0,_0x5e3a02)+')'),_0x21beb4[_0x519f47(0x1f2)](0x1,_0x519f47(0x2fd)),_0x4c0572[_0x519f47(0x3aa)]=0x1,_0x4c0572[_0x519f47(0x39a)]=_0x21beb4,_0x4c0572[_0x519f47(0x3c7)](),_0x4c0572['arc'](_0xdca6b5['x'],_0xdca6b5['y'],_0xdca6b5['r']*0x4,0x0,_0x5d5556),_0x4c0572[_0x519f47(0x270)]();}_0x4c0572[_0x519f47(0x3aa)]=Math[_0x519f47(0x1d8)](0x0,_0x5e3a02),_0x4c0572[_0x519f47(0x39a)]=_0x519f47(0x2a1),_0x4c0572[_0x519f47(0x3c7)](),_0x4c0572[_0x519f47(0x251)](_0xdca6b5['x'],_0xdca6b5['y'],_0xdca6b5['r'],0x0,_0x5d5556),_0x4c0572['fill']();}_0x4c0572[_0x519f47(0x3aa)]=0x1,_0x1b15bb+=_0x5b214f;_0x1b15bb>_0x261328(0x12c,0x2bc)&&_0x391dbc['length']<0x9&&(_0x1b15bb=0x0,_0x483fe9());for(let _0x34a90d=_0x391dbc[_0x519f47(0x1f5)]-0x1;_0x34a90d>=0x0;_0x34a90d--){const _0x2571a9=_0x391dbc[_0x34a90d];_0x2571a9[_0x519f47(0x34d)][_0x519f47(0x2c3)]({'x':_0x2571a9['x'],'y':_0x2571a9['y']});if(_0x2571a9[_0x519f47(0x34d)][_0x519f47(0x1f5)]>_0x2571a9[_0x519f47(0x2cf)])_0x2571a9['trail'][_0x519f47(0x2a0)]();_0x2571a9['x']+=_0x2571a9['vx']*_0x58000d,_0x2571a9['y']+=_0x2571a9['vy']*_0x58000d,_0x2571a9['life']+=_0x5b214f;if(_0x2571a9[_0x519f47(0x1dd)]>_0x2571a9['maxLife']||_0x2571a9['x']<-0x8c||_0x2571a9['x']>_0x38a7aa+0x8c||_0x2571a9['y']>_0x2b01ae+0x8c){if(_0x2571a9['fb'])_0x452f6b(_0x2571a9);_0x391dbc['splice'](_0x34a90d,0x1);continue;}const _0x3fce6d=_0x2571a9[_0x519f47(0x34d)];if(_0x3fce6d['length']>0x1){_0x4c0572['lineCap']=_0x519f47(0x2e7);for(let _0x3d3e96=0x1;_0x3d3e96<_0x3fce6d['length'];_0x3d3e96++){const _0x2ff57c=_0x3d3e96/(_0x3fce6d[_0x519f47(0x1f5)]-0x1);_0x4c0572[_0x519f47(0x3aa)]=_0x2ff57c*0.32,_0x4c0572[_0x519f47(0x2c2)]=_0x2571a9['c'],_0x4c0572[_0x519f47(0x307)]=Math[_0x519f47(0x1d8)](0.5,_0x2571a9['size']*_0x2ff57c*2.4),_0x4c0572['beginPath'](),_0x4c0572[_0x519f47(0x1cb)](_0x3fce6d[_0x3d3e96-0x1]['x'],_0x3fce6d[_0x3d3e96-0x1]['y']),_0x4c0572[_0x519f47(0x3bf)](_0x3fce6d[_0x3d3e96]['x'],_0x3fce6d[_0x3d3e96]['y']),_0x4c0572['stroke']();}for(let _0x519731=0x1;_0x519731<_0x3fce6d[_0x519f47(0x1f5)];_0x519731++){const _0x55bbc8=_0x519731/(_0x3fce6d[_0x519f47(0x1f5)]-0x1);_0x4c0572['globalAlpha']=_0x55bbc8,_0x4c0572[_0x519f47(0x2c2)]=_0x519f47(0x2ef),_0x4c0572['lineWidth']=Math[_0x519f47(0x1d8)](0.3,_0x2571a9[_0x519f47(0x21c)]*_0x55bbc8*0.7),_0x4c0572[_0x519f47(0x3c7)](),_0x4c0572[_0x519f47(0x1cb)](_0x3fce6d[_0x519731-0x1]['x'],_0x3fce6d[_0x519731-0x1]['y']),_0x4c0572['lineTo'](_0x3fce6d[_0x519731]['x'],_0x3fce6d[_0x519731]['y']),_0x4c0572['stroke']();}const _0x5703ed=_0x4c0572[_0x519f47(0x282)](_0x2571a9['x'],_0x2571a9['y'],0x0,_0x2571a9['x'],_0x2571a9['y'],_0x2571a9[_0x519f47(0x21c)]*0x5);_0x5703ed[_0x519f47(0x1f2)](0x0,_0x519f47(0x2bd)),_0x5703ed['addColorStop'](0.25,_0x519f47(0x253)),_0x5703ed[_0x519f47(0x1f2)](0.55,_0x519f47(0x329)),_0x5703ed['addColorStop'](0x1,_0x519f47(0x24b)),_0x4c0572[_0x519f47(0x3aa)]=0x1,_0x4c0572[_0x519f47(0x39a)]=_0x5703ed,_0x4c0572[_0x519f47(0x3c7)](),_0x4c0572[_0x519f47(0x251)](_0x2571a9['x'],_0x2571a9['y'],_0x2571a9[_0x519f47(0x21c)]*0x5,0x0,_0x5d5556),_0x4c0572[_0x519f47(0x270)]();}}for(let _0x3e3a15=_0x205644[_0x519f47(0x1f5)]-0x1;_0x3e3a15>=0x0;_0x3e3a15--){const _0x500190=_0x205644[_0x3e3a15];_0x500190['x']+=_0x500190['vx']*_0x58000d,_0x500190['y']+=_0x500190['vy']*_0x58000d,_0x500190[_0x519f47(0x1dd)]+=_0x5b214f,_0x500190['vy']+=0x78*_0x58000d;if(_0x500190['life']>_0x500190['maxLife']){_0x205644['splice'](_0x3e3a15,0x1);continue;}_0x4c0572[_0x519f47(0x3aa)]=(0x1-_0x500190[_0x519f47(0x1dd)]/_0x500190['maxLife'])*0.95,_0x4c0572[_0x519f47(0x39a)]=_0x500190['c'],_0x4c0572[_0x519f47(0x3c7)](),_0x4c0572[_0x519f47(0x251)](_0x500190['x'],_0x500190['y'],_0x500190['r'],0x0,_0x5d5556),_0x4c0572[_0x519f47(0x270)]();}_0x4c0572[_0x519f47(0x3aa)]=0x1;},_0x48ab92=()=>_0x1f555a();_0x29271a[_0x405ce3(0x364)]('resize',_0x48ab92),_0x1f555a();for(let _0x2e0739=0x0;_0x2e0739<0x6;_0x2e0739++){_0x483fe9();const _0x4f00eb=_0x391dbc[_0x391dbc[_0x405ce3(0x1f5)]-0x1];_0x4f00eb[_0x405ce3(0x1dd)]=_0x261328(0x0,_0x4f00eb[_0x405ce3(0x2bc)]*0.4),_0x4f00eb['x']=_0x261328(0x0,_0x38a7aa),_0x4f00eb['y']=_0x261328(0x0,_0x2b01ae*0.7);}_0x32d3ff=_0x29271a[_0x405ce3(0x2a6)](_0xb81d46);const _0x8b651d=_0x26c1f0[_0x405ce3(0x3a9)](_0x405ce3(0x2fc)),_0x567a1a=_0x26c1f0[_0x405ce3(0x3a9)](_0x405ce3(0x36f)),_0x2114ea=0xa8c,_0x48c271=performance['now'](),_0x2d7e5d=()=>{const _0x402e08=_0x405ce3;if(_0x2167af)return;_0x2167af=!![],_0x29271a[_0x402e08(0x3c0)](_0x32d3ff),_0x29271a['removeEventListener'](_0x402e08(0x2bb),_0x48ab92),_0x29271a[_0x402e08(0x279)](_0x402e08(0x3b5),_0x3f12ac),_0x26c1f0[_0x402e08(0x1e6)]['remove'](_0x402e08(0x2b4)),_0x26c1f0[_0x402e08(0x1e6)][_0x402e08(0x389)](_0x402e08(0x2b3)),setTimeout(()=>{const _0x3a5fae=_0x402e08;_0x26c1f0[_0x3a5fae(0x257)](),_0x3b03d9=![],window[_0x3a5fae(0x275)](new CustomEvent('ct-splash-done'));},0x1c2);},_0x3f12ac=_0x3e87c7=>{const _0x24bdef=_0x405ce3;if(_0x3e87c7[_0x24bdef(0x39d)]===_0x24bdef(0x308))_0x2d7e5d();};_0x29271a['addEventListener'](_0x405ce3(0x3b5),_0x3f12ac),_0x26c1f0[_0x405ce3(0x1e6)][_0x405ce3(0x389)](_0x405ce3(0x2b4));const _0x37ff5c=_0x19ecc2=>{const _0x5a9c50=_0x405ce3,_0x2eeb24=Math['min'](0x1,(_0x19ecc2-_0x48c271)/_0x2114ea);_0x8b651d[_0x5a9c50(0x201)]['width']=(_0x2eeb24*0x64)[_0x5a9c50(0x380)](0x1)+'%',_0x567a1a[_0x5a9c50(0x2e9)]=Math[_0x5a9c50(0x2e7)](_0x2eeb24*0x64)+'%';if(_0x2eeb24<0x1&&!_0x2167af)_0x29271a['requestAnimationFrame'](_0x37ff5c);else{if(!_0x2167af)_0x2d7e5d();}};_0x29271a[_0x405ce3(0x2a6)](_0x37ff5c);},_0x523f88=()=>{const _0x41f0f0=_0x33dcce,_0x360458=window;_0xf4cbae[_0x41f0f0(0x21c)]===0x0&&console[_0x41f0f0(0x24f)]('[CometTerminal]\x20名称白名单为空：请先在脚本\x20AUTHORIZED_NAMES\x20中填入授权名称。');const _0x17e1bf=_0x41f0f0(0x2db);if(_0x26c313[_0x41f0f0(0x3cd)](_0x17e1bf))return;const _0x2f84c1=_0x26c313['createElement'](_0x41f0f0(0x2ad));_0x2f84c1['id']=_0x17e1bf,_0x2f84c1['setAttribute'](_0x41f0f0(0x201),_0x41f0f0(0x291)),_0x26c313['documentElement'][_0x41f0f0(0x2cb)](_0x2f84c1);const _0x3d59fc=_0x2f84c1[_0x41f0f0(0x37f)]({'mode':_0x41f0f0(0x3bd)});_0x3d59fc[_0x41f0f0(0x32a)]=_0x41f0f0(0x32b);const _0x342458=_0x3d59fc[_0x41f0f0(0x3a9)](_0x41f0f0(0x34c)),_0x42e9b8=_0x3d59fc[_0x41f0f0(0x3a9)](_0x41f0f0(0x3c6)),_0x345859=_0x3d59fc['querySelector'](_0x41f0f0(0x2fa)),_0x19bb3b=_0x3d59fc[_0x41f0f0(0x3a9)](_0x41f0f0(0x250)),_0x40cfbf=_0x3d59fc[_0x41f0f0(0x3a9)]('.x');let _0x230852=![],_0x3e65cd=![];const _0x208991=()=>{const _0x5c07cb=_0x41f0f0;if(!_0x230852)return;_0x342458['classList'][_0x5c07cb(0x389)](_0x5c07cb(0x2b3)),_0x360458[_0x5c07cb(0x214)](()=>_0x2f84c1['remove'](),0x140);};_0x40cfbf[_0x41f0f0(0x364)](_0x41f0f0(0x38b),_0x208991);const _0x6c7dab=(_0x5db6ab,_0x53a1f0)=>{const _0x26cd71=_0x41f0f0;if(_0x230852)return;_0x230852=!![],_0x345859[_0x26cd71(0x2e9)]=_0x53a1f0||'—',_0x5db6ab==='ok'?(_0x42e9b8[_0x26cd71(0x37b)]=_0x26cd71(0x34b),_0x42e9b8['innerHTML']=_0x26cd71(0x3af),_0x19bb3b[_0x26cd71(0x2e9)]='Insert\x20/\x20-\x20呼出窗口\u3000·\u3000'+(_0x523047[_0x26cd71(0x2a4)]||'9')+_0x26cd71(0x3b8)):(_0x42e9b8[_0x26cd71(0x37b)]='msg\x20no',_0x42e9b8[_0x26cd71(0x32a)]=_0x26cd71(0x2e0),_0x19bb3b[_0x26cd71(0x2e9)]=_0x26cd71(0x1e5)),_0x2f84c1[_0x26cd71(0x201)][_0x26cd71(0x3ae)]='block';},_0x4d17ad=()=>{const _0x309d3a=_0x41f0f0,_0x21f202=_0x26c313[_0x309d3a(0x3cd)](_0x14d1e0),_0x556318=_0x21f202&&_0x21f202[_0x309d3a(0x2d8)]&&_0x21f202[_0x309d3a(0x2d8)][_0x309d3a(0x3a9)](_0x309d3a(0x355));_0x556318&&(_0x556318[_0x309d3a(0x1e6)]['remove'](_0x309d3a(0x222),_0x309d3a(0x377)),_0x523047['hidden']&&(_0x523047[_0x309d3a(0x35f)]=![],_0x46e51d(),_0x556318[_0x309d3a(0x1e6)][_0x309d3a(0x257)](_0x309d3a(0x35f))));},_0xb718f9=()=>{const _0x311b68=_0x41f0f0;_0x1d893f(),_0x2c5f88['setEnabled'](_0x523047['outline'],{'reason':_0x311b68(0x1d7)}),_0x2c5f88[_0x311b68(0x31e)](_0x523047['allyOutline'],{'reason':'standalone-name-auth-pass-ally'}),_0x2c5f88[_0x311b68(0x286)](_0x523047['ids'],{'reason':_0x311b68(0x231)}),_0x9cfcd3();if(_0x523047[_0x311b68(0x2ac)])_0x5301e0();_0x3b2b82();},_0x14339a=_0x1b5a2b=>{const _0x11482f=_0x41f0f0;if(_0x3e65cd)return;_0x3e65cd=!![],_0x43dddf=!![],_0x4d17ad(),_0xb718f9(),_0x6c7dab('ok',_0x1b5a2b);try{_0x360458[_0x11482f(0x3a1)](_0x1c6e37);}catch(_0x5923dc){}_0x360458[_0x11482f(0x214)](_0x208991,0x1f40);},_0x27b81e=_0x225400=>{const _0x4e06f3=_0x41f0f0;if(_0x3e65cd)return;_0x3e65cd=!![],_0x523047[_0x4e06f3(0x1f4)]=![],_0x46e51d(),_0x9cfcd3(),_0x523047['mineEnabled']=![],_0x232906(),_0x46e51d(),_0x3b2b82(),_0x5f22b7(),_0x6c7dab('no',_0x225400);try{_0x360458['clearInterval'](_0x1c6e37);}catch(_0x4fc240){}};let _0x38f5aa=![],_0x1c6e37=0x0;const _0xce7d07=()=>{const _0x4ea717=_0x41f0f0;if(_0x3e65cd)return;const _0x1ea0c7=_0x250693();if(!_0x1ea0c7[_0x4ea717(0x24a)])return;if(_0x1866e2(_0x1ea0c7[_0x4ea717(0x24a)]))_0x14339a(_0x1ea0c7['name']);else _0x27b81e(_0x1ea0c7['name']);},_0x3e9933=()=>{const _0x1b4acf=_0x41f0f0;if(_0x38f5aa)return;_0x38f5aa=!![],_0xce7d07();if(!_0x3e65cd)_0x1c6e37=_0x360458[_0x1b4acf(0x24d)](_0xce7d07,0x320);};if(!_0x3b03d9)_0x3e9933();else _0x360458[_0x41f0f0(0x364)](_0x41f0f0(0x1ef),_0x3e9933,{'once':!![]});};_0x223904(),_0x3c72e6(),_0x523f88();}());
+// ==UserScript==
+// @name         彗星终端
+// @namespace    http://tampermonkey.net/
+// @version      1.2.2
+// @description  敌友精细轮廓、可击中颜色、自身残骸排除、敌方ID透视；新增敌方无敌期(白)与人机(紫)轮廓区分。适配 2026 新混淆 bundle。
+// @match        https://3dtank.com/play/*
+// @match        https://*.3dtank.com/play/*
+// @match        https://*.tankionline.com/play/*
+// @include      https://*.test-*.tankionline.com/*
+// @grant        none
+// @run-at       document-start
+// @noframes
+// ==/UserScript==
+
+// ===== 战术透视早期模型捕获（必须先于游戏 main.js 创建坦克皮肤，====
+(function installTankTacticalXrayRuntime() {
+    'use strict';
+    const page = window;
+    const GLOBAL_NAME = '__TankXrayDebugRuntime';
+    const VERSION = '4.8.0-standalone';
+    const STATE_EVENT = 'tank-assistant-suite:xray-state';
+    const REQUEST_EVENT = 'tank-assistant-suite:xray-request';
+    const TARGET_VISUAL_EVENT = 'tank-assistant-suite:native-target-state';
+    const ADAPTER_NAME = '纯透视版：自身/残骸排除 + 敌友精细轮廓 + 敌方 ID';
+    const RESCAN_INTERVAL_MS = 350;
+    // 敌方昵称牌“强制显示”补发的最小间隔：修复“一发即走”——首次补发若时机太早/被游戏吞掉，
+    // 之后游戏按距离/复活再次隐藏时不再补发。改为周期性对仍被隐藏的合格敌方重发（节流，避免刷屏）。
+    const TITLE_RESEND_MS = 1000;
+    const HITTABLE_SIGNAL_TTL_MS = 650;
+    // 与游戏玩家标题使用完全相同的原生敌我颜色。
+    const ALLY_COLOR = 3390463;   // #33BBFF
+    const ENEMY_COLOR = 16737894; // #FF6666
+    const HITTABLE_COLOR = 16750592; // #FF9800 可击中（瞄准）敌人
+    // 敌方无敌/出生保护期（ClientTankState.SEMI_ACTIVE）轮廓色：白色。
+    const INVINCIBLE_COLOR = 16777215; // #FFFFFF
+    // 敌方人机（bot，含 botControl 组件）轮廓色：紫色，与真人红色区分。
+    const BOT_COLOR = 16711935; // #FF00FF
+    const TEAM_ALLY = 'ally';
+    const TEAM_ENEMY = 'enemy';
+    const TEAM_UNKNOWN = 'unknown';
+    const CLIENT_STATE_DEAD = 0;
+    const CLIENT_STATE_DEAD_PHANTOM = 1;
+    const CLIENT_STATE_SEMI_ACTIVE = 2; // 出生/复活无敌保护期
+    // 轮廓着色高频读取：对坦克状态索引与 bot 判定结果做短时缓存，避免每帧泛扫描。
+    const STATE_READ_CACHE_MS = 500;
+    const STATE_NULL_CACHE_MS = 150; // 读不到状态时的短缓存，兼顾性能与出生无敌窗口灵敏度
+    const BOT_DETECT_CACHE_MS = 30000; // 命中“人机”后长缓存，渲染热路径不再重复探测
+    const BOT_MISS_CACHE_MS = 8000;    // 未命中/超时也缓存，避免反复扫描造成卡顿
+    // 坦克状态枚举字段（旧构建 izy_1，新构建 o101_1，位于坦克状态组件上）。
+    const STATE_ENUM_FIELDS = Object.freeze(['o101_1', 'izy_1']);
+    // 坦克状态组件在所有者上的字段（旧构建 n14t_1/e119_1/b127_1，新构建 d16b_1/h12a_1 等）。
+    const TANK_COMPONENT_FIELDS = Object.freeze(['d16b_1', 'h12a_1', 'n14t_1', 'e119_1', 'b127_1']);
+    const previous = page[GLOBAL_NAME];
+
+    // 热更新时沿用已捕获对象。
+    if (previous && previous.version === VERSION && typeof previous.resume === 'function') {
+        previous.resume('standalone-script-reload');
+        return;
+    }
+
+    const ROOT_FIELD_SPECS = Object.freeze([
+        // 普通悬浮底盘皮肤创建的根节点（新构建 x14w_1，旧构建 r14t_1）。
+        Object.freeze({ field: 'x14w_1', label: 'HullSkin.root' }),
+        Object.freeze({ field: 'r14t_1', label: 'HullSkin.root.legacy' }),
+        // 履带坦克皮肤保存的根节点（新构建 m17a_1，旧构建 z176_1）。
+        Object.freeze({ field: 'm17a_1', label: 'TrackedTankSkin.root' }),
+        Object.freeze({ field: 'z176_1', label: 'TrackedTankSkin.root.legacy' }),
+    ]);
+
+    // 标题（昵称牌）根节点字段：新构建 f12a_1（标题组件 Tot），旧构建 t11k_1。
+    const TITLE_ROOT_FIELDS = Object.freeze(['f12a_1', 't11k_1']);
+    // 敌我关系字段：新构建 o12a_1（标题组件 Tot）、q15h_1（关系组件 rzt），旧构建 i127_1。
+    const TEAM_RELATION_FIELDS = Object.freeze(['o12a_1', 'q15h_1', 'i127_1']);
+    // 昵称字符串字段：新构建 g12a_1（标题组件 b12b 设置），旧构建 e127_1。
+    const NICKNAME_FIELDS = Object.freeze(['g12a_1', 'k12a_1', 'e127_1']);
+    // 标题可见性布尔字段：新构建 t12a_1（xot() 设置），旧构建 n127_1。
+    const TITLE_VISIBLE_FIELDS = Object.freeze(['t12a_1', 'n127_1']);
+    const OUTLINE_GROUPS = Object.freeze([
+        Object.freeze({
+            kind: 'mesh',
+            fields: Object.freeze([
+                Object.freeze({ field: 'x3m_1', role: 'enabled' }),
+                Object.freeze({ field: 'y3m_1', role: 'color' }),
+                Object.freeze({ field: 'z3m_1', role: 'thick' }),
+            ]),
+        }),
+        Object.freeze({
+            kind: 'lod',
+            fields: Object.freeze([
+                Object.freeze({ field: 't4x_1', role: 'enabled' }),
+                Object.freeze({ field: 'u4x_1', role: 'color' }),
+                Object.freeze({ field: 'v4x_1', role: 'thick' }),
+            ]),
+        }),
+    ]);
+
+    let enabled = false;
+    let idEnabled = false;
+    // 队友轮廓独立开关：默认为 true，保持“轮廓一开、敌友都描边”的原有行为。
+    // 关闭后仅队友（TEAM_ALLY）的坦克轮廓被强制关闭，敌方轮廓不受影响。
+    let allyOutlineEnabled = true;
+    // 独立版没有密码层；运行时立即进入可控制状态，具体透视开关仍默认为关闭。
+    let active = true;
+    let allyColor = ALLY_COLOR;
+    let enemyColor = ENEMY_COLOR;
+    let hittableColor = HITTABLE_COLOR;
+    let invincibleColor = INVINCIBLE_COLOR;
+    let botColor = BOT_COLOR;
+    let changedAt = Date.now();
+    let lastReason = 'bootstrap';
+    let rescanTimer = null;
+    let publishTimer = null;
+    let lastPublishedSignature = '';
+    let rootAssignments = 0;
+    let capturedRootCount = 0;
+    let instrumentedNodeCount = 0;
+    let instrumentedMeshCount = 0;
+    let instrumentedLodCount = 0;
+    let overrideReads = 0;
+    let fieldAssignments = 0;
+    let teamAssignments = 0;
+    let enemyTitleOverrideEvents = 0;
+    let titleVisibilityDispatches = 0;
+    let targetVisualEvents = 0;
+    let targetBusEvents = 0;
+    let instrumentedEntityBusCount = 0;
+    let pendingTitleVisibility = null;
+    let titleVisibilityEventConstructor = null;
+    const hookErrors = [];
+    const rootSeen = new WeakSet();
+    const nodeSeen = new WeakSet();
+    const rootRecords = [];
+    const rootRecordByObject = new WeakMap();
+    const nodeInstrumentation = new WeakMap();
+    const teamByEntity = new WeakMap();
+    const rootsByEntity = new WeakMap();
+    const hittableUntilByEntity = new WeakMap();
+    // 实体 → 治疗（Isida 奶队友）原生绿色描边信号到期时间戳。
+    // 治疗描边与伤害描边同为 QMt(颜色,粗细) 事件，仅落在“被治疗队友”总线上、颜色为绿。
+    // 治疗中的队友节点直接返回原生轮廓值（绿），不再被我们锁成蓝色。
+    const healingUntilByEntity = new WeakMap();
+    // 实体 → { at, index } 坦克状态读取短时缓存；实体 → { at, bot } 人机判定缓存。
+    const stateIndexCacheByEntity = new WeakMap();
+    const botDetectCacheByEntity = new WeakMap();
+    // 实体 → 最近一次“出生”（观测到 SEMI_ACTIVE）时刻。
+    // 出生后游戏分两段保护：①幽灵半透明段(状态=SEMI_ACTIVE) ②变实后的不朽护盾段。
+    // 第②段现在直读效果模块 Fut 的 b11u_1 护盾结束时刻（有限值=护盾在 / 巨大哨兵=已结束），
+    //   护盾一结束游戏当帧即把字段重置为哨兵 → 据此切色可做到 0 延迟。
+    // SPAWN_PROTECT_GATE_MS：只在出生后这段时间内逐帧轮询 Fut 字段（平时不读、零开销），必须覆盖最长护盾。
+    // SPAWN_PROTECT_WHITE_MS：读不到 Fut（构建差异）时的固定兜底白色窗口。
+    const spawnSeenAtByEntity = new WeakMap();
+    const SPAWN_PROTECT_GATE_MS = 8000;   // 出生后允许逐帧检查真实护盾的时间窗
+    const SPAWN_PROTECT_WHITE_MS = 5085;  // 仅在真实护盾读不到时的兜底固定白色
+    const SPAWN_START_GRACE_MS = 350;     // 出生瞬间护盾字段可能尚未置位，起始宽限（只影响开始、不影响结束 0 延迟）
+    const titleRecordByOwner = new WeakMap();
+    const titleRecords = [];
+    const titleRootRecordByObject = new WeakMap();
+    const titleRootRecords = [];
+    const nicknameNodeRecordByObject = new WeakMap();
+    const nicknameNodeRecords = [];
+
+    const weakReference = (value) => typeof WeakRef === 'function'
+        ? new WeakRef(value)
+        : { deref: () => value };
+
+    const isObject = (value) => value != null && (typeof value === 'object' || typeof value === 'function');
+    const isSceneNode = (value) => isObject(value)
+        && isObject(value.p35_1)
+        && isObject(value.r35_1)
+        && isObject(value.s35_1);
+
+    const safeEntityFromOwner = (owner) => {
+        if (!isObject(owner)) return null;
+        // 旧构建通过 cyt() 方法返回实体；新构建组件基类 ue 把实体存在 gyw_1 字段。
+        try {
+            if (typeof owner.cyt === 'function') {
+                const entity = owner.cyt();
+                if (isObject(entity)) return entity;
+            }
+        } catch (_) {}
+        try {
+            const candidate = owner.gyw_1;
+            if (isObject(candidate)) return candidate;
+        } catch (_) {}
+        return null;
+    };
+
+    const entityHasTag = (entity, tag) => {
+        if (!isObject(entity)) return false;
+        // 标签容器字段在不同构建中变化；扫描所有含 h1() 查询方法的集合型字段。
+        let containers = [entity.cyq_1, entity.byq_1];
+        try {
+            for (const key of Object.keys(entity).slice(0, 120)) {
+                const value = entity[key];
+                if (isObject(value) && typeof value.h1 === 'function') containers.push(value);
+            }
+        } catch (_) {}
+        for (const container of containers) {
+            if (!isObject(container) || typeof container.h1 !== 'function') continue;
+            try {
+                if (container.h1(tag)) return true;
+            } catch (_) {}
+        }
+        return false;
+    };
+
+    // 读取对象上的 ClientTankState 枚举（兼容 o101_1 新构建）/ izy_1 旧构建）。
+    const readStateEnum = (component) => {
+        if (!isObject(component)) return null;
+        for (const field of STATE_ENUM_FIELDS) {
+            const state = component[field];
+            const index = Number(state?.k3_1);
+            if (isObject(state) && Number.isInteger(index) && index >= 0 && index <= 4) return state;
+        }
+        return null;
+    };
+
+    const findTankComponent = (owner, allowGenericScan = true) => {
+        if (!isObject(owner)) return null;
+        for (const field of TANK_COMPONENT_FIELDS) {
+            const candidate = owner[field];
+            if (readStateEnum(candidate)) return candidate;
+        }
+        if (!allowGenericScan) return null;
+        // 字段名随构建混淆时仍可从唯一的 ClientTankState 枚举结构识别组件。
+        try {
+            for (const field of Object.keys(owner).slice(0, 200)) {
+                if (readStateEnum(owner[field])) return owner[field];
+            }
+        } catch (_) {}
+        return null;
+    };
+
+    const readClientTankState = (record, allowGenericScan = true) => {
+        const owner = record?.ownerRef?.deref?.();
+        const state = readStateEnum(findTankComponent(owner, allowGenericScan));
+        if (!isObject(state)) return { index: null, name: '' };
+        const index = Number(state.k3_1);
+        let name = '';
+        try { name = String(state.j3_1 ?? state.toString?.() ?? '').toUpperCase(); } catch (_) {}
+        return { index: Number.isInteger(index) ? index : null, name };
+    };
+
+    // 坦克状态索引的着色用快速读取。
+    // 必须与 exclusionReason（死亡判定）使用同一条“已验证有效”的读取链：
+    // 先查已定位字段，读不到则沿实体关联皮肤根、并用 generic 全属性兜底（字段名随构建混淆时需要）。
+    // 结果按实体做 STATE_READ_CACHE_MS 短缓存，把 generic 扫描开销锁在每实体 ~2 次/秒。
+    // SEMI_ACTIVE(2)=出生/复活无敌保护期。
+    const readStateIndexForEntity = (record, entity) => {
+        const now = Date.now();
+        if (entity) {
+            const cached = stateIndexCacheByEntity.get(entity);
+            if (cached) {
+                const ttl = cached.index == null ? STATE_NULL_CACHE_MS : STATE_READ_CACHE_MS;
+                if (now - cached.at < ttl) return cached.index;
+            }
+        }
+        let state = { index: null, name: '' };
+        try {
+            state = readClientTankState(record, false);
+            if (state.index == null && entity) {
+                const relatedRoots = rootsByEntity.get(entity);
+                if (relatedRoots) {
+                    for (const relatedRoot of relatedRoots) {
+                        state = readClientTankState(relatedRoot, true);
+                        if (state.index != null || state.name) break;
+                    }
+                }
+            }
+            if (state.index == null && !state.name) state = readClientTankState(record, true);
+        } catch (_) { state = { index: null, name: '' }; }
+        const index = state.index;
+        if (entity) {
+            // 读到有效状态缓存 500ms；读不到（刚生成/字段暂不可用）只缓存 150ms，
+            // 避免在出生无敌窗口内恰好缓存 null 而整段漏判白色。
+            stateIndexCacheByEntity.set(entity, { at: now, index });
+        }
+        return index;
+    };
+
+    // 人机控制组件（botControlComponent，混淆类 Qht）的判据：
+    //   构造默认 this.xzu_1 = !1（真人）；人机由事件 Vht 置 true、Kht 置 false。
+    //   e12u() = !this.wyx().vyo_1 && this.xzu_1 —— 即“当前由 AI 接管”。
+    // 必须要求 xzu_1 === true：真人也有 Qht 但 xzu_1 恒为 false。只读数据字段，不调用 e12u/wyx（无副作用）。
+    const looksLikeBotControl = (obj) => {
+        if (!isObject(obj)) return false;
+        try {
+            return typeof obj.e12u === 'function' && obj.xzu_1 === true;
+        } catch (_) { return false; }
+    };
+
+    // 移动控制组件（混淆类 Mmt，游戏谓词 Cmt 即用它判人机）：人机时 m14d_1 指向 Qht。
+    const looksLikeMoveController = (obj) => {
+        if (!isObject(obj)) return false;
+        try {
+            return obj.g14d_1 !== undefined && obj.r14d_1 !== undefined &&
+                   typeof obj.h14d_1 === 'boolean' && 'm14d_1' in obj && 'q14d_1' in obj;
+        } catch (_) { return false; }
+    };
+    // MonoBehaviour 组件：原型带上下文/宿主方法。注意组件本身也可能带 a1/g1（DI 集合），不能据此跳过。
+    const isComponent = (obj) => {
+        if (!isObject(obj)) return false;
+        try {
+            return typeof obj.uyn === 'function' || typeof obj.wyx === 'function' ||
+                   typeof obj.jyw === 'function' || typeof obj.myw === 'function';
+        } catch (_) { return false; }
+    };
+    // botControl 被游戏缓存为“控制持有组件”上的直接数据字段：
+    //   nmt.g14a_1 / hmt.g14b_1 / Jgt.d149_1 → Qht；Mmt.m14d_1 → Qht。判字段值是否为“激活的”Qht。
+    const BOT_HOLDER_FIELDS = Object.freeze(['d149_1', 'g14b_1', 'g14a_1']);
+    const holderFieldsRevealBot = (obj) => {
+        if (!isObject(obj)) return false;
+        try {
+            for (const field of BOT_HOLDER_FIELDS) {
+                const desc = Object.getOwnPropertyDescriptor(obj, field);
+                if (desc && 'value' in desc && looksLikeBotControl(desc.value)) return true;
+            }
+            if (looksLikeMoveController(obj) && looksLikeBotControl(obj.m14d_1)) return true;
+        } catch (_) {}
+        return false;
+    };
+
+    // ===== 精确路径：从 MonoBehaviour 的组件上下文枚举该坦克的“全部组件” =====
+    // Alternativa 引擎结构（纯数据字段，零方法调用）：
+    //   MonoBehaviour.gyw_1 -> 组件上下文 he（jyw() 即返回它；我们直接读字段，不调用）
+    //   he.pyt_1            -> Nt（组件按类型分组容器）
+    //   Nt.s2a_1            -> 原生 Map<组件类型id, v_ 包装>
+    //   v_.c2a_1            -> 原生数组，元素即组件实例
+    const isNativeMap = (o) => { try { return o instanceof Map; } catch (_) { return false; } };
+    const contextFromComponent = (comp) => {
+        if (!isObject(comp)) return null;
+        try {
+            const d = Object.getOwnPropertyDescriptor(comp, 'gyw_1');
+            if (d && 'value' in d && isObject(d.value)) return d.value;
+        } catch (_) {}
+        return null;
+    };
+    // 从上下文 he（或 Nt）里收集全部组件实例：只读原生 Map/数组，绝不调用游戏方法。
+    const collectComponentsFromContext = (ctx, sink, budget) => {
+        if (!isObject(ctx) || budget.n <= 0) return;
+        const maps = [];
+        try {
+            const d = Object.getOwnPropertyDescriptor(ctx, 'pyt_1');
+            if (d && 'value' in d && isObject(d.value) && isNativeMap(d.value.s2a_1)) maps.push(d.value.s2a_1);
+            if (isNativeMap(ctx.s2a_1)) maps.push(ctx.s2a_1); // ctx 本身即 Nt
+        } catch (_) { return; }
+        for (const map of maps) {
+            let wrappers = [];
+            try { wrappers = Array.from(map.values()); } catch (_) { continue; } // 原生 Map.values，零副作用
+            for (const wrapper of wrappers) {
+                if (budget.n <= 0) return;
+                if (!isObject(wrapper)) continue;
+                let arr = null;
+                try {
+                    const ad = Object.getOwnPropertyDescriptor(wrapper, 'c2a_1');
+                    if (ad && 'value' in ad && Array.isArray(ad.value)) arr = ad.value;
+                } catch (_) { continue; }
+                if (!arr) continue;
+                for (const comp of arr) {
+                    if (budget.n <= 0) return;
+                    budget.n -= 1;
+                    if (isObject(comp)) sink.add(comp);
+                }
+            }
+        }
+    };
+
+    // 从装箱数值类型（Hj/Fu：this.b1b_1 = value；或其它装箱）里取出原始数字。纯数据、零方法调用。
+    const unboxNumeric = (v) => {
+        if (typeof v === 'number' && Number.isFinite(v)) return v;
+        if (!isObject(v)) return null;
+        try {
+            if (typeof v.b1b_1 === 'number') return v.b1b_1;
+            for (const key of Object.keys(v).slice(0, 16)) {
+                const d = Object.getOwnPropertyDescriptor(v, key);
+                const val = d && 'value' in d ? d.value : undefined;
+                if (typeof val === 'number' && Number.isFinite(val)) return val;
+            }
+        } catch (_) {}
+        return null;
+    };
+
+    // 收集 MonoBehaviour 种子：皮肤 owner、其链到的坦克状态组件、实体自身（若为组件）。
+    const collectTankSeedComponents = (entity) => {
+        const seeds = [];
+        const push = (o) => { if (isObject(o) && !seeds.includes(o)) seeds.push(o); };
+        try {
+            const relatedRoots = rootsByEntity.get(entity);
+            if (relatedRoots) {
+                for (const rec of relatedRoots) {
+                    const owner = rec.ownerRef?.deref?.();
+                    if (isObject(owner)) {
+                        if (isComponent(owner)) push(owner);
+                        try { push(findTankComponent(owner, false)); } catch (_) {}
+                        break;
+                    }
+                }
+            }
+        } catch (_) {}
+        if (isComponent(entity)) push(entity);
+        return seeds;
+    };
+
+    // 枚举该坦克“全部组件”：种子 + gyw_1 上下文组件 Map（纯数据、零方法调用）。
+    const collectTankComponents = (entity) => {
+        const comps = new Set();
+        const contexts = new Set();
+        const budget = { n: 600 };
+        for (const seed of collectTankSeedComponents(entity)) {
+            if (isComponent(seed)) comps.add(seed);
+            const ctx = contextFromComponent(seed);
+            if (ctx && !contexts.has(ctx)) {
+                contexts.add(ctx);
+                collectComponentsFromContext(ctx, comps, budget);
+            }
+        }
+        return comps;
+    };
+
+    // 不朽护盾（Immortality）：坦克属性/效果模块 Fut。游戏原生判定 qut(t)= s11t_1 && !w11t_1 && put(t)...
+    // 最可靠的纯数据信号是“剩余进度”字段：Fut.c11u_1 是 Qut(t){this.s11u_1=t} 数字包装。
+    //   护盾在 → s11u_1 = 剩余分数(1→0)；护盾结束 → 游戏每帧把它赋为 0（并把 b11u_1 重置为哨兵）。
+    //   这是普通数字，无装箱陷阱，护盾一结束当帧即 0 → 0 延迟切色。
+    // 辅助信号：Fut.b11u_1 = 护盾结束时刻（装箱），有限值=护盾在 / 巨大哨兵=结束（装箱结构因版本可能读不到）。
+    const IMMORTALITY_SENTINEL = 1e30; // 34028235e31 判定阈值
+    const immortalityCompByEntity = new WeakMap(); // 实体 → Fut 组件（缓存后每帧只读字段）
+    const ownNum = (obj, key) => {
+        try {
+            const d = Object.getOwnPropertyDescriptor(obj, key);
+            return d && 'value' in d && typeof d.value === 'number' ? d.value : null;
+        } catch (_) { return null; }
+    };
+    // 识别 Fut：独有字段 c11u_1(进度) + b11u_1(结束时刻) 同现。
+    const looksLikeImmortalityModule = (comp) => {
+        if (!isObject(comp)) return false;
+        try {
+            const prog = comp.c11u_1;
+            return isObject(prog) && ownNum(prog, 's11u_1') !== null && ('b11u_1' in comp);
+        } catch (_) { return false; }
+    };
+    // 返回：true=护盾在（白）；false=护盾已结束（当帧切色，0 延迟）；null=读不到（交给时间窗兜底）。
+    const readImmortalityShieldActive = (entity) => {
+        if (!isObject(entity)) return null;
+        try {
+            let fut = immortalityCompByEntity.get(entity) || null;
+            if (!fut || !isObject(fut)) {
+                for (const comp of collectTankComponents(entity)) {
+                    if (looksLikeImmortalityModule(comp)) { fut = comp; immortalityCompByEntity.set(entity, fut); break; }
+                }
+                if (!fut) return null; // 找不到 Fut：结构差异，走兜底
+            }
+            // 主信号：剩余进度分数 s11u_1（普通数字，结束即 0）。
+            const frac = ownNum(fut.c11u_1, 's11u_1');
+            if (frac !== null && frac > 0.01) return true;
+            // 辅助信号：结束时刻 b11u_1 有限值=护盾在。
+            const end = unboxNumeric(fut.b11u_1);
+            if (end !== null) return end < IMMORTALITY_SENTINEL;
+            // 两个信号都读不到数值 → 交给时间窗兜底（不武断判结束，避免漏白）。
+            return null;
+        } catch (_) { return null; }
+    };
+
+    // 重对象一律不遍历：场景节点(p35_1/r35_1/s35_1)、DOM、纯 ECS/DI 集合容器、服务事件总线。
+    // 注意：MonoBehaviour 组件（含 Mmt/Qht/Fut）本身也可能带 a1/g1，但它们是“组件”而非“纯容器”，必须放行。
+    const isHeavyObject = (obj) => {
+        if (!isObject(obj)) return true;
+        try {
+            if (obj === page || obj === document || obj.nodeType) return true;
+            if (isSceneNode(obj)) return true;                                  // 渲染场景节点
+            if (typeof obj.a1 === 'function' && typeof obj.g1 === 'function' && !isComponent(obj)) return true; // 纯集合容器
+            if (typeof obj.e1 === 'function' && typeof obj.g1 === 'function' && !isComponent(obj)) return true; // 纯列表容器
+            if (typeof obj.iyz === 'function' && typeof obj.kyy === 'function' && !isComponent(obj)) return true; // 服务事件总线/上下文
+        } catch (_) {}
+        return false;
+    };
+
+    // 仅读取“数据属性”（value 描述符），跳过所有 getter：不触发游戏惰性 getter 抛异常。
+    const safeDataProps = (obj) => {
+        const out = [];
+        let keys = [];
+        try { keys = Object.keys(obj); } catch (_) { return out; }
+        for (const key of keys) {
+            let desc = null;
+            try { desc = Object.getOwnPropertyDescriptor(obj, key); } catch (_) { desc = null; }
+            if (!desc || !('value' in desc)) continue;   // 跳过 getter / setter
+            const value = desc.value;
+            if (isObject(value) && !isHeavyObject(value)) out.push(value);
+        }
+        return out;
+    };
+
+    // 判断一辆坦克是否为人机。
+    // 主路径（精确、零方法调用）：取 MonoBehaviour 的组件上下文 gyw_1，枚举 pyt_1.s2a_1 原生 Map
+    //   里该坦克的“全部组件”，找 xzu_1===true 的 Qht（人机），或持有字段 d149_1/g14b_1/g14a_1/Mmt.m14d_1
+    //   指向激活 Qht 的组件。种子用皮肤 owner 与 findTankComponent 已定位的状态组件（与状态读取同源、已验证可达）。
+    // 兜底（构建差异导致结构不符时）：沿数据属性做有界 BFS。两路都跳过 getter/场景节点/DOM，带硬预算并长缓存。
+    const detectBotEntity = (entity) => {
+        if (!isObject(entity)) return false;
+        const now = Date.now();
+        const cached = botDetectCacheByEntity.get(entity);
+        if (cached && now - cached.at < (cached.bot ? BOT_DETECT_CACHE_MS : BOT_MISS_CACHE_MS)) {
+            return cached.bot;
+        }
+        let bot = false;
+        let seedComps = [];
+        try {
+            // 主路径：枚举该坦克全部组件（gyw_1 上下文组件 Map），找人机控制标志。
+            const comps = collectTankComponents(entity);
+            for (const comp of comps) {
+                if (looksLikeBotControl(comp) || holderFieldsRevealBot(comp)) { bot = true; break; }
+            }
+
+            // 兜底 BFS：结构异常时沿数据属性有界搜索。
+            if (!bot) {
+                seedComps = collectTankSeedComponents(entity);
+                const TIME_BUDGET_MS = 5;
+                const MAX_OBJECTS = 200;
+                const MAX_DEPTH = 5;
+                const MAX_THROWS = 6;
+                const queue = [];
+                const seen = new Set();
+                const enqueue = (o, d) => {
+                    if (isObject(o) && !isHeavyObject(o) && !seen.has(o)) { seen.add(o); queue.push({ o, d }); }
+                };
+                for (const seed of seedComps) enqueue(seed, 0);
+                enqueue(entity, 0);
+                let processed = 0, throws = 0;
+                while (queue.length && processed < MAX_OBJECTS) {
+                    if (Date.now() - now > TIME_BUDGET_MS) break;
+                    const { o: current, d: depth } = queue.shift();
+                    processed += 1;
+                    if (looksLikeBotControl(current) || holderFieldsRevealBot(current)) { bot = true; break; }
+                    if (depth >= MAX_DEPTH) continue;
+                    let children = [];
+                    try { children = safeDataProps(current); } catch (_) { throws += 1; if (throws > MAX_THROWS) break; continue; }
+                    for (const child of children) {
+                        if (seen.has(child)) continue;
+                        seen.add(child);
+                        queue.push({ o: child, d: depth + 1 });
+                        if (queue.length > MAX_OBJECTS) break;
+                    }
+                }
+            }
+        } catch (_) { bot = false; }
+        // 命中真人机缓存 30s；未命中/超时缓存 8s，避免渲染热路径反复探测。
+        botDetectCacheByEntity.set(entity, { at: Date.now(), bot });
+        return bot;
+    };
+
+    const exclusionReason = (record) => {
+        if (!record) return '';
+        const entity = record.entityRef?.deref?.() || safeEntityFromOwner(record.ownerRef?.deref?.());
+        if (entityHasTag(entity, 'LocalTank')) return 'local';
+        // 先走已定位的皮肤/标题控制器字段，避免每个渲染帧扫描 UserTitle 的全部属性。
+        let state = readClientTankState(record, false);
+        // UserTitle(Mot) 自身不保存 tankComponent，沿实体关联回坦克皮肤读取状态。
+        if (state.index == null && entity) {
+            const relatedRoots = rootsByEntity.get(entity);
+            if (relatedRoots) {
+                for (const relatedRoot of relatedRoots) {
+                    state = readClientTankState(relatedRoot);
+                    if (state.index != null || state.name) break;
+                }
+            }
+        }
+        if (state.index == null && !state.name) state = readClientTankState(record, true);
+        if (state.index === CLIENT_STATE_DEAD || state.index === CLIENT_STATE_DEAD_PHANTOM
+            || state.name === 'DEAD' || state.name === 'DEAD_PHANTOM') {
+            return 'dead';
+        }
+        // 本地坦克通常没有远端玩家标题，因此不会收到 i127_1 敌我关系赋值；
+        // 当前构建若暂时读不到 LocalTank 标签，只对“已关联 tankComponent 且无敌我关系”
+        // 的坦克根节点启用这个后备判定；远端坦克一旦收到关系赋值会自动恢复透视。
+        const owner = record.ownerRef?.deref?.();
+        const isTankRootRecord = record.sources instanceof Set;
+        if (isTankRootRecord && entity && findTankComponent(owner, false)
+            && (teamByEntity.get(entity) || record.team || TEAM_UNKNOWN) === TEAM_UNKNOWN) {
+            return 'local';
+        }
+        return '';
+    };
+
+    const isXrayEligible = (record) => exclusionReason(record) === '';
+
+    const classifyTeamRelation = (value) => {
+        if (!isObject(value)) return TEAM_UNKNOWN;
+        const index = Number(value.k3_1);
+        if (index === 0) return TEAM_ALLY;
+        if (index === 1) return TEAM_ENEMY;
+        let name = '';
+        try { name = String(value.j3_1 ?? value.toString?.() ?? '').toUpperCase(); } catch (_) {}
+        if (name.includes('ALLY')) return TEAM_ALLY;
+        if (name.includes('ENEMY')) return TEAM_ENEMY;
+        return TEAM_UNKNOWN;
+    };
+
+    const attachRootToEntity = (record, entity) => {
+        if (!record || !isObject(entity)) return false;
+        record.entityRef = weakReference(entity);
+        record.team = teamByEntity.get(entity) || record.team || TEAM_UNKNOWN;
+        let records = rootsByEntity.get(entity);
+        if (!records) {
+            records = new Set();
+            rootsByEntity.set(entity, records);
+        }
+        records.add(record);
+        // 拦截该坦克实体的事件总线，捕获瞄准可击中等原生描边上色事件。
+        instrumentEntityBus(entity);
+        return true;
+    };
+
+    const associateRootOwner = (record, owner) => {
+        const entity = safeEntityFromOwner(owner);
+        return entity ? attachRootToEntity(record, entity) : false;
+    };
+
+    const updateEntityTeam = (entity, team) => {
+        if (!isObject(entity) || team === TEAM_UNKNOWN) return;
+        teamByEntity.set(entity, team);
+        const records = rootsByEntity.get(entity);
+        if (records) for (const record of records) record.team = team;
+    };
+
+    const teamForNodeRecord = (nodeRecord) => {
+        const rootRecord = nodeRecord?.rootRecord;
+        let team = rootRecord?.team || TEAM_UNKNOWN;
+        const entity = rootRecord?.entityRef?.deref?.();
+        if (entity) team = teamByEntity.get(entity) || team;
+        return team;
+    };
+
+    // 是否处于“出生保护”整段窗口（幽灵段 SEMI_ACTIVE + 变实后的不朽护盾段）。
+    // 观测到敌人状态变为 SEMI_ACTIVE(2) 即视为一次出生，锚定时刻；此后 SPAWN_PROTECT_WHITE_MS 内白色。
+    const isSpawnProtectingEntity = (entity, stateIndex, now) => {
+        if (!entity) return false;
+        if (stateIndex === CLIENT_STATE_SEMI_ACTIVE) {
+            const prev = spawnSeenAtByEntity.get(entity);
+            // 距上次出生超过窗口，说明是一次新的出生/复活，重新锚定。
+            if (!prev || now - prev > SPAWN_PROTECT_GATE_MS) spawnSeenAtByEntity.set(entity, now);
+            return true;
+        }
+        const spawnAt = spawnSeenAtByEntity.get(entity);
+        if (!spawnAt) return false;
+        const sinceSpawn = now - spawnAt;
+        if (sinceSpawn > SPAWN_PROTECT_GATE_MS) return false; // 出生保护窗已过，不再检查
+        // 直读不朽护盾模块 Fut.b11u_1：true=护盾在（白）；false=护盾已结束，当帧切色（0 延迟）。
+        const shield = readImmortalityShieldActive(entity);
+        if (shield === true) return true;
+        if (shield === false) {
+            // 护盾确实已结束：给一个极小的起始宽限（护盾字段可能刚好处在出生瞬间尚未置位），
+            // 之后完全以真实护盾为准 —— 结束时刻 0 延迟。
+            return sinceSpawn < SPAWN_START_GRACE_MS;
+        }
+        // shield === null：该构建读不到 Fut，退回固定白色窗口兜底。
+        return sinceSpawn < SPAWN_PROTECT_WHITE_MS;
+    };
+
+    const colorForNode = (nodeRecord) => {
+        const rootRecord = nodeRecord?.rootRecord;
+        const entity = rootRecord?.entityRef?.deref?.();
+        const team = teamForNodeRecord(nodeRecord);
+        if (team === TEAM_ALLY) return allyColor;
+        if (team === TEAM_ENEMY && entity) {
+            const now = Date.now();
+            const stateIndex = readStateIndexForEntity(rootRecord, entity);
+            // 1) 无敌/出生保护期（幽灵段 SEMI_ACTIVE + 变实后的不朽护盾段）：白色，优先级最高。
+            if (isSpawnProtectingEntity(entity, stateIndex, now)) return invincibleColor;
+            // 2) 当前可击中（瞄准信号 TTL 内）：橙色。
+            if ((hittableUntilByEntity.get(entity) || 0) > now) return hittableColor;
+            // 3) 人机 vs 真人：人机紫色，真人默认红色。
+            if (detectBotEntity(entity)) return botColor;
+        }
+        return enemyColor;
+    };
+
+    // 是否为“当前可击中”的敌方坦克：处于瞄准可击中信号 TTL 内。
+    const isHittableNode = (nodeRecord) => {
+        const rootRecord = nodeRecord?.rootRecord;
+        const entity = rootRecord?.entityRef?.deref?.();
+        if (!entity) return false;
+        return teamForNodeRecord(nodeRecord) === TEAM_ENEMY
+            && (hittableUntilByEntity.get(entity) || 0) > Date.now();
+    };
+
+    // 是否为“正在被治疗（奶）”的队友坦克：治疗绿描边信号 TTL 内且为我方。
+    const isHealingAllyNode = (nodeRecord) => {
+        const rootRecord = nodeRecord?.rootRecord;
+        const entity = rootRecord?.entityRef?.deref?.();
+        if (!entity) return false;
+        return teamForNodeRecord(nodeRecord) === TEAM_ALLY
+            && (healingUntilByEntity.get(entity) || 0) > Date.now();
+    };
+
+    const effectiveValue = (role, originalValue, nodeRecord) => {
+        if (!active || !enabled) return originalValue;
+        const excluded = exclusionReason(nodeRecord?.rootRecord);
+        if (excluded) {
+            // “排除”必须真正关闭轮廓。当前客户端会给本地坦克和死亡材质保留原生 enabled=true；若只是返回 originalValue，截图中的绿色蓝色残留仍会出现。
+            if (role === 'enabled' || role === 'thick') return false;
+            return originalValue;
+        }
+        // 正在被治疗（奶）的队友：直接透出游戏原生绿色治疗描边，不覆盖成我们的队友蓝，也不受“队友轮廓开关”影响。
+        if (isHealingAllyNode(nodeRecord)) return originalValue;
+        // 队友轮廓独立开关：关闭时把队友坦克的轮廓真正关掉（与排除同路径），
+        // 敌方轮廓不受影响。
+        if (!allyOutlineEnabled && teamForNodeRecord(nodeRecord) === TEAM_ALLY) {
+            if (role === 'enabled' || role === 'thick') return false;
+            return originalValue;
+        }
+        if (role === 'enabled') return true;
+        // z3m_1 / v4x_1 为原生粗描边位；默认关闭得到更细、更完整的模型边缘；
+        // 仅“当前可击中”的敌方坦克打开粗描边，让可击中橙色轮廓明显加粗。
+        if (role === 'thick') return isHittableNode(nodeRecord);
+        if (role === 'color') return colorForNode(nodeRecord);
+        return originalValue;
+    };
+
+    const safeListItems = (list) => {
+        if (!isObject(list) || typeof list.e1 !== 'function' || typeof list.g1 !== 'function') return [];
+        try {
+            const rawCount = Number(list.e1());
+            if (!Number.isInteger(rawCount) || rawCount < 0 || rawCount > 2048) return [];
+            const items = [];
+            for (let index = 0; index < rawCount; index += 1) {
+                const item = list.g1(index);
+                if (isObject(item)) items.push(item);
+            }
+            return items;
+        } catch (_) {
+            return [];
+        }
+    };
+
+    const isEnemyTitleRoot = (record) => {
+        if (!record) return false;
+        const entity = record.entityRef?.deref?.();
+        if (entity) record.team = teamByEntity.get(entity) || record.team || TEAM_UNKNOWN;
+        return record.team === TEAM_ENEMY && isXrayEligible(record);
+    };
+
+    const instrumentTitleTree = (root, titleRootRecord) => {
+        if (!isSceneNode(root)) return { nodes: 0 };
+        const visited = new WeakSet();
+        const stack = [root];
+        let nodes = 0;
+        while (stack.length > 0 && nodes < 2048) {
+            const node = stack.pop();
+            if (!isObject(node) || visited.has(node)) continue;
+            visited.add(node);
+            nodes += 1;
+            for (const child of safeListItems(node.p35_1)) stack.push(child);
+            for (const lodLevel of safeListItems(node.q4x_1)) stack.push(lodLevel);
+        }
+        titleRootRecord.lastScanAt = Date.now();
+        titleRootRecord.nodeCount = nodes;
+        return { nodes };
+    };
+
+    const captureTitleRoot = (owner, root) => {
+        if (!isSceneNode(root)) return root;
+        let record = titleRootRecordByObject.get(root);
+        if (!record) {
+            record = {
+                rootRef: weakReference(root),
+                ownerRef: isObject(owner) ? weakReference(owner) : null,
+                entityRef: null,
+                team: TEAM_UNKNOWN,
+                capturedAt: Date.now(),
+                lastScanAt: null,
+                nodeCount: 0,
+            };
+            titleRootRecordByObject.set(root, record);
+            titleRootRecords.push(record);
+        } else if (isObject(owner)) {
+            record.ownerRef = weakReference(owner);
+        }
+        const entity = safeEntityFromOwner(owner);
+        if (entity) {
+            record.entityRef = weakReference(entity);
+            record.team = teamByEntity.get(entity) || record.team;
+            instrumentEntityBus(entity);
+        }
+        try {
+            const titleScan = instrumentTitleTree(root, record);
+            record.nodeCount = titleScan.nodes;
+        } catch (_) {}
+        schedulePublish('title-root-captured');
+        return root;
+    };
+
+    const captureNicknameSceneNode = (owner, node) => {
+        if (!isSceneNode(node)) return node;
+        let record = nicknameNodeRecordByObject.get(node);
+        if (!record) {
+            record = {
+                rootRef: weakReference(node),
+                ownerRef: isObject(owner) ? weakReference(owner) : null,
+                entityRef: null,
+                team: TEAM_UNKNOWN,
+                capturedAt: Date.now(),
+                lastScanAt: null,
+                nodeCount: 0,
+            };
+            nicknameNodeRecordByObject.set(node, record);
+            nicknameNodeRecords.push(record);
+        } else if (isObject(owner)) {
+            record.ownerRef = weakReference(owner);
+        }
+        const entity = safeEntityFromOwner(owner);
+        if (entity) {
+            record.entityRef = weakReference(entity);
+            record.team = teamByEntity.get(entity) || record.team;
+            // 独立昵称牌节点路径同样要确保实体事件总线被插桩，否则游戏发来的“隐藏昵称牌”事件无人拦截。
+            instrumentEntityBus(entity);
+        }
+        instrumentTitleTree(node, record);
+        schedulePublish('nickname-node-captured');
+        return node;
+    };
+
+    const installOutlineAccessor = (target, spec, nodeRecord) => {
+        const descriptor = Object.getOwnPropertyDescriptor(target, spec.field);
+        if (!descriptor || !('value' in descriptor) || descriptor.configurable === false) return false;
+        let originalValue = descriptor.value;
+        try {
+            Object.defineProperty(target, spec.field, {
+                configurable: true,
+                enumerable: descriptor.enumerable !== false,
+                get() {
+                    const value = effectiveValue(spec.role, originalValue, nodeRecord);
+                    if (!Object.is(value, originalValue)) overrideReads += 1;
+                    return value;
+                },
+                set(nextValue) {
+                    originalValue = nextValue;
+                    fieldAssignments += 1;
+                },
+            });
+            nodeRecord.fields.add(spec.field);
+            return true;
+        } catch (error) {
+            hookErrors.push({
+                stage: 'outline-accessor',
+                field: spec.field,
+                message: String(error?.message || error),
+            });
+            return false;
+        }
+    };
+
+    const instrumentNode = (node) => {
+        if (!isObject(node)) return null;
+        let nodeRecord = nodeInstrumentation.get(node);
+        if (!nodeRecord) {
+            nodeRecord = { fields: new Set(), kind: 'node' };
+            nodeInstrumentation.set(node, nodeRecord);
+        }
+
+        for (const group of OUTLINE_GROUPS) {
+            const ownsAllFields = group.fields.every((spec) => Object.prototype.hasOwnProperty.call(node, spec.field));
+            if (!ownsAllFields) continue;
+            let installedAny = false;
+            for (const spec of group.fields) {
+                if (nodeRecord.fields.has(spec.field)) continue;
+                installedAny = installOutlineAccessor(node, spec, nodeRecord) || installedAny;
+            }
+            if (installedAny && nodeRecord.kind === 'node') {
+                nodeRecord.kind = group.kind;
+                if (group.kind === 'mesh') instrumentedMeshCount += 1;
+                else instrumentedLodCount += 1;
+            }
+        }
+
+        if (!nodeSeen.has(node)) {
+            nodeSeen.add(node);
+            instrumentedNodeCount += 1;
+        }
+        return nodeRecord;
+    };
+
+    const instrumentTree = (root, rootRecord = null) => {
+        if (!isSceneNode(root)) return { nodes: 0, meshes: 0, lodGroups: 0 };
+        const visited = new WeakSet();
+        const stack = [root];
+        let nodes = 0;
+        let meshes = 0;
+        let lodGroups = 0;
+
+        while (stack.length > 0 && nodes < 4096) {
+            const node = stack.pop();
+            if (!isObject(node) || visited.has(node)) continue;
+            visited.add(node);
+            nodes += 1;
+            const nodeRecord = instrumentNode(node);
+            if (nodeRecord && rootRecord) nodeRecord.rootRecord = rootRecord;
+            if (nodeRecord?.kind === 'mesh') meshes += 1;
+            else if (nodeRecord?.kind === 'lod') lodGroups += 1;
+
+            // p35_1 是通用场景子节点；q4x_1 为 LodGroup 的各级模型节点?
+            for (const child of safeListItems(node.p35_1)) stack.push(child);
+            for (const lodLevel of safeListItems(node.q4x_1)) stack.push(lodLevel);
+        }
+
+        if (rootRecord) {
+            rootRecord.lastScanAt = Date.now();
+            rootRecord.nodeCount = nodes;
+            rootRecord.meshCount = meshes;
+            rootRecord.lodCount = lodGroups;
+        }
+        return { nodes, meshes, lodGroups };
+    };
+
+    const captureRoot = (value, spec, owner) => {
+        rootAssignments += 1;
+        if (!isSceneNode(value)) return false;
+        let record = rootRecordByObject.get(value);
+        if (!record) {
+            record = {
+                rootRef: weakReference(value),
+                ownerRef: isObject(owner) ? weakReference(owner) : null,
+                entityRef: null,
+                team: TEAM_UNKNOWN,
+                sources: new Set([spec.field]),
+                label: spec.label,
+                capturedAt: Date.now(),
+                lastScanAt: null,
+                nodeCount: 0,
+                meshCount: 0,
+                lodCount: 0,
+            };
+            rootRecordByObject.set(value, record);
+            rootRecords.push(record);
+            rootSeen.add(value);
+            capturedRootCount += 1;
+        } else {
+            record.sources.add(spec.field);
+            if (isObject(owner)) record.ownerRef = weakReference(owner);
+        }
+        associateRootOwner(record, owner);
+        instrumentTree(value, record);
+        schedulePublish('tank-root-captured');
+        return true;
+    };
+
+    const installRootHook = (spec) => {
+        const existing = Object.getOwnPropertyDescriptor(Object.prototype, spec.field);
+        if (existing) {
+            hookErrors.push({
+                stage: 'root-hook',
+                field: spec.field,
+                message: 'Object.prototype 已存在同名字段，未覆盖',
+            });
+            return false;
+        }
+        const setter = function tankTacticalXrayRootCapture(initialValue) {
+            let originalValue = initialValue;
+            try {
+                Object.defineProperty(this, spec.field, {
+                    configurable: true,
+                    enumerable: true,
+                    get() { return originalValue; },
+                    set(nextValue) {
+                        originalValue = nextValue;
+                        captureRoot(nextValue, spec, this);
+                    },
+                });
+                captureRoot(initialValue, spec, this);
+            } catch (error) {
+                hookErrors.push({
+                    stage: 'root-instance',
+                    field: spec.field,
+                    message: String(error?.message || error),
+                });
+            }
+        };
+        Object.defineProperty(setter, '__tankTacticalXrayHook', { value: VERSION });
+        try {
+            Object.defineProperty(Object.prototype, spec.field, {
+                configurable: true,
+                enumerable: false,
+                get: undefined,
+                set: setter,
+            });
+            return true;
+        } catch (error) {
+            hookErrors.push({
+                stage: 'root-hook',
+                field: spec.field,
+                message: String(error?.message || error),
+            });
+            return false;
+        }
+    };
+
+    const getTitleRecord = (owner) => {
+        if (!isObject(owner)) return null;
+        let record = titleRecordByOwner.get(owner);
+        if (!record) {
+            record = {
+                ownerRef: weakReference(owner),
+                entityRef: null,
+                team: TEAM_UNKNOWN,
+                nickname: '',
+                capturedAt: Date.now(),
+                xrayForcedShown: false,
+            };
+            titleRecordByOwner.set(owner, record);
+            titleRecords.push(record);
+        }
+        const entity = safeEntityFromOwner(owner);
+        if (entity) {
+            record.entityRef = weakReference(entity);
+            record.team = teamByEntity.get(entity) || record.team;
+        }
+        return record;
+    };
+
+    const captureTeamAssignment = (owner, value) => {
+        const team = classifyTeamRelation(value);
+        if (team === TEAM_UNKNOWN) return value;
+        teamAssignments += 1;
+        const record = getTitleRecord(owner);
+        if (record) record.team = team;
+        const entity = safeEntityFromOwner(owner);
+        if (entity) {
+            if (record) record.entityRef = weakReference(entity);
+            updateEntityTeam(entity, team);
+        }
+        schedulePublish('team-relation-captured');
+        return value;
+    };
+
+    const captureNicknameAssignment = (owner, value) => {
+        if (typeof value !== 'string') return value;
+        const record = getTitleRecord(owner);
+        if (record) record.nickname = value;
+        return value;
+    };
+
+    const captureTrackedSkinAssociation = (owner, skin) => {
+        if (!isObject(skin)) return skin;
+        let root = null;
+        // 新构建履带底盘皮肤根节点 m17a_1；旧构建 z176_1。
+        for (const field of ['m17a_1', 'z176_1']) {
+            try { if (isSceneNode(skin[field])) { root = skin[field]; break; } } catch (_) {}
+        }
+        if (!isSceneNode(root)) return skin;
+        let record = rootRecordByObject.get(root);
+        if (!record) {
+            captureRoot(root, { field: 'trackedSkin→root', label: 'TrackedTankSkin.entityRoot' }, owner);
+            record = rootRecordByObject.get(root);
+        }
+        if (record) {
+            record.ownerRef = weakReference(owner);
+            associateRootOwner(record, owner);
+            instrumentTree(root, record);
+        }
+        schedulePublish('tracked-root-associated');
+        return skin;
+    };
+
+    // 从标题记录实体读取敌我关系（不再硬编码旧字段 i127_1）。
+    const resolveTitleTeam = (owner) => {
+        const record = getTitleRecord(owner);
+        if (record?.team && record.team !== TEAM_UNKNOWN) return record.team;
+        const entity = safeEntityFromOwner(owner);
+        if (entity) return teamByEntity.get(entity) || TEAM_UNKNOWN;
+        return TEAM_UNKNOWN;
+    };
+
+    const prepareTitleVisibilityEvent = (owner, nextVisible) => {
+        const record = getTitleRecord(owner);
+        const team = resolveTitleTeam(owner);
+        const forceVisible = active && idEnabled && team === TEAM_ENEMY && isXrayEligible(record);
+        // 记录待处理的可见性事件，供事件重放/旧构建转换使用。
+        // 注意：这里不强制改写布尔值——新构建可见性同时经由事件总线 s_t(2,hidden) 下发，
+        // 强行改布尔会与游戏自身事件状态不一致；强制显示交给 dispatchEnemyTitleVisibility。
+        pendingTitleVisibility = forceVisible
+            ? { owner, expectedHidden: !Boolean(nextVisible) }
+            : null;
+        return nextVisible;
+    };
+
+    const transformTitleVisibilityEvent = (eventObject, hidden) => {
+        const pending = pendingTitleVisibility;
+        pendingTitleVisibility = null;
+        if (typeof eventObject?.constructor === 'function' && eventObject.constructor !== Object) {
+            titleVisibilityEventConstructor = eventObject.constructor;
+        }
+        // 旧构建事件标识在 c12b_1（事件类型=2）；新构建 s_t 事件标识 i12e_1（事件类型=2），隐藏位在 j12e_1）
+        const eventId = Number(eventObject?.c12b_1 ?? eventObject?.i12e_1);
+        if (!pending || eventId !== 2 || Boolean(hidden) !== pending.expectedHidden) return hidden;
+        const record = getTitleRecord(pending.owner);
+        const team = resolveTitleTeam(pending.owner);
+        if (!active || !idEnabled || team !== TEAM_ENEMY || !isXrayEligible(record)) return hidden;
+        enemyTitleOverrideEvents += 1;
+        return false;
+    };
+
+    const installAssignmentHook = (field, transform, stage) => {
+        const existing = Object.getOwnPropertyDescriptor(Object.prototype, field);
+        if (existing) {
+            hookErrors.push({ stage, field, message: 'Object.prototype 已存在同名字段，未覆盖' });
+            return false;
+        }
+        const setter = function tankTacticalXrayAssignmentCapture(initialValue) {
+            let storedValue = initialValue;
+            try {
+                storedValue = transform(this, initialValue);
+                Object.defineProperty(this, field, {
+                    configurable: true,
+                    enumerable: true,
+                    get() { return storedValue; },
+                    set(nextValue) { storedValue = transform(this, nextValue); },
+                });
+            } catch (error) {
+                hookErrors.push({ stage: `${stage}-instance`, field, message: String(error?.message || error) });
+                try {
+                    Object.defineProperty(this, field, {
+                        configurable: true,
+                        enumerable: true,
+                        writable: true,
+                        value: initialValue,
+                    });
+                } catch (_) {}
+            }
+        };
+        Object.defineProperty(setter, '__tankTacticalXrayHook', { value: VERSION });
+        try {
+            Object.defineProperty(Object.prototype, field, {
+                configurable: true,
+                enumerable: false,
+                get: undefined,
+                set: setter,
+            });
+            return true;
+        } catch (error) {
+            hookErrors.push({ stage, field, message: String(error?.message || error) });
+            return false;
+        }
+    };
+
+    let installedRootHookCount = 0;
+    for (const spec of ROOT_FIELD_SPECS) {
+        if (installRootHook(spec)) installedRootHookCount += 1;
+    }
+
+    // 通用：为一组字段安装赋值捕获 hook（旧/新构建字段名并存，互不影响）。
+    const installAssignmentHooks = (fields, transform, stage) => {
+        let count = 0;
+        for (const field of fields) {
+            if (installAssignmentHook(field, transform, `${stage}:${field}`)) count += 1;
+        }
+        return count;
+    };
+
+    const teamRelationHookCount = installAssignmentHooks(TEAM_RELATION_FIELDS, captureTeamAssignment, 'team-relation-hook');
+    const nicknameHookCount = installAssignmentHooks(NICKNAME_FIELDS, captureNicknameAssignment, 'nickname-hook');
+    const trackedAssociationHookCount = installAssignmentHooks(['n11c_1', 'h119_1'], captureTrackedSkinAssociation, 'tracked-association-hook');
+    const titleRootHookCount = installAssignmentHooks(TITLE_ROOT_FIELDS, captureTitleRoot, 'title-root-hook');
+    // 昵称牌独立场景节点（旧构建 a11l_1；新构建由标题管理器 Got 方法 q11n_1，经标题根遍历覆盖）。
+    const nicknameNodeHookCount = installAssignmentHooks(['q11n_1', 'a11l_1'], captureNicknameSceneNode, 'nickname-node-hook');
+    // 标题可见性布尔：新构建 t12a_1（xot() 写入），旧构建 n127_1。这里仅观察/记录待处理事件。
+    const titleStateHookCount = installAssignmentHooks(TITLE_VISIBLE_FIELDS, prepareTitleVisibilityEvent, 'title-state-hook');
+    // 旧构建可见性事件经原型字段赋值（d12b_1）；新构建事件走事件总线，此 hook 仅对旧构建生效。
+    const titleEventHookInstalled = installAssignmentHook('d12b_1', transformTitleVisibilityEvent, 'title-event-hook');
+    const teamRelationHookInstalled = teamRelationHookCount > 0;
+    const nicknameHookInstalled = nicknameHookCount > 0;
+    const trackedAssociationHookInstalled = trackedAssociationHookCount > 0;
+    const titleRootHookInstalled = titleRootHookCount > 0;
+    const nicknameNodeHookInstalled = nicknameNodeHookCount > 0;
+    const titleStateHookInstalled = titleStateHookCount > 0;
+
+    const scanRoots = () => {
+        let liveRoots = 0;
+        let eligibleRoots = 0;
+        let excludedLocalCount = 0;
+        let excludedDeadCount = 0;
+        let nodes = 0;
+        let meshes = 0;
+        let lodGroups = 0;
+        let allyCount = 0;
+        let enemyCount = 0;
+        let unknownCount = 0;
+        for (let index = rootRecords.length - 1; index >= 0; index -= 1) {
+            const record = rootRecords[index];
+            const root = record.rootRef.deref();
+            if (!root) {
+                rootRecords.splice(index, 1);
+                continue;
+            }
+            const owner = record.ownerRef?.deref?.();
+            let entity = record.entityRef?.deref?.();
+            if (!entity && owner) {
+                associateRootOwner(record, owner);
+                entity = record.entityRef?.deref?.();
+            }
+            if (entity) record.team = teamByEntity.get(entity) || record.team || TEAM_UNKNOWN;
+            liveRoots += 1;
+            const excluded = exclusionReason(record);
+            if (excluded === 'local') excludedLocalCount += 1;
+            else if (excluded === 'dead') excludedDeadCount += 1;
+            else {
+                eligibleRoots += 1;
+                if (record.team === TEAM_ALLY) allyCount += 1;
+                else if (record.team === TEAM_ENEMY) enemyCount += 1;
+                else unknownCount += 1;
+            }
+            const scan = instrumentTree(root, record);
+            nodes += scan.nodes;
+            meshes += scan.meshes;
+            lodGroups += scan.lodGroups;
+        }
+        let liveTitleCount = 0;
+        let enemyTitleCount = 0;
+        for (let index = titleRecords.length - 1; index >= 0; index -= 1) {
+            const record = titleRecords[index];
+            const owner = record.ownerRef.deref();
+            if (!owner) {
+                titleRecords.splice(index, 1);
+                continue;
+            }
+            liveTitleCount += 1;
+            const entity = record.entityRef?.deref?.() || safeEntityFromOwner(owner);
+            if (entity) {
+                record.entityRef = weakReference(entity);
+                record.team = teamByEntity.get(entity) || record.team;
+            }
+            if (record.team === TEAM_ENEMY && isXrayEligible(record)) enemyTitleCount += 1;
+        }
+        let liveTitleRootCount = 0;
+        let enemyTitleRootCount = 0;
+        for (let index = titleRootRecords.length - 1; index >= 0; index -= 1) {
+            const record = titleRootRecords[index];
+            const root = record.rootRef.deref();
+            if (!root) {
+                titleRootRecords.splice(index, 1);
+                continue;
+            }
+            liveTitleRootCount += 1;
+            const owner = record.ownerRef?.deref?.();
+            const entity = record.entityRef?.deref?.() || safeEntityFromOwner(owner);
+            if (entity) {
+                record.entityRef = weakReference(entity);
+                record.team = teamByEntity.get(entity) || record.team;
+            }
+            if (record.team === TEAM_ENEMY && isXrayEligible(record)) enemyTitleRootCount += 1;
+            // 周期性重扫标题根：昵称牌文本节点会在运行中动态挂载。
+            try {
+                const titleRootNode = record.rootRef.deref();
+                if (titleRootNode) instrumentTitleTree(titleRootNode, record);
+            } catch (_) {}
+        }
+        let liveNicknameNodeCount = 0;
+        let enemyNicknameNodeCount = 0;
+        for (let index = nicknameNodeRecords.length - 1; index >= 0; index -= 1) {
+            const record = nicknameNodeRecords[index];
+            const nicknameNode = record.rootRef.deref();
+            if (!nicknameNode) {
+                nicknameNodeRecords.splice(index, 1);
+                continue;
+            }
+            liveNicknameNodeCount += 1;
+            const owner = record.ownerRef?.deref?.();
+            const entity = record.entityRef?.deref?.() || safeEntityFromOwner(owner);
+            if (entity) {
+                record.entityRef = weakReference(entity);
+                record.team = teamByEntity.get(entity) || record.team;
+            }
+            if (record.team === TEAM_ENEMY && isXrayEligible(record)) enemyNicknameNodeCount += 1;
+            instrumentTitleTree(nicknameNode, record);
+        }
+        let hittableEnemyCount = 0;
+        let invincibleEnemyCount = 0;
+        let botEnemyCount = 0;
+        const now = Date.now();
+        for (const record of rootRecords) {
+            const entity = record.entityRef?.deref?.();
+            if (record.team === TEAM_ENEMY && isXrayEligible(record) && entity) {
+                // 兜底：确保每个合格敌方实体的事件总线都被插桩（标题根 hook 漏掉的实例也覆盖到），幂等。
+                instrumentEntityBus(entity);
+                const stateIndex = readStateIndexForEntity(record, entity);
+                if (isSpawnProtectingEntity(entity, stateIndex, now)) invincibleEnemyCount += 1;
+                if ((hittableUntilByEntity.get(entity) || 0) > now) hittableEnemyCount += 1;
+                if (detectBotEntity(entity)) botEnemyCount += 1;
+            }
+        }
+        return {
+            liveRoots, eligibleRoots, excludedLocalCount, excludedDeadCount,
+            nodes, meshes, lodGroups,
+            allyCount, enemyCount, unknownCount,
+            liveTitleCount, enemyTitleCount,
+            liveTitleRootCount, enemyTitleRootCount,
+            liveNicknameNodeCount, enemyNicknameNodeCount,
+            hittableEnemyCount,
+            invincibleEnemyCount,
+            botEnemyCount,
+        };
+    };
+
+    // 读取标题组件原生可见性（新构建 t12a_1，旧构建 n127_1）。
+    const readNativeTitleVisible = (owner) => {
+        if (!isObject(owner)) return true;
+        for (const field of TITLE_VISIBLE_FIELDS) {
+            try {
+                if (typeof owner[field] === 'boolean') return owner[field];
+            } catch (_) {}
+        }
+        return true;
+    };
+
+    // 实体事件分发方法：旧构建 cyw，新构建 iyz（事件总线）。
+    // 若该方法已被本脚本包装，则调用其原始实现，避免主动重投事件触发自身拦截逻辑。
+    const dispatchEntityEvent = (entity, eventObject) => {
+        if (!isObject(entity) || !isObject(eventObject)) return false;
+        const invoke = (name) => {
+            const fn = entity[name];
+            if (typeof fn !== 'function') return false;
+            const real = typeof fn.__tankXrayOriginal === 'function' ? fn.__tankXrayOriginal : fn;
+            try { real.call(entity, eventObject); return true; } catch (_) { return false; }
+        };
+        return invoke('iyz') || invoke('cyw');
+    };
+
+    // === 实体事件总线拦截：捕获瞄准描边上色事件（新构建 iyz 事件总线，而非原型字段赋值）===
+    // QMt 类描边事件：j15s_1=颜色整数、k15s_1=粗细则色位；关闭事件(tDt/new tDt())无颜色载荷。
+    // 收到带颜色的事件表示该坦克正被瞄准（可击中）。
+    const isOutlineTargetEvent = (eventObject) => {
+        if (!isObject(eventObject)) return null;
+        // 颜色载荷字段（新构建 j15s_1=颜色整数、k15s_1=粗细则色位）。
+        const color = Number(eventObject.j15s_1);
+        if (Number.isInteger(color) && color >= 0 && color <= 0xffffff) {
+            return { active: true, color };
+        }
+        // 关闭事件：新构建 new tDt()（描边关闭，无颜色）。按构造器名判定，
+        // 避免把无 j15s_1/k15s_1 的普通对象（如标题事件载荷）误判为关闭。
+        let ctorName = '';
+        try { ctorName = String(eventObject.constructor?.name || ''); } catch (_) {}
+        if (ctorName === 'tDt') {
+            return { active: false, color: null };
+        }
+        return null;
+    };
+
+    // 识别标题可见性事件（s_t：i12e_1=事件类型2、j12e_1=是否隐藏；旧构建 c12b_1/d12b_1）。
+    const readTitleVisibilityEvent = (eventObject) => {
+        if (!isObject(eventObject)) return null;
+        const type = Number(eventObject.i12e_1 ?? eventObject.c12b_1);
+        if (type !== 2) return null;
+        const hasNew = 'j12e_1' in eventObject;
+        const hasOld = 'd12b_1' in eventObject;
+        if (!hasNew && !hasOld) return null;
+        const hidden = hasNew ? Boolean(eventObject.j12e_1) : Boolean(eventObject.d12b_1);
+        return { hidden };
+    };
+
+    const instrumentEntityBus = (entity) => {
+        if (!isObject(entity) || entity.__tankXrayBusInstrumented === VERSION) return;
+        // 新构建实体事件分发方法为 iyz；旧构建 cyw）
+        const methodName = typeof entity.iyz === 'function' ? 'iyz'
+            : (typeof entity.cyw === 'function' ? 'cyw' : null);
+        if (!methodName) return;
+        const original = entity[methodName];
+        try {
+            const wrapped = function tankXrayEventBusInterceptor(eventObject) {
+                try {
+                    // 1) 瞄准/描边上色事件——可击中信号。伤害/治疗同为 QMt(颜色,粗细) 事件：
+                    //    落在敌方总线=可击中（橙/红）；落在队友总线=被治疗（绿），需透出原生治疗描边。
+                    const verdict = isOutlineTargetEvent(eventObject);
+                    if (verdict) {
+                        targetBusEvents += 1;
+                        const isAlly = (teamByEntity.get(entity) || TEAM_UNKNOWN) === TEAM_ALLY;
+                        if (verdict.active) {
+                            const until = Date.now() + HITTABLE_SIGNAL_TTL_MS;
+                            if (isAlly) {
+                                healingUntilByEntity.set(entity, until); // 被治疗的队友：透出绿色原生描边
+                            } else {
+                                hittableUntilByEntity.set(entity, until);
+                            }
+                        } else {
+                            hittableUntilByEntity.delete(entity);
+                            healingUntilByEntity.delete(entity); // 治疗结束（关闭事件）：恢复普通队友蓝
+                        }
+                        schedulePublish('target-bus-event');
+                    }
+                    // 2) 标题可见性事件——对敌方且透视开启时阻止隐藏（强制显示）。
+                    const titleEvent = readTitleVisibilityEvent(eventObject);
+                    if (titleEvent && titleEvent.hidden) {
+                        // 总线 entity 即坦克实体（jyw()）。敌我关系在 captureTeamAssignment
+                        // 时已写入 teamByEntity；只有敌方、已建立关联且不在排除名单时才改写的?
+                        const team = teamByEntity.get(entity) || TEAM_UNKNOWN;
+                        const related = rootsByEntity.get(entity);
+                        let eligible = false;
+                        if (related) {
+                            for (const rec of related) { if (isXrayEligible(rec)) { eligible = true; break; } }
+                        }
+                        if (active && idEnabled && team === TEAM_ENEMY && eligible) {
+                            enemyTitleOverrideEvents += 1;
+                            // 强制显示：把“隐藏”事件改写为“显示”。
+                            if ('j12e_1' in eventObject) eventObject.j12e_1 = false;
+                            if ('d12b_1' in eventObject) eventObject.d12b_1 = false;
+                        }
+                    }
+                } catch (_) {}
+                return original.call(this, eventObject);
+            };
+            wrapped.__tankXrayOriginal = original;
+            Object.defineProperty(entity, methodName, {
+                configurable: true,
+                enumerable: false,
+                writable: true,
+                value: wrapped,
+            });
+            entity.__tankXrayBusInstrumented = VERSION;
+            instrumentedEntityBusCount += 1;
+        } catch (error) {
+            hookErrors.push({ stage: 'entity-bus-instrument', field: methodName, message: String(error?.message || error) });
+        }
+    };
+
+    const dispatchEnemyTitleVisibility = (forceVisible) => {
+        pendingTitleVisibility = null;
+        // 构造可见性事件：优先用捕获到的原生构造器；否则使用兼容载荷。
+        // （新构建 s_t：i12e_1=2/j12e_1=hidden，旧构建 t_t：c12b_1=2/d12b_1=hidden）。
+        const buildEvent = (hidden) => {
+            if (typeof titleVisibilityEventConstructor === 'function') {
+                try { return new titleVisibilityEventConstructor(2, hidden); } catch (_) {}
+            }
+            return { i12e_1: 2, j12e_1: hidden, c12b_1: 2, d12b_1: hidden };
+        };
+        let dispatched = 0;
+        for (const record of titleRecords) {
+            const owner = record.ownerRef.deref();
+            if (!owner) continue;
+            const eligibleEnemy = record.team === TEAM_ENEMY && isXrayEligible(record);
+            // 关闭透视：仅对曾被强制显示的标题补发“恢复原生可见性”事件，并清除标志。
+            if (!forceVisible) {
+                if (record.xrayForcedShown) {
+                    const entity = record.entityRef?.deref?.() || safeEntityFromOwner(owner);
+                    const nativeVisible = readNativeTitleVisible(owner);
+                    if (entity && !nativeVisible) {
+                        try {
+                            const eventObject = buildEvent(true);
+                            if (dispatchEntityEvent(entity, eventObject)) dispatched += 1;
+                        } catch (_) {}
+                    }
+                }
+                record.xrayForcedShown = false;
+                continue;
+            }
+            // 打开透视/周期重扫：对合格敌方标题补发显示事件。
+            // 不再“只发一次”——首次补发若时机太早/被游戏吞掉，之后游戏按距离/复活再次隐藏时名字会永久丢失。
+            // 改为：新标题立即发；已发过的，若原生可见性当前为“隐藏”且距上次补发超过 TITLE_RESEND_MS，则重发（节流避免刷屏）。
+            if (!eligibleEnemy) continue;
+            const entity = record.entityRef?.deref?.() || safeEntityFromOwner(owner);
+            if (!entity) continue;
+            // 兜底：确保实体事件总线已插桩（标题根路径可能漏掉）。
+            instrumentEntityBus(entity);
+            const nowTs = Date.now();
+            const alreadyShown = record.xrayForcedShown && (nowTs - (record.lastForceShowAt || 0) < TITLE_RESEND_MS);
+            if (alreadyShown) continue;
+            // 已经稳定显示（原生可见性为 true）的无需重发；读不到可见性时按需要补发，保证不漏。
+            const nativeVisible = readNativeTitleVisible(owner);
+            if (record.xrayForcedShown && nativeVisible) { record.lastForceShowAt = nowTs; continue; }
+            try {
+                const eventObject = buildEvent(false);
+                if (dispatchEntityEvent(entity, eventObject)) {
+                    dispatched += 1;
+                    record.xrayForcedShown = true;
+                    record.lastForceShowAt = nowTs;
+                }
+            } catch (_) {}
+        }
+        titleVisibilityDispatches += dispatched;
+        return dispatched;
+    };
+
+    const statusFor = (snapshot) => {
+        if (!active || !enabled) return '透视已关闭，游戏原始轮廓状态已恢复';
+        if (snapshot.targetCount <= 0) {
+            if (snapshot.totalLiveRootCount > 0) {
+                return `精细轮廓已启动 · 当前模型均已排除（自身 ${snapshot.excludedLocalCount} / 残骸 ${snapshot.excludedDeadCount}）`;
+            }
+            return '精细轮廓已启动，正在等待坦克模型生成';
+        }
+        const teamText = `敌 ${snapshot.enemyCount} · 友 ${snapshot.allyCount}`;
+        const hitText = snapshot.hittableEnemyCount > 0 ? ` · 可击中橙色 ${snapshot.hittableEnemyCount}` : '';
+        const excludedText = (snapshot.excludedLocalCount + snapshot.excludedDeadCount) > 0
+            ? ` · 已排除自身 ${snapshot.excludedLocalCount} / 残骸 ${snapshot.excludedDeadCount}`
+            : '';
+        return `精细轮廓已接管 ${snapshot.targetCount} 辆坦克（${teamText}${hitText}${excludedText}）`;
+    };
+
+    const buildState = (reason = lastReason) => {
+        const scan = scanRoots();
+        // 新旧构建字段名并存：只要求至少一个坦克皮肤根 hook 安装成功。
+        const available = installedRootHookCount > 0;
+        const teamColorsAvailable = teamRelationHookInstalled && trackedAssociationHookInstalled;
+        // 昵称牌穿墙依赖：敌我关系 + 标题根 + 标题可见性。
+        // 渲染阶段 16～17（无深度）是核心，由标题根 hook + instrumentTitleTree 保证；
+        // 新构建可见性事件走事件总线（不经过原型赋值），旧构建经 d12b_1 赋值。
+        const distantEnemyIdsAvailable = teamRelationHookInstalled
+            && titleRootHookInstalled
+            && (titleStateHookInstalled || titleEventHookInstalled);
+        const stateEnabled = available && active && enabled;
+        const snapshot = {
+            version: VERSION,
+            adapterName: ADAPTER_NAME,
+            available,
+            enabled: stateEnabled,
+            allyOutlineEnabled: active && allyOutlineEnabled,
+            targetCount: scan.eligibleRoots,
+            totalLiveRootCount: scan.liveRoots,
+            excludedLocalCount: scan.excludedLocalCount,
+            excludedDeadCount: scan.excludedDeadCount,
+            outlineStyle: 'thin',
+            nodeCount: scan.nodes,
+            meshCount: scan.meshes,
+            lodCount: scan.lodGroups,
+            allyCount: scan.allyCount,
+            enemyCount: scan.enemyCount,
+            unknownCount: scan.unknownCount,
+            titleCount: scan.liveTitleCount,
+            enemyTitleCount: scan.enemyTitleCount,
+            titleRootCount: scan.liveTitleRootCount,
+            enemyTitleRootCount: scan.enemyTitleRootCount,
+            nicknameNodeCount: scan.liveNicknameNodeCount,
+            enemyNicknameNodeCount: scan.enemyNicknameNodeCount,
+            hittableEnemyCount: scan.hittableEnemyCount,
+            invincibleEnemyCount: scan.invincibleEnemyCount,
+            botEnemyCount: scan.botEnemyCount,
+            allyColor,
+            enemyColor,
+            hittableColor,
+            invincibleColor,
+            botColor,
+            teamColorsAvailable,
+            distantEnemyIdsAvailable,
+            idXrayAvailable: distantEnemyIdsAvailable,
+            idEnabled: distantEnemyIdsAvailable && active && idEnabled,
+            nativeStages: ['OutlineStencil', 'Outline'],
+            depthTestDisabledInOutlineStage: true,
+            rootFields: ROOT_FIELD_SPECS.map((spec) => spec.field),
+            titleRootFields: [...TITLE_ROOT_FIELDS],
+            teamRelationFields: [...TEAM_RELATION_FIELDS],
+            nicknameFields: [...NICKNAME_FIELDS],
+            titleVisibleFields: [...TITLE_VISIBLE_FIELDS],
+            hookStatus: {
+                installedRootHookCount,
+                rootHookTotal: ROOT_FIELD_SPECS.length,
+                teamRelationHookCount,
+                nicknameHookCount,
+                trackedAssociationHookCount,
+                titleRootHookCount,
+                nicknameNodeHookCount,
+                titleStateHookCount,
+                titleEventHookInstalled,
+            },
+            capturedRootCount,
+            rootAssignments,
+            instrumentedNodeCount,
+            instrumentedMeshCount,
+            instrumentedLodCount,
+            overrideReads,
+            fieldAssignments,
+            teamAssignments,
+            enemyTitleOverrideEvents,
+            titleVisibilityDispatches,
+            targetVisualEvents,
+            targetBusEvents,
+            instrumentedEntityBusCount,
+            changedAt,
+            reason,
+            hookErrors: hookErrors.map((item) => ({ ...item })),
+            error: available ? '' : '坦克根节点捕获钩子未完整安装',
+        };
+        snapshot.status = statusFor(snapshot);
+        return snapshot;
+    };
+
+    const publishState = (reason = lastReason, requestId = null, force = false) => {
+        const snapshot = buildState(reason);
+        // ID 透视开启期间，周期重扫/状态变化时对“新出现且尚未强制显示”的敌方昵称牌补发显示事件，
+        // 这样运行中刷新出来的敌人无需手动关开一次开关即可强制显示名称。
+        if (active && idEnabled && snapshot.enemyTitleCount > 0) {
+            try { dispatchEnemyTitleVisibility(true); } catch (_) {}
+        }
+        const signature = [snapshot.enabled, snapshot.allyOutlineEnabled, snapshot.available, snapshot.targetCount, snapshot.nodeCount,
+            snapshot.meshCount, snapshot.enemyCount, snapshot.allyCount, snapshot.unknownCount,
+            snapshot.hittableEnemyCount, snapshot.idEnabled, snapshot.enemyTitleCount,
+            snapshot.excludedLocalCount, snapshot.excludedDeadCount,
+            snapshot.error].join('|');
+        if (!force && signature === lastPublishedSignature) return snapshot;
+        lastPublishedSignature = signature;
+        try {
+            page.dispatchEvent(new CustomEvent(STATE_EVENT, {
+                detail: {
+                    ...snapshot,
+                    ...(requestId == null ? {} : { requestId }),
+                },
+            }));
+        } catch (_) {}
+        return snapshot;
+    };
+
+    function schedulePublish(reason = lastReason) {
+        lastReason = reason;
+        if (publishTimer != null) return;
+        publishTimer = page.setTimeout(() => {
+            publishTimer = null;
+            publishState(reason);
+        }, 0);
+    }
+
+    const stopRescan = () => {
+        if (rescanTimer != null) page.clearInterval(rescanTimer);
+        rescanTimer = null;
+    };
+
+    const startRescan = () => {
+        if (rescanTimer != null || !active || (!enabled && !idEnabled)) return;
+        rescanTimer = page.setInterval(() => publishState('periodic-rescan'), RESCAN_INTERVAL_MS);
+    };
+
+    const setEnabled = (nextEnabled, context = {}) => {
+        enabled = Boolean(nextEnabled);
+        active = true;
+        changedAt = Date.now();
+        lastReason = String(context.reason || (enabled ? 'enable' : 'disable'));
+        if (enabled) {
+            startRescan();
+        } else {
+            if (!idEnabled) stopRescan();
+        }
+        return publishState(lastReason, context.requestId, true);
+    };
+
+    const setIdEnabled = (nextEnabled, context = {}) => {
+        idEnabled = Boolean(nextEnabled);
+        active = true;
+        changedAt = Date.now();
+        lastReason = String(context.reason || (idEnabled ? 'enable-id-xray' : 'disable-id-xray'));
+        if (idEnabled) {
+            startRescan();
+            // 已经被距离规则隐藏的敌方标题，补发一次游戏原生显示事件。
+            page.setTimeout(() => {
+                if (active && idEnabled) dispatchEnemyTitleVisibility(true);
+            }, 0);
+        } else {
+            // 恢复标题控制器保存的原生最远距离可见状态，并清除“已强制显示”标志。
+            try { dispatchEnemyTitleVisibility(false); } catch (_) {}
+            if (!enabled) stopRescan();
+        }
+        return publishState(lastReason, context.requestId, true);
+    };
+
+
+    const setAllyOutlineEnabled = (nextEnabled, context = {}) => {
+        allyOutlineEnabled = Boolean(nextEnabled);
+        active = true;
+        changedAt = Date.now();
+        lastReason = String(context.reason
+            || (allyOutlineEnabled ? 'enable-ally-outline' : 'disable-ally-outline'));
+        // 轮廓状态由渲染器每帧读取访问器，无需重扫；强制广播一次让 UI 刷新。
+        return publishState(lastReason, context.requestId, true);
+    };
+
+    const onTargetVisualState = (event) => {
+        const detail = event?.detail;
+        const entity = detail?.entity;
+        if (!isObject(entity)) return;
+        targetVisualEvents += 1;
+        if (detail.damaging === true && detail.active !== false) {
+            hittableUntilByEntity.set(entity, Date.now() + HITTABLE_SIGNAL_TTL_MS);
+        } else {
+            hittableUntilByEntity.delete(entity);
+        }
+        schedulePublish('native-target-state');
+    };
+    page.addEventListener(TARGET_VISUAL_EVENT, onTargetVisualState);
+
+    const onRequest = (event) => {
+        const detail = event?.detail;
+        if (!detail || typeof detail !== 'object') return;
+        let result;
+        if (typeof detail.allyOutline === 'boolean') {
+            result = setAllyOutlineEnabled(detail.allyOutline, detail);
+        } else {
+            result = setEnabled(detail.enabled, detail);
+        }
+        try { detail.respond?.(result); } catch (_) {}
+    };
+    page.addEventListener(REQUEST_EVENT, onRequest);
+
+    const runtime = {
+        version: VERSION,
+        adapterName: ADAPTER_NAME,
+        setPersistentEnabled: setEnabled,
+        setEnabled,
+        setIdEnabled,
+        setAllyOutlineEnabled,
+        enableIds: (context = {}) => setIdEnabled(true, context),
+        disableIds: (context = {}) => setIdEnabled(false, context),
+        enable: (context = {}) => setEnabled(true, context),
+        disable: (context = {}) => setEnabled(false, context),
+        enableAllyOutline: (context = {}) => setAllyOutlineEnabled(true, context),
+        disableAllyOutline: (context = {}) => setAllyOutlineEnabled(false, context),
+        isEnabled: () => active && enabled,
+        isIdEnabled: () => active && idEnabled,
+        isAllyOutlineEnabled: () => active && allyOutlineEnabled,
+        getState: () => buildState('get-state'),
+        getDiagnostics: () => buildState('diagnostics'),
+        setColor(value, reason = 'set-color') {
+            const next = Number(value);
+            if (!Number.isInteger(next) || next < 0 || next > 0xffffff) {
+                throw new RangeError('轮廓颜色必须为 0x000000～0xFFFFFF 的整数');
+            }
+            enemyColor = next;
+            changedAt = Date.now();
+            lastReason = reason;
+            return publishState(reason, null, true);
+        },
+        setTeamColors(colors = {}, reason = 'set-team-colors') {
+            const nextAlly = colors.ally == null ? allyColor : Number(colors.ally);
+            const nextEnemy = colors.enemy == null ? enemyColor : Number(colors.enemy);
+            const nextHittable = colors.hittable == null ? hittableColor : Number(colors.hittable);
+            const nextInvincible = colors.invincible == null ? invincibleColor : Number(colors.invincible);
+            const nextBot = colors.bot == null ? botColor : Number(colors.bot);
+            for (const [name, value] of [
+                ['ally', nextAlly], ['enemy', nextEnemy], ['hittable', nextHittable],
+                ['invincible', nextInvincible], ['bot', nextBot],
+            ]) {
+                if (!Number.isInteger(value) || value < 0 || value > 0xffffff) {
+                    throw new RangeError(`${name} 轮廓颜色必须为 0x000000～0xFFFFFF 的整数`);
+                }
+            }
+            allyColor = nextAlly;
+            enemyColor = nextEnemy;
+            hittableColor = nextHittable;
+            invincibleColor = nextInvincible;
+            botColor = nextBot;
+            changedAt = Date.now();
+            lastReason = reason;
+            return publishState(reason, null, true);
+        },
+        resume(reason = 'resume') {
+            active = true;
+            changedAt = Date.now();
+            lastReason = reason;
+            if (enabled || idEnabled) {
+                startRescan();
+            }
+            if (idEnabled) {
+                page.setTimeout(() => {
+                    if (active && idEnabled) dispatchEnemyTitleVisibility(true);
+                }, 0);
+            }
+            return publishState(reason, null, true);
+        },
+        suspend(reason = 'suspend') {
+            active = false;
+            stopRescan();
+            dispatchEnemyTitleVisibility(false);
+            changedAt = Date.now();
+            lastReason = reason;
+            return publishState(reason, null, true);
+        },
+    };
+
+    Object.defineProperty(page, GLOBAL_NAME, {
+        configurable: true,
+        enumerable: false,
+        writable: false,
+        value: runtime,
+    });
+})();
+
+(function installNativeTargetVisualBridge() {
+    'use strict';
+
+    const page = window;
+    const GLOBAL_NAME = '__StandaloneXrayTargetBridge';
+    const VERSION = '1.0.0';
+    const TARGET_ENTITY_FIELD = 'k198_1';
+    const TARGET_HIGHLIGHT_FIELD = 'h19b_1';
+    const TARGET_VISUAL_EVENT = 'tank-assistant-suite:native-target-state';
+    const previous = page[GLOBAL_NAME];
+    if (previous?.version === VERSION) return;
+
+    const entityByTarget = new WeakMap();
+    const highlightByTarget = new WeakMap();
+    const errors = [];
+    let entityEvents = 0;
+    let highlightEvents = 0;
+    let visualEvents = 0;
+
+    const isObject = (value) => value != null && (typeof value === 'object' || typeof value === 'function');
+    const classify = (value) => {
+        if (value == null || value === false) return { active: false, damaging: false, kind: 'NONE' };
+        if (value === true) return { active: true, damaging: true, kind: 'BOOLEAN_DAMAGING' };
+        let text = '';
+        try { text = String(value).toUpperCase(); } catch (_) {}
+        if (text.includes('TARGETING_DAMAGING')) return { active: true, damaging: true, kind: 'TARGETING_DAMAGING' };
+        if (text.includes('TARGETING_HEALING')) return { active: true, damaging: false, kind: 'TARGETING_HEALING' };
+        if (text === 'RADAR' || text.includes('TARGETING_RADAR')) return { active: true, damaging: false, kind: 'RADAR' };
+        const index = Number(value?.k3_1);
+        if (index === 0) return { active: true, damaging: true, kind: 'ENUM_0_DAMAGING' };
+        if (index === 1) return { active: true, damaging: false, kind: 'ENUM_1_HEALING' };
+        if (index === 2) return { active: true, damaging: false, kind: 'ENUM_2_RADAR' };
+        return { active: false, damaging: false, kind: 'UNKNOWN' };
+    };
+
+    const dispatch = (entity, rawValue, forcedInactive = false) => {
+        if (!isObject(entity)) return;
+        const classification = forcedInactive
+            ? { active: false, damaging: false, kind: 'ENTITY_REPLACED' }
+            : classify(rawValue);
+        try {
+            page.dispatchEvent(new CustomEvent(TARGET_VISUAL_EVENT, {
+                detail: {
+                    entity,
+                    active: classification.active,
+                    damaging: classification.damaging,
+                    kind: classification.kind,
+                    rawValue,
+                    at: Date.now(),
+                },
+            }));
+            visualEvents += 1;
+        } catch (error) {
+            errors.push({ stage: 'dispatch', message: String(error?.message || error) });
+        }
+    };
+
+    const publish = (target) => {
+        if (!isObject(target)) return;
+        dispatch(entityByTarget.get(target), highlightByTarget.get(target));
+    };
+
+    const onAssignment = (role, target, value, previousValue) => {
+        if (!isObject(target)) return;
+        if (role === 'entity') {
+            entityEvents += 1;
+            const previousEntity = entityByTarget.get(target);
+            if (previousEntity && previousEntity !== value) dispatch(previousEntity, null, true);
+            if (isObject(value)) entityByTarget.set(target, value);
+            else entityByTarget.delete(target);
+            publish(target);
+            return;
+        }
+        highlightEvents += 1;
+        highlightByTarget.set(target, value);
+        publish(target);
+        if (previousValue != null && value == null) dispatch(entityByTarget.get(target), null, true);
+    };
+
+    const installFieldHook = (field, role) => {
+        const existing = Object.getOwnPropertyDescriptor(Object.prototype, field);
+        if (existing) {
+            errors.push({ stage: 'install', field, message: 'Object.prototype 已存在同名字段，未覆盖' });
+            return false;
+        }
+        const setter = function standaloneXrayTargetFieldCapture(initialValue) {
+            let storedValue = initialValue;
+            try {
+                Object.defineProperty(this, field, {
+                    configurable: true,
+                    enumerable: true,
+                    get() { return storedValue; },
+                    set(nextValue) {
+                        const previousValue = storedValue;
+                        storedValue = nextValue;
+                        onAssignment(role, this, nextValue, previousValue);
+                    },
+                });
+                onAssignment(role, this, initialValue, undefined);
+            } catch (error) {
+                errors.push({ stage: 'instance', field, message: String(error?.message || error) });
+            }
+        };
+        Object.defineProperty(setter, '__standaloneXrayTargetHook', { value: VERSION });
+        try {
+            Object.defineProperty(Object.prototype, field, {
+                configurable: true,
+                enumerable: false,
+                get: undefined,
+                set: setter,
+            });
+            return true;
+        } catch (error) {
+            errors.push({ stage: 'install', field, message: String(error?.message || error) });
+            return false;
+        }
+    };
+
+    const installedEntityHook = false;
+    const installedHighlightHook = false;
+    const api = Object.freeze({
+        version: VERSION,
+        targetEntityField: TARGET_ENTITY_FIELD,
+        targetHighlightField: TARGET_HIGHLIGHT_FIELD,
+        available: installedEntityHook && installedHighlightHook,
+        classify,
+        getDiagnostics: () => ({
+            version: VERSION,
+            available: installedEntityHook && installedHighlightHook,
+            entityEvents,
+            highlightEvents,
+            visualEvents,
+            errors: errors.map((item) => ({ ...item })),
+        }),
+    });
+    Object.defineProperty(page, GLOBAL_NAME, {
+        configurable: false,
+        enumerable: false,
+        writable: false,
+        value: api,
+    });
+})();
+
+(function installStandaloneXrayControlPanel() {
+    'use strict';
+
+    const page = window;
+    const doc = document;
+    const HOST_ID = 'standalone-tank-xray-panel';
+    const STORAGE_KEY = 'standalone_tank_xray_settings_v1';
+    const STATE_EVENT = 'tank-assistant-suite:xray-state';
+
+    /* ============================================================
+     * 名称授权白名单（唯一需要你自己改的地方）
+     * ------------------------------------------------------------
+     * 只有「大厅玩家名称」出现在下表里的账号，加载动画结束后才会
+     * 通过名称校验：校验通过后才能按 Insert / - 呼出主悬浮窗、
+     * 使用透视功能；名称不在表里的人，脚本功能一律不启用、
+     * 主悬浮窗也无法呼出（把脚本转发给别人同样如此）。
+     *
+     * 用法：把要授权的玩家名称原样填进下面的引号里，多个用逗号隔开。
+     *   const AUTHORIZED_NAMES = ['你的名称', '朋友A的名称', '朋友B的名称'];
+     * 不区分大小写、忽略首尾空格；其余字符必须与游戏内名称完全一致。
+     * ============================================================ */
+    const AUTHORIZED_NAMES = [
+        'C-C-T-V-3',
+        'Trklink1917',
+        'Vacher_Const',
+        'Cute',
+        'EIaina',
+        'dabaozuibang',
+        'Nikonikoni',
+    ];
+    const cleanName = (value) => String(value == null ? '' : value).trim();
+    const normalizeName = (value) => cleanName(value).toLowerCase();
+    const AUTHORIZED_SET = new Set(
+        AUTHORIZED_NAMES.map((name) => normalizeName(name)).filter(Boolean)
+    );
+    // 从大厅顶栏读取本机玩家名称：
+    // <span class="UserInfoContainerStyle-userNameRank UserInfoContainerStyle-textDecoration">名称</span>
+    // 从 "[军团名]玩家名" 里只取玩家名：截掉最后一个 ] 】 ) 之前的内容。
+    const extractPlayerName = (rawText) => {
+        if (rawText == null) return '';
+        let text = String(rawText).replace(/\u00a0/g, ' ').trim();
+        if (!text) return '';
+        const lastBracket = Math.max(
+            text.lastIndexOf(']'),
+            text.lastIndexOf('】'),
+            text.lastIndexOf(')'),
+        );
+        if (lastBracket >= 0) text = text.slice(lastBracket + 1).trim();
+        return text;
+    };
+    const readLobbyPlayerName = () => {
+        try {
+            const span = doc.querySelector(
+                '[class*="UserInfoContainerStyle-userNameRank"]'
+            );
+            if (span) {
+                const name = cleanName(extractPlayerName(span.textContent));
+                if (name) return { name, source: 'lobby' };
+            }
+        } catch (_) {}
+        // 兜底：部分构建类名前缀不同，扫描含 userNameRank 的节点
+        try {
+            const all = doc.querySelectorAll('span');
+            for (let i = 0; i < all.length; i += 1) {
+                const cls = all[i].className || '';
+                if (typeof cls === 'string'
+                    && /UserInfoContainerStyle-userNameRank/.test(cls)) {
+                    const name = cleanName(extractPlayerName(all[i].textContent));
+                    if (name) return { name, source: 'lobby-fallback' };
+                }
+            }
+        } catch (_) {}
+        return { name: '', source: '' };
+    };
+    const isNameAuthorized = (name) => AUTHORIZED_SET.has(normalizeName(name));
+
+    const DEFAULTS = Object.freeze({
+        outline: false,
+        allyOutline: true,
+        ids: false,
+        enemy: '#ff6666',
+        ally: '#33bbff',
+        hittable: '#ff9800',
+        invincible: '#ffffff',
+        bot: '#ff00ff',
+        hidden: false,
+        pos: null,
+        // 战场功能·道具三开
+        threeEnabled: false,   // 三开总开关
+        threeHotkey: '9',      // 三开切换热键
+        threeInterval: 50,     // 道具内核触发间隔 ms（固定触发：护甲 / 伤害 / 加速；范围 10–50）
+        // 战场功能·地雷（键盘模拟，提取自特技脚本）
+        mineEnabled: false,    // 地雷总开关
+        mineHotkey: 'F4',      // 地雷切换热键
+        mineInterval: 23,      // 模拟 5 键（投放地雷）的间隔 ms，原特技脚本固定 23
+        activePage: 'home',    // 侧栏最后停留的页签
+    });
+
+    const runtime = page.__TankXrayDebugRuntime;
+    if (!runtime) {
+        console.error('[StandaloneXray] 战术透视早期运行时未安装');
+        return;
+    }
+
+    const normalizeColor = (value, fallback) => /^#[0-9a-f]{6}$/i.test(String(value || ''))
+        ? String(value).toLowerCase()
+        : fallback;
+    const readSettings = () => {
+        let saved = {};
+        try { saved = JSON.parse(page.localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) {}
+        return {
+            outline: saved.outline === true,
+            allyOutline: saved.allyOutline !== false,
+            ids: saved.ids === true,
+            enemy: normalizeColor(saved.enemy, DEFAULTS.enemy),
+            ally: normalizeColor(saved.ally, DEFAULTS.ally),
+            hittable: normalizeColor(saved.hittable, DEFAULTS.hittable),
+            invincible: normalizeColor(saved.invincible, DEFAULTS.invincible),
+            bot: normalizeColor(saved.bot, DEFAULTS.bot),
+            hidden: saved.hidden === true,
+            pos: (saved.pos && Number.isFinite(saved.pos.left) && Number.isFinite(saved.pos.top))
+                ? { left: saved.pos.left, top: saved.pos.top }
+                : null,
+            threeEnabled: saved.threeEnabled === true,
+            threeHotkey: (typeof saved.threeHotkey === 'string' && saved.threeHotkey)
+                ? saved.threeHotkey.slice(0, 12) : DEFAULTS.threeHotkey,
+            threeInterval: Number.isFinite(saved.threeInterval) && saved.threeInterval >= 50
+                ? Math.min(100, Math.max(50, Math.round(saved.threeInterval))) : DEFAULTS.threeInterval,
+            mineEnabled: saved.mineEnabled === true,
+            mineHotkey: (typeof saved.mineHotkey === 'string')
+                ? saved.mineHotkey.slice(0, 12) : DEFAULTS.mineHotkey,
+            mineInterval: Number.isFinite(saved.mineInterval) && saved.mineInterval >= 20
+                ? Math.min(50, Math.max(20, Math.round(saved.mineInterval))) : DEFAULTS.mineInterval,
+            activePage: ['home', 'join', 'battle', 'xray', 'about'].includes(saved.activePage)
+                ? saved.activePage : DEFAULTS.activePage,
+        };
+    };
+    const settings = readSettings();
+    const save = () => {
+        try { page.localStorage.setItem(STORAGE_KEY, JSON.stringify(settings)); } catch (_) {}
+    };
+    const colorNumber = (hex) => Number.parseInt(hex.slice(1), 16);
+    const applyColors = () => runtime.setTeamColors({
+        enemy: colorNumber(settings.enemy),
+        ally: colorNumber(settings.ally),
+        hittable: colorNumber(settings.hittable),
+        invincible: colorNumber(settings.invincible),
+        bot: colorNumber(settings.bot),
+    }, 'standalone-color-settings');
+
+    applyColors();
+    // 名称授权通过前，不启用任何透视运行时功能（轮廓/队友轮廓/ID 全关）；
+    // 授权通过后由 unlockFeatures() 按本地保存的设置恢复。
+    runtime.setEnabled(false, { reason: 'standalone-await-name-auth' });
+    runtime.setAllyOutlineEnabled(false, { reason: 'standalone-await-name-auth' });
+    runtime.setIdEnabled(false, { reason: 'standalone-await-name-auth' });
+
+    /* ============================================================
+     * 战场功能·道具三开（内核触发，提取自独立三开脚本）
+     * 扫描 React 状态树 -> Root/World/LocalTank -> 道具函数表，
+     * Worker 定时直接调用内核函数使用 护甲 / 伤害 / 速度。
+     * 同样受名称授权门控：未通过白名单校验绝不触发。
+     * ============================================================ */
+    const threeCheats = { Root: undefined, World: undefined, LocalTank: undefined };
+    const threeKernelBase = {
+        ReactContainer: undefined,
+        Root: { Key1: undefined, Key2: undefined },
+        _TOState: { Key1: undefined },
+        TOState: {},
+        isGameReady: { isReady: undefined, isReadyKey: undefined },
+        World: { Key1: undefined, Key2: undefined, Key3: undefined, Key4: undefined, Key5: undefined },
+        LocalTank: { Key1: undefined, Key2: undefined },
+    };
+    const TankKernel = {
+        base: threeKernelBase,
+        simpleName(x) {
+            const m = {};
+            if (!x || x === false) return m;
+            for (const D in x) {
+                try {
+                    const W = x[D].toString().match(/^\w+/);
+                    if (W) m[W[0]] = x[D];
+                } catch (X) {}
+            }
+            return m;
+        },
+        stateNode2() {
+            const x = doc.getElementById('app-root');
+            if (!x) return null;
+            if (this.base.ReactContainer) return x[this.base.ReactContainer];
+            for (const m in x) {
+                if (m.startsWith('__reactContainer$')) { this.base.ReactContainer = m; return x[m]; }
+            }
+            return null;
+        },
+        getReactStateNode() {
+            try {
+                const x = this.stateNode2();
+                if (this.base.Root.Key1 && this.base.Root.Key2) {
+                    return x && x.child && x.child.child && x.child.child.stateNode
+                        && x.child.child.stateNode[this.base.Root.Key1]
+                        && x.child.child.stateNode[this.base.Root.Key1][this.base.Root.Key2];
+                }
+                const m = x && x.child && x.child.child && x.child.child.stateNode;
+                if (!m) return;
+                const D = Object.keys(m);
+                this.base.Root.Key1 = D[5];
+                this.base.Root.Key2 = Object.keys(m[this.base.Root.Key1])[2];
+                this.base._TOState.Key1 = Object.keys(m[this.base.Root.Key1][this.base.Root.Key2])[4];
+                threeCheats.Root = m[this.base.Root.Key1][this.base.Root.Key2];
+                return threeCheats.Root;
+            } catch (W) { return undefined; }
+        },
+        findIsGameReady() {
+            const x = this.getReactStateNode();
+            if (this.base._TOState.Key1 && !this.base.isGameReady.isReadyKey) {
+                const m = x && x[this.base._TOState.Key1];
+                for (const D in m) {
+                    try {
+                        if (m[D] && m[D].toString().startsWith('BattleStatistics')) {
+                            this.base.TOState.BattleStatistics = D;
+                        }
+                    } catch (W) {}
+                }
+                this.base.isGameReady.isReadyKey = Object.keys(
+                    (x && x[this.base._TOState.Key1] && x[this.base._TOState.Key1][this.base.TOState.BattleStatistics]) || {}
+                )[20];
+            }
+            if (this.base.isGameReady.isReadyKey) {
+                this.base.isGameReady.isReady
+                    = x && x[this.base._TOState.Key1]
+                    && x[this.base._TOState.Key1][this.base.TOState.BattleStatistics]
+                    && x[this.base._TOState.Key1][this.base.TOState.BattleStatistics][this.base.isGameReady.isReadyKey];
+                return this.base.isGameReady.isReady;
+            }
+            return false;
+        },
+        tick() {
+            if (!this.findIsGameReady()) return;
+            const x = threeCheats.Root;
+            if (!x) return;
+            try {
+                if (!this.base.World.Key1) {
+                    this.base.World.Key1 = Object.keys(x)[1];
+                    this.base.World.Key2 = Object.keys(x[this.base.World.Key1])[1];
+                }
+                const m = x[this.base.World.Key1] && x[this.base.World.Key1][this.base.World.Key2];
+                if (!m) return;
+                const D = Object.entries(m).findLast(([, W]) =>
+                    Object.keys(W || {}).length === 3 && typeof Object.values(W)[2] === 'boolean');
+                if (D) {
+                    this.base.World.Key3 = D[1];
+                    this.base.World.Key4 = Object.keys(this.base.World.Key3)[0];
+                    this.base.World.Key5 = Object.keys(this.base.World.Key3[this.base.World.Key4])[1];
+                    threeCheats.World = this.base.World.Key3[this.base.World.Key4][this.base.World.Key5];
+                    const W = this.base.World.Key3[this.base.World.Key4];
+                    this.base.LocalTank.Key1 = Object.keys(W)[7];
+                    this.base.LocalTank.Key2 = W[this.base.LocalTank.Key1]
+                        ? Object.keys(W[this.base.LocalTank.Key1])[0] : undefined;
+                    threeCheats.LocalTank = W[this.base.LocalTank.Key1]
+                        && W[this.base.LocalTank.Key1][this.base.LocalTank.Key2];
+                }
+                this.findSupplies();
+            } catch (X) {}
+        },
+        findSupplies() {
+            try {
+                if (!this.findIsGameReady()) return;
+                const x = Object.entries(threeCheats.LocalTank || {}).findLast(([, U]) =>
+                    Object.keys(U).length >= 30 && this.simpleName(U).TankInfoCC);
+                if (!x) return;
+                const m = threeCheats.LocalTank[x[0]];
+                const D = m[Object.keys(m)[9]][Object.keys(m[Object.keys(m)[9]])[5]];
+                const W = {};
+                const X = D[Object.keys(D)[0]];
+                const V = D[Object.keys(D)[1]];
+                for (let U = 0; U < X.length; U++) {
+                    if (!X[U] || !V[U]) continue;
+                    const Q = X[U][Object.keys(X[U])[0]];
+                    const Z = V[U][Object.keys(V[U])[0]];
+                    W[Q] = Z;
+                }
+                threeCheats.getSupplies = W;
+            } catch (M) {}
+        },
+    };
+    page.setInterval(() => TankKernel.tick(), 100);
+
+    // Worker 定时心跳（时间轴独立于页面渲染，避免卡顿导致道具断档）
+    const threeWorkerSrc = [
+        'const timers = {};',
+        'self.onmessage = function(e) {',
+        '  const d = e.data;',
+        "  if (d.type === 'start' || d.type === 'update') {",
+        '    if (timers[d.supply]) clearInterval(timers[d.supply]);',
+        "    timers[d.supply] = setInterval(() => self.postMessage({ supply: d.supply }), Math.max(d.ms > 0 ? d.ms : 100, 50));",
+        "  } else if (d.type === 'stop') { clearInterval(timers[d.supply]); delete timers[d.supply]; }",
+        '};',
+    ].join('\n');
+    let threeWorker = null;
+    try {
+        threeWorker = new Worker(URL.createObjectURL(new Blob([threeWorkerSrc], { type: 'application/javascript' })));
+    } catch (_) { threeWorker = null; }
+    const THREE_AUTO_SUPPLIES = ['DOUBLE_ARMOR', 'DOUBLE_DAMAGE', 'NITRO'];
+    if (threeWorker) {
+        threeWorker.onmessage = (ev) => {
+            // 双重门控：本地开关 + 名称白名单授权通过
+            if (!settings.threeEnabled || !nameAuthPassed) return;
+            const caller = threeCheats.getSupplies && threeCheats.getSupplies[ev.data.supply];
+            if (typeof caller !== 'function') return;
+            try { caller(); } catch (_) {}
+        };
+        THREE_AUTO_SUPPLIES.forEach((supply) => {
+            threeWorker.postMessage({ type: 'start', supply, ms: settings.threeInterval });
+        });
+    }
+    const threeRefreshTimers = () => {
+        if (!threeWorker) return;
+        THREE_AUTO_SUPPLIES.forEach((supply) => {
+            threeWorker.postMessage({ type: 'update', supply, ms: settings.threeInterval });
+        });
+    };
+    const isChatFocused = () => !!doc.querySelector('.InputComponentStyle-input')
+        || !!doc.querySelector('.ChatComponentStyle-chatWindow');
+    const threeToast = () => {};
+    const renderThreeUI = () => {
+        const host = doc.getElementById(HOST_ID);
+        if (!host || !host.shadowRoot) return;
+        const btn = host.shadowRoot.getElementById('three-toggle');
+        if (btn) {
+            btn.textContent = '[' + (settings.threeHotkey || '无') + '] 三开 · ' + (settings.threeEnabled ? '运行中' : '已停止');
+            btn.classList.toggle('run', settings.threeEnabled);
+        }
+    };
+    const setThreeEnabled = (on) => {
+        if (isChatFocused()) return;
+        settings.threeEnabled = !!on;
+        save();
+        renderThreeUI();
+        threeToast(settings.threeEnabled ? '三开开启（内核触发）' : '三开关闭');
+    };
+    const toggleThree = () => setThreeEnabled(!settings.threeEnabled);
+
+    /* ============================================================
+     * 战场功能·自动地雷（键盘模拟，提取自特技脚本 setMinesAutomation）
+     * 定时向 document.body 派发 5 键 keydown/keyup（Digit5/keyCode 53），
+     * 等价于在游戏里狂按地雷键。受名称授权门控：未通过白名单不触发。
+     * ============================================================ */
+    let mineTimer = null;
+    const simulateMineKey = () => {
+        const opts = {
+            bubbles: true, cancelable: true, charCode: 0, ctrlKey: false,
+            location: 0, code: 'Digit5', key: '5', shiftKey: false,
+            keyCode: 53, which: 53, repeat: true,
+        };
+        try {
+            doc.body.dispatchEvent(new KeyboardEvent('keydown', opts));
+            doc.body.dispatchEvent(new KeyboardEvent('keyup', opts));
+        } catch (_) {}
+    };
+    const stopMineLoop = () => {
+        if (mineTimer !== null) {
+            try { page.clearInterval(mineTimer); } catch (_) {}
+            mineTimer = null;
+        }
+    };
+    const startMineLoop = () => {
+        stopMineLoop();
+        mineTimer = page.setInterval(simulateMineKey, settings.mineInterval);
+    };
+    const renderMineUI = () => {
+        const host = doc.getElementById(HOST_ID);
+        if (!host || !host.shadowRoot) return;
+        const btn = host.shadowRoot.getElementById('mine-toggle');
+        if (btn) {
+            btn.textContent = '[' + (settings.mineHotkey || '无') + '] 地雷 · ' + (settings.mineEnabled ? '运行中' : '已停止');
+            btn.classList.toggle('run', settings.mineEnabled);
+        }
+    };
+    const setMineEnabled = (on) => {
+        if (isChatFocused()) return; // 聊天框聚焦时忽略，避免打字误开关
+        if (on && !nameAuthPassed) { threeToast('未授权：自动地雷已锁定'); return; }
+        settings.mineEnabled = !!on;
+        if (settings.mineEnabled) startMineLoop(); else stopMineLoop();
+        save();
+        renderMineUI();
+        threeToast(settings.mineEnabled ? '自动地雷开启' : '自动地雷关闭');
+    };
+    const toggleMine = () => setMineEnabled(!settings.mineEnabled);
+
+    /* ============================================================
+     * 战场功能·房间点场（提取自特技脚本 房间点场：A队/B队/混战）
+     * 在房间列表监听对应“进入战斗”按钮，按钮一旦可点立即自动点击进入；
+     * 超限等模式的入场确认框自动确认。A队与B队可同时开启，二者与混战互斥；
+     * 成功进入或再次点击当前模式即停止。不持久化，刷新后复位。
+     * ============================================================ */
+    const JOIN_OBS = { A: null, B: null, MIX: null };
+    let joinDialogObserver = null;   // 三种模式共用一个入场弹窗观察器
+    const JOIN_ID = { A: 'join-a', B: 'join-b', MIX: 'join-mix' };
+    const JOIN_LABEL = { A: 'A队', B: 'B队', MIX: '混战' };
+    const joinActiveModes = () => Object.keys(JOIN_OBS).filter((m) => JOIN_OBS[m] !== null);
+
+    const disconnectOneJoin = (mode) => {
+        try { JOIN_OBS[mode] && JOIN_OBS[mode].disconnect(); } catch (_) {}
+        JOIN_OBS[mode] = null;
+    };
+    // 全部模式都停止时，连入场弹窗观察器一起断开
+    const refreshDialogObserver = () => {
+        if (joinActiveModes().length > 0) return;
+        try { joinDialogObserver && joinDialogObserver.disconnect(); } catch (_) {}
+        joinDialogObserver = null;
+    };
+    const stopJoinMode = (mode) => {
+        disconnectOneJoin(mode);
+        refreshDialogObserver();
+        renderJoinUI();
+    };
+    const stopJoinRoom = () => {
+        ['A', 'B', 'MIX'].forEach(disconnectOneJoin);
+        refreshDialogObserver();
+        renderJoinUI();
+    };
+    const renderJoinUI = () => {
+        const host = doc.getElementById(HOST_ID);
+        if (!host || !host.shadowRoot) return;
+        ['A', 'B', 'MIX'].forEach((mode) => {
+            const b = host.shadowRoot.getElementById(JOIN_ID[mode]);
+            if (b) b.classList.toggle('on', JOIN_OBS[mode] !== null);
+        });
+    };
+    // 超限等模式的入场确认弹窗：出现即自动点击“进入”
+    const ensureDialogObserver = () => {
+        if (joinDialogObserver) return;
+        joinDialogObserver = new MutationObserver(() => {
+            const dlg = doc.querySelector('.DialogContainerComponentStyle-container');
+            const enter = dlg && dlg.querySelector('.DialogContainerComponentStyle-enterButton');
+            if (enter) {
+                try { enter.click(); } catch (_) {}
+                try { joinDialogObserver && joinDialogObserver.disconnect(); } catch (_) {}
+                joinDialogObserver = null;
+            }
+        });
+        joinDialogObserver.observe(doc.body, { childList: true, subtree: true });
+    };
+    const finishJoin = (mode) => {
+        threeToast('已进入[' + JOIN_LABEL[mode] + ']');
+        stopJoinRoom();
+    };
+    // 开启 A 队 / B 队（可同时开启，互不影响）
+    const startJoinTeam = (mode) => {
+        const buttons = doc.querySelectorAll('.JoinToBattleComponentStyle-buttonJoin');
+        const el = buttons[mode === 'A' ? 0 : 1];
+        if (!el) { threeToast('没有战场可选'); renderJoinUI(); return; }
+        // 房间当前已可进入：直接点
+        if (!el.classList.contains('ButtonComponentStyle-disabled')) {
+            try { el.click(); } catch (_) {}
+            finishJoin(mode);
+            return;
+        }
+        JOIN_OBS[mode] = new MutationObserver(() => {
+            if (!el.classList.contains('ButtonComponentStyle-disabled')) {
+                try { el.click(); } catch (_) {}
+                finishJoin(mode);
+            }
+        });
+        JOIN_OBS[mode].observe(el, { attributes: true, attributeFilter: ['class'] });
+    };
+    // 开启混战：firstChild 出现第二个 class（按钮就绪）即点击
+    const startJoinMix = () => {
+        let mixEl = null;
+        try {
+            mixEl = doc.querySelector('.-flexStartAlignCenterColumn .-flexStartAlignStretchColumn').lastChild;
+        } catch (_) { mixEl = null; }
+        if (!mixEl || !mixEl.firstChild) { threeToast('没有战场可选'); renderJoinUI(); return; }
+        JOIN_OBS.MIX = new MutationObserver(() => {
+            try {
+                if (mixEl.firstChild.classList && mixEl.firstChild.classList.length >= 2) {
+                    mixEl.firstChild.click();
+                    finishJoin('MIX');
+                }
+            } catch (_) {}
+        });
+        JOIN_OBS.MIX.observe(mixEl, { childList: true, subtree: true });
+    };
+    const toggleJoinMode = (mode) => {
+        // 未通过名称白名单授权：点场锁定
+        if (!nameAuthPassed) { threeToast('未授权：房间点场已锁定'); renderJoinUI(); return; }
+        // 已在监听该模式 => 再次点击仅关闭该模式
+        if (JOIN_OBS[mode] !== null) {
+            stopJoinMode(mode);
+            threeToast('点场[' + JOIN_LABEL[mode] + ']已停止');
+            return;
+        }
+        if (mode === 'MIX') {
+            // 混战与 A/B 互斥：开启混战先关掉 A、B
+            disconnectOneJoin('A');
+            disconnectOneJoin('B');
+            startJoinMix();
+        } else {
+            // 开启 A 或 B：先关掉混战；A、B 之间互不影响，可同时开启
+            disconnectOneJoin('MIX');
+            startJoinTeam(mode);
+        }
+        // 原脚本仅在主菜单文本含“超限”时自动确认入场弹窗（其 && 写法实际只匹配“超限”）
+        try {
+            const menu = doc.querySelector('.MenuComponentStyle-mainMenuItem.-activeMenu');
+            if (menu && menu.textContent.includes('超限')) ensureDialogObserver();
+        } catch (_) {}
+        renderJoinUI();
+        if (JOIN_OBS[mode] !== null) {
+            threeToast('点场[' + JOIN_LABEL[mode] + ']已开启，等待可进入…');
+        }
+    };
+
+
+    const mount = () => {
+        if (doc.getElementById(HOST_ID)) return;
+        if (!doc.documentElement) {
+            page.setTimeout(mount, 0);
+            return;
+        }
+        const host = doc.createElement('div');
+        host.id = HOST_ID;
+        const shadow = host.attachShadow({ mode: 'open' });
+        shadow.innerHTML = `
+            <style>
+                :host { all: initial; }
+                .panel { position: fixed; top: 16px; left: 16px; z-index: 2147483000; width: 760px;
+                    box-sizing: border-box; border: 1px solid rgba(168,85,247,.5); border-radius: 20px;
+                    color: #f3efff; overflow: hidden; background: #0a0716;
+                    backdrop-filter: blur(12px) saturate(1.3); -webkit-backdrop-filter: blur(12px) saturate(1.3);
+                    box-shadow: 0 0 0 1px rgba(34,211,238,.18), 0 26px 70px rgba(70,15,150,.55),
+                    0 0 48px rgba(168,85,247,.30);
+                    font-family: "Microsoft YaHei UI", "Segoe UI", sans-serif; font-size: 13px;
+                    transition: opacity .3s ease, transform .3s ease, visibility .3s ease; }
+                .panel.hidden { opacity: 0; visibility: hidden; pointer-events: none;
+                    transform: translateY(-10px) scale(.97); }
+                /* 启动加载界面结束前强制隐藏；规则必须在影子树内才作用于 .panel */
+                .panel.ct-panel-boot { opacity: 0 !important; visibility: hidden !important; pointer-events: none !important; }
+                /* 名称未授权期间：主悬浮窗一律不可见、不可交互（优先级最高） */
+                .panel.ct-auth-locked { opacity: 0 !important; visibility: hidden !important;
+                    pointer-events: none !important; transform: translateY(-10px) scale(.97); }
+                .sky { position: absolute; inset: 0; width: 100%; height: 100%; display: block; z-index: 0; }
+                .veil { position: absolute; inset: 0; z-index: 1; pointer-events: none;
+                    background: linear-gradient(160deg, rgba(20,12,42,.58), rgba(14,10,30,.52) 55%, rgba(10,6,22,.62)); }
+                .inner { position: relative; z-index: 2; }
+                @keyframes headflow { 0%,100% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } }
+                /* 顶部整宽横向标题栏（拖动柄），横跨侧栏与内容上方 */
+                .topbar { position: relative; display: flex; align-items: center; gap: 12px;
+                    padding: 13px 18px; cursor: grab; user-select: none;
+                    border-bottom: 1px solid rgba(255,255,255,.14);
+                    background: linear-gradient(120deg, rgba(56,189,248,.5), rgba(139,92,246,.58) 45%, rgba(236,72,153,.5));
+                    background-size: 220% 220%; animation: headflow 9s ease infinite; }
+                .topbar:active { cursor: grabbing; }
+                .topbar .top-logo { font-size: 20px; font-weight: 900; color: #fff; letter-spacing: .5px;
+                    line-height: 1.2; text-shadow: 0 0 14px rgba(255,255,255,.55); white-space: nowrap; }
+                .topbar .top-logo .spark { color: #ffe9a8; text-shadow: 0 0 14px rgba(255,214,120,.95); }
+                .topbar .top-sub { font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 5px;
+                    padding-left: 12px; border-left: 1px solid rgba(255,255,255,.35); }
+                .topbar .top-hint { margin-left: auto; font-size: 11px; font-weight: 700;
+                    color: rgba(255,255,255,.9); letter-spacing: .5px; text-align: right; line-height: 1.6;
+                    white-space: nowrap; }
+                /* 左栏 + 右内容 两栏布局 */
+                .shell { display: grid; grid-template-columns: 158px 1fr; min-height: 450px; }
+                .sidebar { padding: 14px 10px 12px; display: flex; flex-direction: column; gap: 8px;
+                    border-right: 1px solid rgba(168,85,247,.28);
+                    background: linear-gradient(180deg, rgba(30,18,60,.55), rgba(12,8,26,.55)); }
+                .nav-item { display: flex; align-items: center; gap: 9px; padding: 11px 12px; border-radius: 12px;
+                    border: 1px solid transparent; background: transparent; color: rgba(220,214,245,.85);
+                    font-size: 14px; font-weight: 800; text-align: left; cursor: pointer;
+                    transition: background .2s, color .2s, box-shadow .2s; }
+                .nav-item .ico { font-size: 16px; width: 20px; text-align: center; }
+                .nav-item:hover { background: rgba(168,85,247,.18); color: #fff; }
+                .nav-item.active { color: #fff; border-color: rgba(168,85,247,.55);
+                    background: linear-gradient(120deg, rgba(34,211,238,.22), rgba(168,85,247,.28));
+                    box-shadow: inset 0 0 16px rgba(168,85,247,.3); }
+                .side-ver { margin-top: auto; font-size: 10px; color: rgba(190,180,230,.62);
+                    text-align: center; line-height: 1.7; }
+                .content { position: relative; padding: 16px 18px; min-width: 0; display: flex; }
+                .page { display: none; }
+                .page.active { display: block; flex: 1; min-width: 0; animation: pagein .25s ease; }
+                @keyframes pagein { from { opacity: 0; transform: translateX(8px); } to { opacity: 1; transform: none; } }
+                .body { display: block; }
+                button { border: 0; font: inherit; font-weight: 800; cursor: pointer; }
+                .toggles { display: grid; grid-template-columns: repeat(3,1fr); gap: 10px; }
+                .page .toggles { grid-template-columns: 1fr; }
+                .page .toggle-row small { font-size: 12px; }
+                .toggle-row { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center;
+                    padding: 10px 12px; border-radius: 14px; background: rgba(255,255,255,.05);
+                    border: 1px solid rgba(255,255,255,.08); }
+                .toggle-row small { display: block; margin-top: 3px; color: rgba(221,214,255,.72); font-size: 14px; line-height: 1.5; }
+                .toggle-row b { color: #f4efff; font-size: 17px; }
+                .toggle { position: relative; width: 54px; height: 28px; border-radius: 999px; padding: 0; flex-shrink: 0;
+                    background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.18);
+                    transition: background .25s, box-shadow .25s; }
+                .toggle::after { content: ''; position: absolute; top: 3px; left: 3px; width: 20px; height: 20px;
+                    border-radius: 50%; background: #d7d2ea; box-shadow: 0 2px 6px rgba(0,0,0,.45);
+                    transition: transform .25s, background .25s; }
+                .toggle.on { background: linear-gradient(90deg, #22d3ee, #a855f7); border-color: transparent;
+                    box-shadow: 0 0 14px rgba(168,85,247,.6); }
+                .toggle.on::after { transform: translateX(26px); background: #fff; }
+                .toggle:disabled { opacity: .35; cursor: not-allowed; }
+                .colors { display: grid; grid-template-columns: repeat(5,1fr); gap: 6px; padding: 2px; }
+                label { display: grid; gap: 6px; justify-items: center; color: rgba(228,222,255,.88);
+                    font-size: 15px; font-weight: 800; }
+                input[type="color"] { width: 40px; height: 40px; padding: 0; border-radius: 50%;
+                    border: 2px solid rgba(255,255,255,.28); background: transparent; cursor: pointer;
+                    box-shadow: 0 0 10px rgba(0,0,0,.4); }
+                .status { padding: 11px 15px; border-radius: 12px; font-size: 12.5px; font-weight: 700; line-height: 1.6;
+                    background: linear-gradient(90deg, rgba(34,211,238,.15), rgba(168,85,247,.15), rgba(236,72,153,.12));
+                    border: 1px solid rgba(168,85,247,.32); color: #f2ecff;
+                    text-shadow: 0 0 12px rgba(192,132,252,.5); }
+                /* 首页：flex 纵向三栏——标题贴顶 / 英文+时间占满中间并居中 / 提示框贴底 */
+                .page-home.active { display: flex; flex-direction: column; }
+.hero { position: relative; flex: 1; min-height: 0; width: 100%;
+    display: flex; flex-direction: column; align-items: center;
+    text-align: center; padding: 6px 8px; }
+                /* 中部：占满标题与底框之间的全部空间，正标题+副标题+时间在其中垂直水平居中 */
+                .hero-top { display: flex; flex-direction: column; align-items: center; padding-bottom: 100px; }
+                .hero-mid { flex: 1; min-height: 0; width: 100%; gap: 8px;
+                    display: flex; flex-direction: column; align-items: center; justify-content: center;
+                    padding-bottom: 70px; }
+                .hero .hero-brand { font-size: 55px; font-weight: 900; letter-spacing: 2px; line-height: 1.2;
+                    color: #fff; text-shadow: 0 0 22px rgba(168,85,247,.7); }
+                .hero .hero-brand .spark { color: #ffe9a8; text-shadow: 0 0 18px rgba(255,214,120,.95); }
+                .hero .hero-sub { font-size: 27px; font-weight: 800; letter-spacing: 5px;
+                    color: rgba(255,255,255,.92); }
+                .hero .hero-en { font-size: 20px; font-weight: 900; letter-spacing: 3px;
+                    color: rgba(165,243,252,.9); text-transform: uppercase; }
+                /* 时间：无方框，大字居中，在英文下方 */
+                .hero-clock { margin-top: 4px; }
+                .hero-clock .clock-time { font-size: 55px; font-weight: 900; color: #fff; line-height: 1.15;
+                    font-variant-numeric: tabular-nums; text-shadow: 0 0 18px rgba(168,85,247,.75); }
+                .hero-clock .clock-date { margin-top: 4px; font-size: 16px; font-weight: 800; color: rgba(165,243,252,.9); }
+                /* 底部提示：套用原时间方框样式，贴底 */
+                /* 底部提示：绝对定位钉在悬浮窗最底部 */
+                .hero-tip { position: absolute; left: 50%; bottom: 12px; transform: translateX(-50%);
+                    width: calc(100% - 36px); max-width: 480px; padding: 12px 16px;
+                    border-radius: 16px; border: 1px solid rgba(168,85,247,.4);
+                    background: linear-gradient(160deg, rgba(30,18,60,.7), rgba(12,8,26,.7));
+                    box-shadow: inset 0 0 22px rgba(168,85,247,.25), 0 0 20px rgba(56,189,248,.15);
+                    font-size: 12px; font-weight: 700; color: rgba(220,214,245,.92); line-height: 1.7;
+                    z-index: 3; }
+                .section-title { display: flex; align-items: center; gap: 8px; margin-bottom: 12px;
+                    font-size: 14px; font-weight: 900; color: #fff; letter-spacing: 1px; }
+                .section-title::after { content: ''; flex: 1; height: 1px;
+                    background: linear-gradient(90deg, rgba(168,85,247,.6), transparent); }
+                /* 战场功能 */
+                .bs-card { padding: 12px; border-radius: 14px; text-align: center;
+                    border: 1px solid rgba(255,255,255,.12);
+                    background: linear-gradient(160deg, rgba(30,18,60,.55), rgba(12,8,26,.55)); }
+                .bs-card .bs-k { font-size: 11px; color: rgba(190,180,230,.78); letter-spacing: 1px; }
+                .bs-card .bs-v { margin-top: 5px; font-size: 13px; font-weight: 900; color: #a5f3fc; }
+                .bs-card .bs-v.bad { color: #fda4af; }
+                .bs-card .bs-v.good { color: #6ee7b7; }
+                .bt-main { width: 100%; margin-bottom: 14px; padding: 13px; border-radius: 14px;
+                    font-size: 15px; font-weight: 900; letter-spacing: 2px; color: #fff;
+                    border: 1px solid rgba(168,85,247,.55);
+                    background: linear-gradient(120deg, rgba(139,92,246,.45), rgba(236,72,153,.4));
+                    box-shadow: 0 0 18px rgba(168,85,247,.35); cursor: pointer; transition: transform .15s, box-shadow .2s; }
+                .bt-main:hover { transform: translateY(-1px); }
+                .bt-main.run { border-color: rgba(34,197,94,.7);
+                    background: linear-gradient(120deg, rgba(22,163,74,.55), rgba(34,211,238,.45));
+                    box-shadow: 0 0 22px rgba(34,197,94,.5); }
+                .battle-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
+                .mini-field { padding: 10px 12px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12);
+                    background: rgba(30,18,60,.4); }
+                .mini-field label { display: block; font-size: 11px; color: rgba(190,180,230,.8); margin-bottom: 6px; }
+                .mini-field input { width: 100%; box-sizing: border-box; background: rgba(6,4,16,.75);
+                    border: 1px solid rgba(168,85,247,.4); border-radius: 8px; color: #fff;
+                    padding: 6px 9px; font-size: 13px; font-weight: 800; outline: none; }
+                /* 键帽式热键框：像按键一样，悬停浮起、按下下陷、录制中高亮脉冲 */
+                .mini-field input.hk-keycap { display: block; width: 100%; text-align: center;
+                    padding: 9px 10px; font-size: 15px; font-weight: 900; letter-spacing: 2px;
+                    color: #f3edff; cursor: pointer; user-select: none;
+                    border-radius: 10px;
+                    border: 1px solid rgba(168,85,247,.55);
+                    background: linear-gradient(180deg, rgba(66,42,120,.85), rgba(28,16,58,.9));
+                    box-shadow: 0 3px 0 rgba(20,10,46,.95), 0 5px 12px rgba(0,0,0,.45),
+                        inset 0 1px 0 rgba(255,255,255,.14);
+                    transition: transform .12s ease, box-shadow .12s ease, border-color .2s, background .2s; }
+                .mini-field input.hk-keycap:hover {
+                    border-color: rgba(192,132,252,.9);
+                    background: linear-gradient(180deg, rgba(92,58,160,.95), rgba(40,22,80,.95));
+                    transform: translateY(-1px);
+                    box-shadow: 0 4px 0 rgba(20,10,46,.95), 0 8px 16px rgba(139,92,246,.35),
+                        inset 0 1px 0 rgba(255,255,255,.2); }
+                .mini-field input.hk-keycap:active { transform: translateY(2px);
+                    box-shadow: 0 1px 0 rgba(20,10,46,.95), 0 2px 6px rgba(0,0,0,.5),
+                        inset 0 2px 6px rgba(0,0,0,.45); }
+                .mini-field input.hk-keycap:focus, .mini-field input.hk-keycap.recording {
+                    border-color: rgba(34,211,238,.95); color: #fff;
+                    background: linear-gradient(180deg, rgba(20,90,110,.9), rgba(12,40,60,.95));
+                    box-shadow: 0 0 0 1px rgba(34,211,238,.55), 0 0 16px rgba(34,211,238,.5),
+                        inset 0 1px 0 rgba(255,255,255,.18);
+                    animation: hkPulse 1s ease-in-out infinite; }
+                @keyframes hkPulse { 0%,100% { box-shadow: 0 0 0 1px rgba(34,211,238,.55), 0 0 10px rgba(34,211,238,.4); }
+                    50% { box-shadow: 0 0 0 1px rgba(34,211,238,.8), 0 0 22px rgba(34,211,238,.75); } }
+                /* 间隔步进器：− [ 20 ms ] ＋ */
+                .ms-stepper { display: flex; align-items: stretch; gap: 5px; }
+                .ms-btn { width: 30px; flex-shrink: 0; border-radius: 8px; cursor: pointer;
+                    font-size: 15px; font-weight: 900; color: #f3edff;
+                    border: 1px solid rgba(168,85,247,.5);
+                    background: linear-gradient(180deg, rgba(66,42,120,.85), rgba(28,16,58,.9));
+                    box-shadow: 0 2px 0 rgba(20,10,46,.9);
+                    transition: transform .1s, box-shadow .1s, border-color .2s, background .2s; }
+                .ms-btn:hover { border-color: rgba(192,132,252,.9);
+                    background: linear-gradient(180deg, rgba(92,58,160,.95), rgba(40,22,80,.95)); }
+                .ms-btn:active { transform: translateY(1px); box-shadow: 0 1px 0 rgba(20,10,46,.9); }
+                .ms-input { flex: 1; min-width: 0; width: 100%; text-align: center;
+                    padding: 6px 4px; font-size: 14px; font-weight: 900; color: #a5f3fc;
+                    background: rgba(6,4,16,.85); border: 1px solid rgba(34,211,238,.4);
+                    border-radius: 8px; outline: none; font-variant-numeric: tabular-nums;
+                    -moz-appearance: textfield; appearance: textfield;
+                    transition: border-color .2s, box-shadow .2s; }
+                .ms-input::-webkit-outer-spin-button, .ms-input::-webkit-inner-spin-button {
+                    -webkit-appearance: none; margin: 0; }
+                .ms-input:focus { border-color: rgba(34,211,238,.9);
+                    box-shadow: 0 0 12px rgba(34,211,238,.45); }
+                .ms-unit { display: grid; place-items: center; flex-shrink: 0; padding: 0 2px;
+                    font-size: 11px; font-weight: 800; color: rgba(190,180,230,.8); }
+                .ms-range { display: block; margin-top: 6px; font-size: 10.5px; font-weight: 700;
+                    color: rgba(190,180,230,.65); text-align: center; }
+                .battle-note { font-size: 12px; line-height: 1.9; color: rgba(220,214,245,.85);
+                    padding: 12px 14px; border-radius: 12px;
+                    border: 1px solid rgba(34,211,238,.25); background: rgba(34,211,238,.07); }
+                .battle-note .k { display: inline-block; min-width: 18px; padding: 1px 6px; margin: 0 2px;
+                    border-radius: 6px; border: 1px solid rgba(34,211,238,.5);
+                    background: rgba(34,211,238,.14); color: #fff; font-weight: 900; text-align: center; }
+                /* 战场子区块（地雷 / 房间点场） */
+                .battle-sub { margin-top: 18px; margin-bottom: 10px; font-size: 13px; font-weight: 900;
+                    letter-spacing: 1px; color: #c4b5fd; display: flex; align-items: center; gap: 8px; }
+                .battle-sub::after { content: ''; flex: 1; height: 1px;
+                    background: linear-gradient(90deg, rgba(168,85,247,.45), transparent); }
+                .join-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 14px; }
+                .bt-join { padding: 12px; border-radius: 12px; font-size: 13px; font-weight: 900; letter-spacing: 1px;
+                    color: rgba(220,214,245,.92); cursor: pointer;
+                    border: 1px solid rgba(255,255,255,.14); background: rgba(30,18,60,.45);
+                    transition: transform .15s, box-shadow .2s, border-color .2s; }
+                .bt-join:hover { transform: translateY(-1px); border-color: rgba(168,85,247,.6); }
+                .bt-join.on { color: #fff; border-color: rgba(34,197,94,.7);
+                    background: linear-gradient(120deg, rgba(22,163,74,.55), rgba(34,211,238,.45));
+                    box-shadow: 0 0 18px rgba(34,197,94,.45); }
+                /* 关于页 */
+                .about-card { display: flex; align-items: center; gap: 14px; padding: 14px; border-radius: 16px;
+                    border: 1px solid rgba(255,255,255,.12);
+                    background: linear-gradient(160deg, rgba(30,18,60,.55), rgba(12,8,26,.55)); margin-bottom: 12px; }
+                .about-card .about-avatar { width: 52px; height: 52px; border-radius: 50%; flex-shrink: 0;
+                    object-fit: cover; border: 2px solid rgba(168,85,247,.7);
+                    box-shadow: 0 0 18px rgba(168,85,247,.55); background: #140c2a; }
+                .about-card .about-avatar-fb { display: grid; place-items: center; font-size: 26px;
+                    background: linear-gradient(135deg, #22d3ee, #a855f7); }
+                .about-card .a-name { font-size: 17px; font-weight: 900; color: #fff; }
+                .about-card .a-role { font-size: 11px; color: rgba(165,243,252,.9); margin-top: 3px; letter-spacing: 1px; }
+                .about-meta { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 12px; }
+                .about-meta .bs-card { text-align: left; }
+                .about-note { font-size: 12px; color: rgba(220,214,245,.82); line-height: 1.9; padding: 12px 14px;
+                    border-radius: 12px; border: 1px solid rgba(251,191,36,.3); background: rgba(251,191,36,.07); }
+            </style>
+            <section class="panel">
+                <canvas class="sky"></canvas>
+                <div class="veil"></div>
+                <div class="inner">
+                    <div class="topbar head" title="按住此处可拖动整个面板">
+                        <div class="top-logo">☄️ Comet<span class="spark">✦</span>Terminal</div>
+                        <div class="top-sub">彗星终端</div>
+                        <div class="top-hint">⠿ 按住标题栏拖动面板<br>INS / - 显示 · 隐藏</div>
+                    </div>
+                    <div class="shell">
+                        <nav class="sidebar">
+                            <button class="nav-item" data-page="home" type="button"><span class="ico"></span>彗星首页</button>
+                            <button class="nav-item" data-page="join" type="button"><span class="ico"></span>房间点场</button>
+                            <button class="nav-item" data-page="battle" type="button"><span class="ico"></span>快捷道具</button>
+                            <button class="nav-item" data-page="xray" type="button"><span class="ico"></span>透视ESP</button>
+                            <button class="nav-item" data-page="about" type="button"><span class="ico"></span>关于彗星</button>
+                            <div class="side-ver">Comet Terminal<br>v1.2.5-Comet</div>
+                        </nav>
+                        <div class="content body">
+<section class="page page-home" data-page="home">
+    <div class="hero">
+        <div class="hero-mid">
+            <div class="hero-brand">Comet<span class="spark">✦</span>Terminal</div>
+            <div class="hero-sub">彗星终端</div>
+            <div class="hero-en">3D Tank Assistant</div>
+            <div class="hero-clock">
+                <div class="clock-time">--:--:--</div>
+                <div class="clock-date">----年--月--日</div>
+            </div>
+        </div>
+        <div class="hero-tip">
+            ✦ 划破天际的陨星信号-Comet Terminal 彗星终端已完成加载！
+        </div>
+    </div>
+</section>
+                            <section class="page page-battle" data-page="battle">
+                                <div class="section-title">战场功能 · 道具三开（调用函数）</div>
+                                <button class="bt-main" id="three-toggle" type="button">[9] 三开 · 已停止</button>
+                                <div class="battle-row">
+                                    <div class="mini-field">
+                                        <label>切换热键（点按键后按一个键，留空则只用按钮）</label>
+                                        <input class="hk-keycap" id="three-hotkey" type="text" maxlength="12" value="9">
+                                    </div>
+                                    <div class="mini-field">
+                                        <label>道具触发间隔</label>
+                                        <div class="ms-stepper">
+                                            <button class="ms-btn" type="button" data-target="three-interval" data-delta="-1">−</button>
+                                            <input class="ms-input" id="three-interval" type="number" min="10" max="50" step="1" value="20">
+                                            <span class="ms-unit">ms</span>
+                                            <button class="ms-btn" type="button" data-target="three-interval" data-delta="1">＋</button>
+                                        </div>
+                                        <small class="ms-range">范围 50–100ms.50ms为极限,再低界面则崩溃</small>
+                                    </div>
+                                </div>
+                                <div class="battle-note">
+                                    ✦ 进入战场后内核自动扫描并调用游戏函数持续触发道具，不注入不发包；<br>
+                                    ✦ 热键 <span class="k" id="three-hk-note">9</span> 可随时开/关三开；聊天框输入时不会误触；<br>
+                                    ✦ 与游戏内道具键位分离，不会与正常使用道具冲突。
+                                </div>
+
+                                <div class="battle-sub">地雷脚本</div>
+                                <button class="bt-main" id="mine-toggle" type="button">[F4] 地雷 · 已停止</button>
+                                <div class="battle-row">
+                                    <div class="mini-field">
+                                        <label>切换热键（点按键后按一个键，留空则只用按钮）</label>
+                                        <input class="hk-keycap" id="mine-hotkey" type="text" maxlength="12" value="F4">
+                                    </div>
+                                    <div class="mini-field">
+                                        <label>布雷触发间隔</label>
+                                        <div class="ms-stepper">
+                                            <button class="ms-btn" type="button" data-target="mine-interval" data-delta="-1">−</button>
+                                            <input class="ms-input" id="mine-interval" type="number" min="20" max="50" step="1" value="23">
+                                            <span class="ms-unit">ms</span>
+                                            <button class="ms-btn" type="button" data-target="mine-interval" data-delta="1">＋</button>
+                                        </div>
+                                        <small class="ms-range">范围 20–50ms，越小布雷越快</small>
+                                    </div>
+                                </div>
+                                <div class="battle-note">
+                                    ✦ 开启后持续模拟游戏内的地雷键 <span class="k">5</span>，连续下雷；<br>
+                                    ✦ 间隔可点 ＋/− 或直接输入数字，修改后立即按新间隔运行；聊天框输入时热键不误触。
+                                </div>
+                            </section>
+                            <section class="page page-join" data-page="join">
+                                <div class="section-title">点场功能 · 自动加入</div>
+                                <div class="join-list">
+                                    <button class="bt-join" id="join-a" type="button">🔵 A 队</button>
+                                    <button class="bt-join" id="join-b" type="button">🔴 B 队</button>
+                                    <button class="bt-join" id="join-mix" type="button">⚪ 混战</button>
+                                </div>
+                                <div class="battle-note">
+                                    ✦ 在大厅房间列表开启对应模式后，目标队伍一旦可进入即自动点击进入；<br>
+                                    ✦ A队 与 B队 可同时开启；混战与 A/B 互斥，成功进入或再次点击当前模式即停止；<br>
+                                    ✦ 超限等模式弹出的入场确认框会自动确认；本项不记忆，刷新后自动复位。
+                                </div>
+                            </section>
+                            <section class="page page-xray" data-page="xray">
+                                <div class="section-title">透视功能 · ESP 轮廓 / ID</div>
+                        <div class="toggles">
+                            <div class="toggle-row"><div><b>敌方ESP</b><small>总开关-开启后，才可 开/关 队友ESP！</small></div><button class="toggle outline" type="button"></button></div>
+                            <div class="toggle-row"><div><b>队友ESP</b><small>总开关开启后，单独控制 开/关 ESP队友！</small></div><button class="toggle ally-outline" type="button"></button></div>
+                            <div class="toggle-row"><div><b>距离限制</b><small>消除游戏距离限制. 无视距离显示！</small></div><button class="toggle ids" type="button"></button></div>
+                        </div>
+                        <div class="colors">
+                            <label>敌方<input class="enemy" type="color"></label>
+                            <label>队友<input class="ally" type="color"></label>
+                            <label>可击中<input class="hittable" type="color"></label>
+                            <label>无敌中<input class="invincible" type="color" title="敌方出生/复活无敌保护时间的轮廓色"></label>
+                            <label>AI人机<input class="bot" type="color" title="敌方人机（AI）轮廓色，用于区分真人玩家"></label>
+                        </div>
+                                <div class="status">✦ 点击ARGB区块进行调节颜色！</div>
+                            </section>
+                            <section class="page page-about" data-page="about">
+                                <div class="section-title">关于彗星</div>
+                                <div class="about-card">
+                                    <img class="about-avatar" id="about-qq-avatar" alt="作者 QQ 头像" title="作者 QQ：669481357">
+                                    <div>
+                                        <div class="a-name">作者：T_T</div>
+                                        <div class="a-role">COMET TERMINAL · 3D Tank Assistant</div>
+                                    </div>
+                                </div>
+                                <div class="about-meta">
+                                    <div class="bs-card"><div class="bs-k">QQ 联系</div><div class="bs-v">669481357</div></div>
+                                    <div class="bs-card"><div class="bs-k">当前版本</div><div class="bs-v">v1.2.5-Comet</div></div>
+                                </div>
+                                <div class="about-note" style="margin-top:12px;">✦ 本终端纯本人一人编辑，无第三方任何人参与编辑，请放心使用！<br>✦ 功能仅限白名单授权玩家使用；脚本功能均在名称校验通过后解锁。</div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>`;
+        doc.documentElement.appendChild(host);
+
+        const panel = shadow.querySelector('.panel');
+        // 名称授权通过前，主悬浮窗始终强制隐藏（ct-auth-locked），
+        // 且启动加载界面结束前同样保持隐藏；授权通过后由 unlockPanel() 解除。
+        panel.classList.add('ct-panel-boot', 'ct-auth-locked');
+        const head = shadow.querySelector('.head');
+        const sky = shadow.querySelector('.sky');
+        const outline = shadow.querySelector('.outline');
+        const allyOutline = shadow.querySelector('.ally-outline');
+        const ids = shadow.querySelector('.ids');
+        const enemy = shadow.querySelector('.enemy');
+        const ally = shadow.querySelector('.ally');
+        const hittable = shadow.querySelector('.hittable');
+        const invincible = shadow.querySelector('.invincible');
+        const bot = shadow.querySelector('.bot');
+        const status = shadow.querySelector('.status');
+        const aboutAvatar = shadow.querySelector('#about-qq-avatar');
+        if (aboutAvatar) {
+            aboutAvatar.onerror = () => {
+                // 头像加载失败时降级显示 ☄️ 占位，保证布局不破
+                const fb = document.createElement('div');
+                fb.className = 'about-avatar about-avatar-fb';
+                fb.textContent = '☄️';
+                aboutAvatar.replaceWith(fb);
+            };
+            aboutAvatar.src = 'https://q2.qlogo.cn/g?b=qq&nk=669481357&s=100';
+        }
+        const clockTime = shadow.querySelector('.clock-time');
+        const clockDate = shadow.querySelector('.clock-date');
+        const pad2 = (n) => String(n).padStart(2, '0');
+        const tickClock = () => {
+            const d = new Date();
+            clockTime.textContent = `${pad2(d.getHours())}:${pad2(d.getMinutes())}:${pad2(d.getSeconds())}`;
+            clockDate.textContent = `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+        };
+        tickClock();
+        setInterval(tickClock, 1000);
+
+        /* ---------- 侧栏页签 ---------- */
+        const navItems = Array.from(shadow.querySelectorAll('.nav-item'));
+        const pages = Array.from(shadow.querySelectorAll('.page'));
+        const switchPage = (name, persist) => {
+            navItems.forEach((b) => b.classList.toggle('active', b.dataset.page === name));
+            pages.forEach((p) => p.classList.toggle('active', p.dataset.page === name));
+            settings.activePage = name;
+            if (persist) save();
+            page.requestAnimationFrame(() => resizeSky());
+        };
+        navItems.forEach((b) => b.addEventListener('click', () => switchPage(b.dataset.page, true)));
+        switchPage(settings.activePage || 'home', false);
+
+        /* ---------- 战场功能·道具三开（固定：护甲 / 伤害 / 加速） ---------- */
+        const threeBtn = shadow.getElementById('three-toggle');
+        const threeHotkeyInput = shadow.getElementById('three-hotkey');
+        const threeIntervalInput = shadow.getElementById('three-interval');
+        const threeHkNote = shadow.getElementById('three-hk-note');
+        threeHotkeyInput.value = settings.threeHotkey;
+        threeIntervalInput.value = String(settings.threeInterval);
+        threeHkNote.textContent = settings.threeHotkey || '无';
+        const renderThreePanel = () => {
+            threeBtn.textContent = '[' + (settings.threeHotkey || '无') + '] 三开 · ' + (settings.threeEnabled ? '运行中' : '已停止');
+            threeBtn.classList.toggle('run', settings.threeEnabled);
+        };
+        renderThreePanel();
+        threeBtn.addEventListener('click', () => toggleThree());
+        // 热键录制：聚焦即进入“等待按键”态（键帽脉冲高亮），按任意键设为切换键（Esc 清除为“无”）
+        threeHotkeyInput.addEventListener('focus', () => threeHotkeyInput.classList.add('recording'));
+        threeHotkeyInput.addEventListener('blur', () => threeHotkeyInput.classList.remove('recording'));
+        threeHotkeyInput.addEventListener('keydown', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const k = e.key === 'Escape' ? '' : (e.key || '');
+            settings.threeHotkey = k;
+            threeHotkeyInput.value = k;
+            threeHkNote.textContent = k || '无';
+            save();
+            renderThreePanel();
+            threeHotkeyInput.blur();
+        });
+        // 道具触发间隔：50–100ms，可直接输入或点 ＋/−
+        const applyThreeInterval = (n) => {
+            const v = Math.max(50, Math.min(100, Math.round(Number.isFinite(n) ? n : settings.threeInterval)));
+            settings.threeInterval = v;
+            threeIntervalInput.value = String(v);
+            save();
+            threeRefreshTimers();
+        };
+        threeIntervalInput.addEventListener('change', () => {
+            applyThreeInterval(parseInt(threeIntervalInput.value, 10));
+        });
+
+        /* ---------- 战场功能·自动地雷 ---------- */
+        const mineBtn = shadow.getElementById('mine-toggle');
+        const mineHotkeyInput = shadow.getElementById('mine-hotkey');
+        const mineIntervalInput = shadow.getElementById('mine-interval');
+        mineHotkeyInput.value = settings.mineHotkey;
+        mineIntervalInput.value = String(settings.mineInterval);
+        const renderMinePanel = () => {
+            mineBtn.textContent = '[' + (settings.mineHotkey || '无') + '] 地雷 · ' + (settings.mineEnabled ? '运行中' : '已停止');
+            mineBtn.classList.toggle('run', settings.mineEnabled);
+        };
+        renderMinePanel();
+        mineBtn.addEventListener('click', () => toggleMine());
+        // 地雷热键录制（Esc 清空为“无”，此时仅按钮可开关）；聚焦期间键帽脉冲高亮
+        mineHotkeyInput.addEventListener('focus', () => mineHotkeyInput.classList.add('recording'));
+        mineHotkeyInput.addEventListener('blur', () => mineHotkeyInput.classList.remove('recording'));
+        mineHotkeyInput.addEventListener('keydown', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const k = e.key === 'Escape' ? '' : (e.key || '');
+            settings.mineHotkey = k;
+            mineHotkeyInput.value = k;
+            save();
+            renderMinePanel();
+            mineHotkeyInput.blur();
+        });
+        // 布雷触发间隔：20–50ms，可直接输入或点 ＋/−
+        const applyMineInterval = (n) => {
+            const v = Math.max(20, Math.min(50, Math.round(Number.isFinite(n) ? n : settings.mineInterval)));
+            settings.mineInterval = v;
+            mineIntervalInput.value = String(v);
+            save();
+            if (settings.mineEnabled) startMineLoop(); // 运行中修改：按新间隔重启
+        };
+        mineIntervalInput.addEventListener('change', () => {
+            applyMineInterval(parseInt(mineIntervalInput.value, 10));
+        });
+
+        // 间隔步进按钮（− / ＋）：通过 data-target 关联对应输入框
+        shadow.querySelectorAll('.ms-btn').forEach((btn) => {
+            btn.addEventListener('click', () => {
+                const input = shadow.getElementById(btn.dataset.target);
+                if (!input) return;
+                const tgt = btn.dataset.target;
+                const cur = parseInt(input.value, 10);
+                const base = Number.isFinite(cur) ? cur
+                    : (tgt === 'three-interval' ? settings.threeInterval : settings.mineInterval);
+                const next = base + (btn.dataset.delta === '-1' ? -1 : 1);
+                if (tgt === 'three-interval') applyThreeInterval(next);
+                else applyMineInterval(next);
+            });
+        });
+
+        /* ---------- 战场功能·房间点场 ---------- */
+        const joinBtns = {
+            A: shadow.getElementById('join-a'),
+            B: shadow.getElementById('join-b'),
+            MIX: shadow.getElementById('join-mix'),
+        };
+        Object.keys(joinBtns).forEach((mode) => {
+            if (joinBtns[mode]) joinBtns[mode].addEventListener('click', () => toggleJoinMode(mode));
+        });
+        renderJoinUI();
+
+        enemy.value = settings.enemy;
+        ally.value = settings.ally;
+        hittable.value = settings.hittable;
+        invincible.value = settings.invincible;
+        bot.value = settings.bot;
+
+        const renderButtons = () => {
+            outline.classList.toggle('on', settings.outline);
+            allyOutline.classList.toggle('on', settings.allyOutline);
+            // 队友轮廓从属于总开关：总开关关闭时禁用按钮，避免误操作无反馈。
+            allyOutline.disabled = !settings.outline;
+            ids.classList.toggle('on', settings.ids);
+        };
+        const applyVisibility = () => panel.classList.toggle('hidden', settings.hidden);
+        applyVisibility();
+        // 状态栏已固定为加载欢迎语，运行时诊断信息不再覆盖它。
+        const renderState = () => {};
+        renderButtons();
+        renderState(runtime.getState());
+
+        outline.addEventListener('click', () => {
+            settings.outline = !settings.outline;
+            save();
+            renderButtons();
+            renderState(runtime.setEnabled(settings.outline, { reason: 'standalone-outline-toggle' }));
+        });
+        allyOutline.addEventListener('click', () => {
+            settings.allyOutline = !settings.allyOutline;
+            save();
+            renderButtons();
+            renderState(runtime.setAllyOutlineEnabled(settings.allyOutline, { reason: 'standalone-ally-outline-toggle' }));
+        });
+        ids.addEventListener('click', () => {
+            settings.ids = !settings.ids;
+            save();
+            renderButtons();
+            renderState(runtime.setIdEnabled(settings.ids, { reason: 'standalone-id-toggle' }));
+        });
+        const onColor = () => {
+            settings.enemy = enemy.value;
+            settings.ally = ally.value;
+            settings.hittable = hittable.value;
+            settings.invincible = invincible.value;
+            settings.bot = bot.value;
+            save();
+            applyColors();
+        };
+        enemy.addEventListener('input', onColor);
+        ally.addEventListener('input', onColor);
+        hittable.addEventListener('input', onColor);
+        invincible.addEventListener('input', onColor);
+        bot.addEventListener('input', onColor);
+        page.addEventListener(STATE_EVENT, (event) => renderState(event.detail));
+
+        /* ---------- 精细流星背景 ---------- */
+        const ctx = sky.getContext('2d');
+        let W = 0, H = 0, dpr = 1;
+        const TAU = Math.PI * 2;
+        const clampNum = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
+        const hexA = (hex, a) => {
+            const n = Number.parseInt(hex.slice(1), 16);
+            return `rgba(${(n >> 16) & 255},${(n >> 8) & 255},${n & 255},${a})`;
+        };
+        const STAR_COLORS = ['#e9d5ff', '#bae6fd', '#ffffff', '#fbcfe8', '#ddd6fe'];
+        const METEOR_COLORS = ['#67e8f9', '#c084fc', '#f0abfc', '#a5f3fc', '#f5d0fe'];
+        let stars = [], dust = [], meteors = [], sparks = [];
+        const rand = (a, b) => a + Math.random() * (b - a);
+        const resizeSky = () => {
+            const rect = panel.getBoundingClientRect();
+            W = Math.max(1, rect.width); H = Math.max(1, rect.height);
+            dpr = Math.min(page.devicePixelRatio || 1, 2);
+            sky.width = Math.round(W * dpr); sky.height = Math.round(H * dpr);
+            ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+            stars = [];
+            const sn = Math.round(clampNum(W * H / 1400, 46, 150));
+            for (let i = 0; i < sn; i++) {
+                const big = Math.random() < 0.07;
+                stars.push({ x: Math.random() * W, y: Math.random() * H,
+                    r: big ? rand(1.5, 2.4) : rand(0.3, 1.2),
+                    a: rand(0.35, 0.9), tw: rand(0.0008, 0.004), ph: rand(0, TAU), big,
+                    c: STAR_COLORS[(Math.random() * STAR_COLORS.length) | 0] });
+            }
+            dust = [];
+            const dn = Math.round(clampNum(W * H / 7000, 12, 46));
+            for (let i = 0; i < dn; i++) {
+                dust.push({ x: Math.random() * W, y: Math.random() * H, r: rand(0.3, 1.2),
+                    a: rand(0.08, 0.3), vx: rand(-0.012, 0.012), vy: rand(0.004, 0.022),
+                    tw: rand(0.0006, 0.003), ph: rand(0, TAU) });
+            }
+        };
+        const spawnMeteor = () => {
+            const fromLeft = Math.random() < 0.5;
+            const angle = (16 + Math.random() * 18) * Math.PI / 180;
+            const sp = rand(180, 320); // 像素/秒
+            const fireball = Math.random() < 0.22;
+            const m = {
+                x: fromLeft ? rand(-60, W * 0.35) : rand(W * 0.65, W + 60),
+                y: rand(-40, H * 0.55),
+                vx: Math.cos(angle) * sp * (fromLeft ? 1 : -1),
+                vy: Math.sin(angle) * sp,
+                life: 0, maxLife: rand(2400, 4000),
+                size: fireball ? rand(2.0, 2.8) : rand(1.2, 1.9),
+                fireball, trail: [], maxTrail: fireball ? 60 : 34,
+                c: METEOR_COLORS[(Math.random() * METEOR_COLORS.length) | 0] };
+            meteors.push(m);
+            return m;
+        };
+        const burst = (m) => {
+            for (let i = 0; i < 22; i++) {
+                const a = Math.random() * TAU, sp = rand(60, 260);
+                sparks.push({ x: m.x, y: m.y, vx: Math.cos(a) * sp, vy: Math.sin(a) * sp,
+                    life: 0, maxLife: rand(350, 800), r: rand(0.8, 2.2), c: m.c });
+            }
+        };
+        let acc = 0, last = performance.now(), raf = 0;
+        const frame = (now) => {
+            raf = page.requestAnimationFrame(frame);
+            const dt = Math.min(50, now - last); last = now;
+            const t = now;
+            if (settings.hidden) return; // 冻结最后一帧，随面板一起淡出
+            ctx.clearRect(0, 0, W, H);
+            const bg = ctx.createLinearGradient(0, 0, W, H);
+            bg.addColorStop(0, '#160b30'); bg.addColorStop(0.5, '#120a2a'); bg.addColorStop(1, '#080516');
+            ctx.fillStyle = bg; ctx.fillRect(0, 0, W, H);
+            // 流动极光带：紫 / 蓝 / 粉，缓慢漂移 + 呼吸明暗
+            const auroras = [
+                { bx: 0.22 + 0.10 * Math.sin(t * 0.00021), by: 0.30 + 0.06 * Math.cos(t * 0.00017),
+                  rx: 0.62, ry: 0.42, a: 0.34 + 0.10 * Math.sin(t * 0.0009), c: '34,211,238' },
+                { bx: 0.62 + 0.12 * Math.cos(t * 0.00016), by: 0.36 + 0.08 * Math.sin(t * 0.00022),
+                  rx: 0.66, ry: 0.46, a: 0.36 + 0.11 * Math.sin(t * 0.0007 + 2), c: '168,85,247' },
+                { bx: 0.85 + 0.07 * Math.sin(t * 0.00019 + 1), by: 0.72 + 0.07 * Math.cos(t * 0.00015),
+                  rx: 0.58, ry: 0.44, a: 0.30 + 0.09 * Math.sin(t * 0.0008 + 4), c: '236,72,153' },
+                { bx: 0.30 + 0.09 * Math.cos(t * 0.00014), by: 0.85 + 0.06 * Math.sin(t * 0.0002),
+                  rx: 0.55, ry: 0.40, a: 0.22 + 0.07 * Math.sin(t * 0.0006 + 1), c: '129,140,248' } ];
+            for (const n of auroras) {
+                const cx = n.bx * W, cy = n.by * H, rx = n.rx * W, ry = n.ry * H;
+                const g = ctx.createRadialGradient(cx, cy, 0, cx, cy, Math.max(rx, ry));
+                g.addColorStop(0, `rgba(${n.c},${Math.max(0, n.a)})`);
+                g.addColorStop(0.55, `rgba(${n.c},${Math.max(0, n.a * 0.4)})`);
+                g.addColorStop(1, `rgba(${n.c},0)`);
+                ctx.globalAlpha = 1; ctx.fillStyle = g;
+                ctx.save(); ctx.translate(cx, cy); ctx.scale(1, ry / rx); ctx.translate(-cx, -cy);
+                ctx.beginPath(); ctx.arc(cx, cy, rx, 0, TAU); ctx.fill(); ctx.restore();
+            }
+            ctx.globalAlpha = 1;
+            for (const d of dust) {
+                d.x += d.vx * dt; d.y -= d.vy * dt;
+                if (d.y < -8) { d.y = H + 8; d.x = Math.random() * W; }
+                if (d.x < -8) d.x = W + 8; if (d.x > W + 8) d.x = -8;
+                ctx.globalAlpha = d.a * (0.6 + 0.4 * Math.sin(t * d.tw + d.ph));
+                ctx.fillStyle = '#d9c8f2';
+                ctx.beginPath(); ctx.arc(d.x, d.y, d.r, 0, TAU); ctx.fill();
+            }
+            for (const s of stars) {
+                const a = s.a * (0.55 + 0.45 * Math.sin(t * s.tw + s.ph));
+                if (s.big) {
+                    const g = ctx.createRadialGradient(s.x, s.y, 0, s.x, s.y, s.r * 4);
+                    g.addColorStop(0, hexA(s.c, Math.max(0, a))); g.addColorStop(1, hexA(s.c, 0));
+                    ctx.globalAlpha = 1; ctx.fillStyle = g;
+                    ctx.beginPath(); ctx.arc(s.x, s.y, s.r * 4, 0, TAU); ctx.fill();
+                }
+                ctx.globalAlpha = Math.max(0, a); ctx.fillStyle = s.c;
+                ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, TAU); ctx.fill();
+            }
+            ctx.globalAlpha = 1;
+            acc += dt;
+            if (acc > rand(550, 1200) && meteors.length < 7) { acc = 0; spawnMeteor(); }
+            for (let i = meteors.length - 1; i >= 0; i--) {
+                const m = meteors[i];
+                m.trail.push({ x: m.x, y: m.y });
+                if (m.trail.length > m.maxTrail) m.trail.shift();
+                const sec = dt / 1000;
+                m.x += m.vx * sec; m.y += m.vy * sec; m.life += dt;
+                const off = m.x < -140 || m.x > W + 140 || m.y > H + 140;
+                if (m.life > m.maxLife || off) { if (m.fireball) burst(m); meteors.splice(i, 1); continue; }
+                const pts = m.trail;
+                if (pts.length > 1) {
+                    ctx.lineCap = 'round';
+                    // 外层宽辉光?
+                    for (let k = 1; k < pts.length; k++) {
+                        const f = k / (pts.length - 1);
+                        ctx.globalAlpha = f * 0.35;
+                        ctx.strokeStyle = m.c;
+                        ctx.lineWidth = Math.max(0.5, m.size * f * 2.4);
+                        ctx.beginPath();
+                        ctx.moveTo(pts[k - 1].x, pts[k - 1].y);
+                        ctx.lineTo(pts[k].x, pts[k].y);
+                        ctx.stroke();
+                    }
+                    // 内层亮芯
+                    for (let k = 1; k < pts.length; k++) {
+                        const f = k / (pts.length - 1);
+                        ctx.globalAlpha = f;
+                        ctx.strokeStyle = '#ffffff';
+                        ctx.lineWidth = Math.max(0.3, m.size * f * 0.7);
+                        ctx.beginPath();
+                        ctx.moveTo(pts[k - 1].x, pts[k - 1].y);
+                        ctx.lineTo(pts[k].x, pts[k].y);
+                        ctx.stroke();
+                    }
+                    const hg = ctx.createRadialGradient(m.x, m.y, 0, m.x, m.y, m.size * 5);
+                    hg.addColorStop(0, hexA('#ffffff', 1)); hg.addColorStop(0.25, hexA('#ffffff', 0.8));
+                    hg.addColorStop(0.55, hexA(m.c, 0.55)); hg.addColorStop(1, hexA(m.c, 0));
+                    ctx.globalAlpha = 1; ctx.fillStyle = hg;
+                    ctx.beginPath(); ctx.arc(m.x, m.y, m.size * 5, 0, TAU); ctx.fill();
+                }
+            }
+            for (let i = sparks.length - 1; i >= 0; i--) {
+                const s = sparks[i];
+                const sec = dt / 1000;
+                s.x += s.vx * sec; s.y += s.vy * sec; s.life += dt;
+                s.vy += 120 * sec;
+                if (s.life > s.maxLife) { sparks.splice(i, 1); continue; }
+                ctx.globalAlpha = (1 - s.life / s.maxLife) * 0.95;
+                ctx.fillStyle = s.c;
+                ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, TAU); ctx.fill();
+            }
+            ctx.globalAlpha = 1;
+        };
+        resizeSky();
+        for (let i = 0; i < 4; i++) {
+            const m = spawnMeteor();
+            m.life = rand(0, m.maxLife * 0.5);
+            m.x = rand(-40, W + 40); m.y = rand(-40, H * 0.7);
+            // 预填拖尾，让首帧就有完整光轨
+            for (let k = m.maxTrail; k > 0; k--) {
+                m.trail.push({ x: m.x - m.vx * k * 0.016, y: m.y - m.vy * k * 0.016 });
+            }
+        }
+        raf = page.requestAnimationFrame(frame);
+        try { new ResizeObserver(resizeSky).observe(panel); } catch (_) { page.addEventListener('resize', resizeSky); }
+        /* ---------- 拖动 ---------- */
+        const applyPos = (left, top) => {
+            const maxL = Math.max(8, page.innerWidth - panel.offsetWidth - 8);
+            const maxT = Math.max(8, page.innerHeight - panel.offsetHeight - 8);
+            const L = clampNum(left, 8, maxL), T = clampNum(top, 8, maxT);
+            panel.style.left = L + 'px'; panel.style.top = T + 'px';
+            panel.style.right = 'auto'; panel.style.bottom = 'auto';
+            return { left: L, top: T };
+        };
+        if (settings.pos) applyPos(settings.pos.left, settings.pos.top);
+        let dragging = false, dx = 0, dy = 0;
+        head.addEventListener('pointerdown', (e) => {
+            dragging = true;
+            const rect = panel.getBoundingClientRect();
+            dx = e.clientX - rect.left; dy = e.clientY - rect.top;
+            try { head.setPointerCapture(e.pointerId); } catch (_) {}
+        });
+        head.addEventListener('pointermove', (e) => {
+            if (!dragging) return;
+            applyPos(e.clientX - dx, e.clientY - dy);
+        });
+        const endDrag = (e) => {
+            if (!dragging) return;
+            dragging = false;
+            const rect = panel.getBoundingClientRect();
+            settings.pos = { left: rect.left, top: rect.top };
+            save();
+            try { head.releasePointerCapture(e.pointerId); } catch (_) {}
+        };
+        head.addEventListener('pointerup', endDrag);
+        head.addEventListener('pointercancel', endDrag);
+
+        /* ---------- 热键：INS / -_ 显示·隐藏 ---------- */
+        const toggleHidden = () => {
+            settings.hidden = !settings.hidden;
+            save();
+            applyVisibility();
+            if (!settings.hidden) { resizeSky(); last = performance.now(); }
+        };
+        page.addEventListener('keydown', (e) => {
+            if (splashActive) return; // 加载界面期间热键屏蔽
+            if (!nameAuthPassed) return; // 名称授权未通过：主悬浮窗热键一律屏蔽
+            // Shadow DOM 内部输入框的事件会被重定向到宿主，需用 composedPath 取真实目标
+            const realTarget = (typeof e.composedPath === 'function' && e.composedPath()[0]) || e.target;
+            const tag = (realTarget && realTarget.tagName || '').toUpperCase();
+            const inEditable = tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT'
+                || (realTarget && realTarget.isContentEditable);
+            if (inEditable) return;
+            if (e.code === 'Insert' || e.code === 'Minus') {
+                e.preventDefault();
+                toggleHidden();
+                return;
+            }
+            // 三开切换热键（聊天框聚焦或与窗口热键撞键时忽略）
+            const hk = settings.threeHotkey;
+            if (hk && !isChatFocused() && e.code !== 'Insert' && e.code !== 'Minus'
+                && (e.key === hk || e.key.toLowerCase() === String(hk).toLowerCase())) {
+                e.preventDefault();
+                toggleThree();
+                return;
+            }
+            // 地雷切换热键（同样在聊天框聚焦或输入框聚焦时忽略）
+            const mhk = settings.mineHotkey;
+            if (mhk && !isChatFocused()
+                && (e.key === mhk || e.key.toLowerCase() === String(mhk).toLowerCase())) {
+                e.preventDefault();
+                toggleMine();
+            }
+        });
+    };
+
+    /* ---------- 全屏加载界面（流星 + 进度条，2s 淡入 / 2.7s 走完 / 0.4s 淡出） ---------- */
+    // 加载期间：强制隐藏主功能悬浮窗并屏蔽热键，结束后解除
+    let splashActive = true;
+    // 名称授权门：未通过前主悬浮窗不可呼出、透视功能不启用。
+    let nameAuthPassed = false;
+    // 说明：.panel 在 Shadow DOM 内，.ct-panel-boot 隐藏规则写在影子树自己的 <style>（见 mount()），
+    // 注入主文档的样式穿不透影子边界，故不使用独立 bootStyle。
+
+    const showSplash = () => {
+        const win = window, doc = document;
+        const root = doc.createElement('div');
+        root.className = 'ct-splash-root';
+        root.innerHTML = `
+            <style>
+                .ct-splash-root{position:fixed;inset:0;z-index:2147483001;
+                    font-family:'Segoe UI','Microsoft YaHei UI','Microsoft YaHei',sans-serif;
+                    color:#eaf2ff;user-select:none;opacity:0;transition:opacity 2s ease;}
+                .ct-splash-root.show{opacity:1;}
+                .ct-splash-root.hide{opacity:0;pointer-events:none;transition:opacity .4s ease;}
+                .ct-splash-root canvas{position:absolute;inset:0;width:100%;height:100%;display:block;z-index:1;}
+                .ct-splash-shade{position:absolute;inset:0;z-index:0;background:rgba(8,5,20,.62);}
+                .ct-splash-inner{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;
+                    align-items:center;justify-content:center;gap:14px;}
+                .ct-splash-title{font-size:min(76px,11vw);font-weight:700;letter-spacing:8px;color:#fff;
+                    text-shadow:0 0 22px rgba(168,85,247,.95),0 0 52px rgba(34,211,238,.55);margin-bottom:6px;}
+                .ct-splash-avatar{width:min(200px,28vw);height:min(200px,28vw);border-radius:50%;overflow:hidden;
+                    border:4px solid rgba(255,255,255,.55);background:rgba(168,85,247,.18);
+                    box-shadow:0 0 56px rgba(168,85,247,.75),0 0 0 14px rgba(34,211,238,.10);
+                    display:flex;align-items:center;justify-content:center;}
+                .ct-splash-slogan{margin-top:10px;font-size:min(48px,7vw);font-weight:700;letter-spacing:10px;color:#fff;
+                    text-shadow:0 0 18px rgba(168,85,247,.9),0 0 42px rgba(34,211,238,.5);}
+                .ct-splash-author{margin-top:12px;font-size:min(28px,4vw);color:#d9d2f5;}
+                .ct-splash-qq{font-size:min(24px,3.6vw);color:#a99fd6;}
+                .ct-splash-qq b{color:#eaf2ff;font-weight:700;}
+                .ct-splash-progress{width:min(600px,70vw);height:14px;border-radius:7px;margin-top:24px;
+                    background:rgba(255,255,255,.14);overflow:hidden;border:1px solid rgba(168,85,247,.35);}
+                .ct-splash-bar{height:100%;width:0%;border-radius:7px;
+                    background:linear-gradient(90deg,#22d3ee,#a855f7,#ec4899);
+                    box-shadow:0 0 20px rgba(168,85,247,.9);}
+                .ct-splash-pct{margin-top:14px;font-size:min(24px,3.4vw);color:#b8b0e0;
+                    font-variant-numeric:tabular-nums;letter-spacing:2px;}
+            </style>
+            <div class="ct-splash-shade"></div>
+            <canvas class="ct-splash-bg"></canvas>
+            <div class="ct-splash-inner">
+                <div class="ct-splash-title">Comet Terminal</div>
+                <div class="ct-splash-avatar"><svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:100%;display:block" aria-hidden="true">
+                    <defs>
+                        <radialGradient id="ct-avBg" cx="0.35" cy="0.3" r="0.95">
+                            <stop offset="0" stop-color="#0b1a42"/><stop offset="0.55" stop-color="#070d26"/><stop offset="1" stop-color="#030510"/>
+                        </radialGradient>
+                        <radialGradient id="ct-avNebA" cx="0.5" cy="0.5" r="0.5">
+                            <stop offset="0" stop-color="#2a7bd0" stop-opacity=".5"/><stop offset="1" stop-color="#2a7bd0" stop-opacity="0"/>
+                        </radialGradient>
+                        <radialGradient id="ct-avNebB" cx="0.5" cy="0.5" r="0.5">
+                            <stop offset="0" stop-color="#7a4fd0" stop-opacity=".4"/><stop offset="1" stop-color="#7a4fd0" stop-opacity="0"/>
+                        </radialGradient>
+                        <linearGradient id="ct-avIon" gradientUnits="userSpaceOnUse" x1="64" y1="36" x2="6" y2="88">
+                            <stop offset="0" stop-color="#f2fbff" stop-opacity=".95"/><stop offset="0.35" stop-color="#9fd2ff" stop-opacity=".7"/><stop offset="1" stop-color="#9fd2ff" stop-opacity="0"/>
+                        </linearGradient>
+                        <linearGradient id="ct-avDust" gradientUnits="userSpaceOnUse" x1="62" y1="38" x2="14" y2="90">
+                            <stop offset="0" stop-color="#f4f7ff" stop-opacity=".8"/><stop offset="0.5" stop-color="#c8d9f5" stop-opacity=".4"/><stop offset="1" stop-color="#e8dcb8" stop-opacity="0"/>
+                        </linearGradient>
+                        <radialGradient id="ct-avComa" cx="0.5" cy="0.5" r="0.5">
+                            <stop offset="0" stop-color="#ffffff"/><stop offset="0.3" stop-color="#cfeaff" stop-opacity=".85"/>
+                            <stop offset="0.7" stop-color="#7db8ff" stop-opacity=".4"/><stop offset="1" stop-color="#7db8ff" stop-opacity="0"/>
+                        </radialGradient>
+                        <linearGradient id="ct-avCrossX" gradientUnits="userSpaceOnUse" x1="42" y1="36" x2="86" y2="36">
+                            <stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity=".8"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+                        </linearGradient>
+                        <linearGradient id="ct-avCrossY" gradientUnits="userSpaceOnUse" x1="64" y1="18" x2="64" y2="54">
+                            <stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity=".8"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+                        </linearGradient>
+                        <filter id="ct-avBlur" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.8"/></filter>
+                    </defs>
+                    <rect width="96" height="96" fill="url(#ct-avBg)"/>
+                    <ellipse cx="26" cy="22" rx="32" ry="20" fill="url(#ct-avNebA)" opacity=".8"/>
+                    <ellipse cx="74" cy="72" rx="34" ry="22" fill="url(#ct-avNebB)" opacity=".75"/>
+                    <path d="M64 36 L6 88" stroke="url(#ct-avIon)" stroke-width="3.4" stroke-linecap="round" filter="url(#ct-avBlur)"/>
+                    <path d="M62 38 C44 56, 28 72, 12 88" stroke="url(#ct-avDust)" stroke-width="7" stroke-linecap="round" fill="none" filter="url(#ct-avBlur)" opacity=".85"/>
+                    <path d="M60 40 C46 56, 36 70, 22 86" stroke="url(#ct-avDust)" stroke-width="3.4" stroke-linecap="round" fill="none" filter="url(#ct-avBlur)" opacity=".6"/>
+                    <circle cx="64" cy="36" r="17" fill="url(#ct-avComa)" filter="url(#ct-avBlur)"/>
+                    <path d="M42 36 L86 36" stroke="url(#ct-avCrossX)" stroke-width="0.8"/>
+                    <path d="M64 18 L64 54" stroke="url(#ct-avCrossY)" stroke-width="0.8"/>
+                    <circle cx="64" cy="36" r="4.4" fill="#ffffff"/>
+                    <circle cx="64" cy="36" r="1.9" fill="#eaf6ff"/>
+                    <g fill="#ffffff">
+                        <circle cx="18" cy="34" r="1.2" opacity=".8"/><circle cx="30" cy="12" r="1" opacity=".65"/>
+                        <circle cx="46" cy="20" r="0.9" opacity=".7"/><circle cx="82" cy="24" r="1.1" opacity=".75"/>
+                        <circle cx="88" cy="52" r="1" opacity=".6"/><circle cx="76" cy="80" r="1.2" opacity=".7"/>
+                        <circle cx="40" cy="82" r="0.9" opacity=".55"/><circle cx="12" cy="66" r="1" opacity=".6"/>
+                    </g>
+                    <circle cx="18" cy="34" r="3.2" fill="#ffffff" opacity=".18"/>
+                    <circle cx="82" cy="24" r="3" fill="#cfe2ff" opacity=".16"/>
+                </svg></div>
+                <div class="ct-splash-slogan">彗翼乘风 星赴此约</div>
+                <div class="ct-splash-author">作者：T_T</div>
+                <div class="ct-splash-qq">QQ：<b>669481357</b></div>
+                <div class="ct-splash-progress"><div class="ct-splash-bar"></div></div>
+                <div class="ct-splash-pct">0%</div>
+            </div>`;
+        doc.documentElement.appendChild(root);
+
+        /* ----- 全屏流星（与面板同款小而慢，密度略高） ----- */
+        const cv = root.querySelector('.ct-splash-bg');
+        const ctx = cv.getContext('2d');
+        const TAU = Math.PI * 2;
+        const COLORS = ['#67e8f9', '#c084fc', '#f0abfc', '#a5f3fc', '#f5d0fe'];
+        const rnd = (a, b) => a + Math.random() * (b - a);
+        let SW = win.innerWidth, SH = win.innerHeight;
+        let stars = [], mets = [], sparks = [], SR = 0, sAcc = 0, sLast = performance.now(), done = false;
+        const resize = () => {
+            const sdpr = Math.min(win.devicePixelRatio || 1, 2);
+            SW = win.innerWidth; SH = win.innerHeight;
+            cv.width = Math.round(SW * sdpr); cv.height = Math.round(SH * sdpr);
+            ctx.setTransform(sdpr, 0, 0, sdpr, 0, 0);
+            stars = [];
+            const n = Math.round(Math.min(220, SW * SH / 9000));
+            for (let i = 0; i < n; i++) {
+                const big = Math.random() < 0.06;
+                stars.push({ x: Math.random() * SW, y: Math.random() * SH,
+                    r: big ? rnd(1.6, 2.6) : rnd(0.4, 1.3),
+                    a: rnd(0.3, 0.95), tw: rnd(0.0008, 0.004), ph: rnd(0, TAU), big });
+            }
+        };
+        const spawn = () => {
+            const left = Math.random() < 0.5;
+            const ang = (16 + Math.random() * 18) * Math.PI / 180;
+            const sp = rnd(260, 460);
+            const fb = Math.random() < 0.2;
+            mets.push({ x: left ? rnd(-60, SW * 0.4) : rnd(SW * 0.6, SW + 60),
+                y: rnd(-40, SH * 0.55),
+                vx: Math.cos(ang) * sp * (left ? 1 : -1), vy: Math.sin(ang) * sp,
+                life: 0, maxLife: rnd(2000, 3400),
+                size: fb ? rnd(2.2, 3.0) : rnd(1.3, 2.1),
+                fb, trail: [], maxTrail: fb ? 54 : 32,
+                c: COLORS[(Math.random() * COLORS.length) | 0] });
+        };
+        const burst = (m) => {
+            for (let i = 0; i < 18; i++) {
+                const a = Math.random() * TAU, sp = rnd(60, 240);
+                sparks.push({ x: m.x, y: m.y, vx: Math.cos(a) * sp, vy: Math.sin(a) * sp,
+                    life: 0, maxLife: rnd(350, 750), r: rnd(0.8, 2.0), c: m.c });
+            }
+        };
+        const sframe = (now) => {
+            if (done) return;
+            SR = win.requestAnimationFrame(sframe);
+            const dt = Math.min(50, now - sLast); sLast = now;
+            const sec = dt / 1000;
+            ctx.clearRect(0, 0, SW, SH);
+            for (const s of stars) {
+                const a = s.a * (0.55 + 0.45 * Math.sin(now * s.tw + s.ph));
+                if (s.big) {
+                    const g = ctx.createRadialGradient(s.x, s.y, 0, s.x, s.y, s.r * 4);
+                    g.addColorStop(0, `rgba(255,255,255,${Math.max(0, a)})`);
+                    g.addColorStop(1, 'rgba(255,255,255,0)');
+                    ctx.globalAlpha = 1; ctx.fillStyle = g;
+                    ctx.beginPath(); ctx.arc(s.x, s.y, s.r * 4, 0, TAU); ctx.fill();
+                }
+                ctx.globalAlpha = Math.max(0, a); ctx.fillStyle = '#e9e6ff';
+                ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, TAU); ctx.fill();
+            }
+            ctx.globalAlpha = 1;
+            sAcc += dt;
+            if (sAcc > rnd(300, 700) && mets.length < 9) { sAcc = 0; spawn(); }
+            for (let i = mets.length - 1; i >= 0; i--) {
+                const m = mets[i];
+                m.trail.push({ x: m.x, y: m.y });
+                if (m.trail.length > m.maxTrail) m.trail.shift();
+                m.x += m.vx * sec; m.y += m.vy * sec; m.life += dt;
+                if (m.life > m.maxLife || m.x < -140 || m.x > SW + 140 || m.y > SH + 140) {
+                    if (m.fb) burst(m); mets.splice(i, 1); continue;
+                }
+                const pts = m.trail;
+                if (pts.length > 1) {
+                    ctx.lineCap = 'round';
+                    for (let k = 1; k < pts.length; k++) {
+                        const f = k / (pts.length - 1);
+                        ctx.globalAlpha = f * 0.32; ctx.strokeStyle = m.c;
+                        ctx.lineWidth = Math.max(0.5, m.size * f * 2.4);
+                        ctx.beginPath(); ctx.moveTo(pts[k - 1].x, pts[k - 1].y);
+                        ctx.lineTo(pts[k].x, pts[k].y); ctx.stroke();
+                    }
+                    for (let k = 1; k < pts.length; k++) {
+                        const f = k / (pts.length - 1);
+                        ctx.globalAlpha = f; ctx.strokeStyle = '#ffffff';
+                        ctx.lineWidth = Math.max(0.3, m.size * f * 0.7);
+                        ctx.beginPath(); ctx.moveTo(pts[k - 1].x, pts[k - 1].y);
+                        ctx.lineTo(pts[k].x, pts[k].y); ctx.stroke();
+                    }
+                    const hg = ctx.createRadialGradient(m.x, m.y, 0, m.x, m.y, m.size * 5);
+                    hg.addColorStop(0, 'rgba(255,255,255,1)'); hg.addColorStop(0.25, 'rgba(255,255,255,.8)');
+                    hg.addColorStop(0.55, 'rgba(192,132,252,.5)'); hg.addColorStop(1, 'rgba(192,132,252,0)');
+                    ctx.globalAlpha = 1; ctx.fillStyle = hg;
+                    ctx.beginPath(); ctx.arc(m.x, m.y, m.size * 5, 0, TAU); ctx.fill();
+                }
+            }
+            for (let i = sparks.length - 1; i >= 0; i--) {
+                const s = sparks[i];
+                s.x += s.vx * sec; s.y += s.vy * sec; s.life += dt; s.vy += 120 * sec;
+                if (s.life > s.maxLife) { sparks.splice(i, 1); continue; }
+                ctx.globalAlpha = (1 - s.life / s.maxLife) * 0.95; ctx.fillStyle = s.c;
+                ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, TAU); ctx.fill();
+            }
+            ctx.globalAlpha = 1;
+        };
+        const onResize = () => resize();
+        win.addEventListener('resize', onResize);
+        resize();
+        for (let i = 0; i < 6; i++) {
+            spawn();
+            const m = mets[mets.length - 1];
+            m.life = rnd(0, m.maxLife * 0.4);
+            m.x = rnd(0, SW); m.y = rnd(0, SH * 0.7);
+        }
+        SR = win.requestAnimationFrame(sframe);
+
+        /* ----- 进度条：2s 淡入期间同步走，2.7s 走完，0.4s 淡出；Esc 可跳过 ----- */
+        const bar = root.querySelector('.ct-splash-bar');
+        const pct = root.querySelector('.ct-splash-pct');
+        const DUR = 2700, t0 = performance.now();
+        const cleanup = () => {
+            if (done) return;
+            done = true;
+            win.cancelAnimationFrame(SR);
+            win.removeEventListener('resize', onResize);
+            win.removeEventListener('keydown', onKey);
+            root.classList.remove('show');
+            root.classList.add('hide');
+            setTimeout(() => { root.remove(); splashActive = false; window.dispatchEvent(new CustomEvent('ct-splash-done')); }, 450);
+        };
+        const onKey = (e) => { if (e.code === 'Escape') cleanup(); };
+        win.addEventListener('keydown', onKey);
+        root.classList.add('show'); // 2s 淡入
+        const step = (now) => {
+            const p = Math.min(1, (now - t0) / DUR);
+            bar.style.width = (p * 100).toFixed(1) + '%';
+            pct.textContent = Math.round(p * 100) + '%';
+            if (p < 1 && !done) win.requestAnimationFrame(step);
+            else if (!done) cleanup();
+        };
+        win.requestAnimationFrame(step);
+    };
+
+    /* ---------- 名称授权门：加载界面结束后判定并弹出的独立悬浮窗 ----------
+     * 加载结束后后台轮询大厅顶栏的本机玩家名称（不弹窗）：
+     *  - 命中白名单：解锁功能与主悬浮窗，弹欢迎窗
+     *    「携漫天陨星而来，赴一场星下之约，欢迎使用彗星终端！」
+     *  - 未命中：功能保持锁定、热键屏蔽，弹拒绝窗
+     *    「很遗憾，您不是白名单玩家，无法正常使用彗星终端。」
+     * 两种窗右上角均有关闭按钮；拒绝窗即使关闭，功能依旧锁定。 */
+    const showAuthGate = () => {
+        const win = window;
+        if (AUTHORIZED_SET.size === 0) {
+            console.warn('[CometTerminal] 名称白名单为空：请先在脚本 AUTHORIZED_NAMES 中填入授权名称。');
+        }
+        const GATE_ID = 'standalone-tank-name-auth-gate';
+        if (doc.getElementById(GATE_ID)) return;
+
+        const host = doc.createElement('div');
+        host.id = GATE_ID;
+        host.setAttribute('style', 'all:initial;position:fixed;inset:0;z-index:2147483646;display:none;pointer-events:none;');
+        doc.documentElement.appendChild(host);
+        const shadow = host.attachShadow({ mode: 'open' });
+        shadow.innerHTML = `
+            <style>
+                .gw { position:fixed; inset:0; display:grid; place-items:center; pointer-events:none; }
+                .card { pointer-events:auto; position:relative; width:400px; box-sizing:border-box; padding:26px 26px 22px;
+                    border-radius:18px; border:1px solid rgba(168,85,247,.55);
+                    background:linear-gradient(165deg,rgba(20,12,42,.97),rgba(10,7,22,.98)); color:#f3efff;
+                    box-shadow:0 0 0 1px rgba(34,211,238,.18),0 24px 70px rgba(70,15,150,.6),0 0 46px rgba(168,85,247,.32);
+                    font-family:"Microsoft YaHei UI","Segoe UI",sans-serif; text-align:center;
+                    transition:opacity .3s ease,transform .3s ease; }
+                .card.hide { opacity:0; transform:scale(.95) translateY(-8px); }
+                .x { position:absolute; right:10px; top:8px; width:26px; height:26px; border:0; cursor:pointer;
+                    border-radius:8px; background:rgba(255,255,255,.08); color:rgba(255,255,255,.85);
+                    font-size:15px; line-height:26px; text-align:center; padding:0; }
+                .x:hover { background:rgba(255,90,90,.35); color:#fff; }
+                .logo { font-size:33px; font-weight:900; letter-spacing:1px; color:#fff; text-shadow:0 0 16px rgba(255,255,255,.45); }
+                .logo .sp { color:#ffe9a8; text-shadow:0 0 16px rgba(255,214,120,.95); }
+                .sub { margin-top:4px; font-size:18px; font-weight:800; color:rgba(216,180,254,.95); letter-spacing:3px; }
+                .msg { margin:18px 0 6px; font-size:18px; font-weight:800; line-height:1.9; }
+                .msg.ok { color:#8ef0a8; text-shadow:0 0 14px rgba(74,222,128,.4); }
+                .msg.no { color:#ff8a8a; text-shadow:0 0 14px rgba(255,90,90,.35); }
+                .pname { margin:10px auto 2px; font-size:14px; color:rgba(205,196,240,.8); }
+                .pname b { color:#fff; font-size:16px; }
+                .foot { margin-top:14px; font-size:12px; color:rgba(180,170,220,.65); line-height:1.6; }
+            </style>
+            <div class="gw"><div class="card">
+                <button class="x" type="button" title="关闭">✕</button>
+                <div class="logo">Comet<span class="sp">✦</span>Terminal</div>
+                <div class="sub">彗星终端</div>
+                <div class="msg"></div>
+                <div class="pname">当前玩家：<b class="val">—</b></div>
+                <div class="foot"></div>
+            </div></div>`;
+
+        const card = shadow.querySelector('.card');
+        const msgEl = shadow.querySelector('.msg');
+        const valEl = shadow.querySelector('.val');
+        const footEl = shadow.querySelector('.foot');
+        const closeBtn = shadow.querySelector('.x');
+
+        let shown = false;
+        let finished = false;
+        // 关闭按钮：欢迎窗关闭后照常使用；拒绝窗关闭后功能仍保持锁定。
+        const closeCard = () => {
+            if (!shown) return;
+            card.classList.add('hide');
+            win.setTimeout(() => host.remove(), 320);
+        };
+        closeBtn.addEventListener('click', closeCard);
+
+        const reveal = (mode, name) => {
+            if (shown) return;
+            shown = true;
+            valEl.textContent = name || '—';
+if (mode === 'ok') {
+    msgEl.className = 'msg ok';
+    msgEl.innerHTML = '携漫天陨星而来，赴一场星下之约<br>欢迎使用彗星终端！';
+    footEl.textContent = 'Insert / - 呼出窗口　·　' + (settings.threeHotkey || '9') + ' 键快速开关道具三开';
+} else {
+    msgEl.className = 'msg no';
+    msgEl.innerHTML = '漫野陨芒皆散尽，星河旧约不能寻<br>未能启用彗星终端！';
+    footEl.textContent = '透视功能已保持锁定，主悬浮窗无法呼出';
+}
+            host.style.display = 'block';
+        };
+
+        const unlockPanel = () => {
+            const mainHost = doc.getElementById(HOST_ID);
+            const mainPanel = mainHost && mainHost.shadowRoot
+                && mainHost.shadowRoot.querySelector('.panel');
+            if (mainPanel) {
+                mainPanel.classList.remove('ct-panel-boot', 'ct-auth-locked');
+                // 验证通过即展示主悬浮窗（之后用户可用 Insert / - 自行隐藏/呼出）
+                if (settings.hidden) {
+                    settings.hidden = false;
+                    save();
+                    mainPanel.classList.remove('hidden');
+                }
+            }
+        };
+        const unlockFeatures = () => {
+            applyColors();
+            runtime.setEnabled(settings.outline, { reason: 'standalone-name-auth-pass-outline' });
+            runtime.setAllyOutlineEnabled(settings.allyOutline, { reason: 'standalone-name-auth-pass-ally' });
+            runtime.setIdEnabled(settings.ids, { reason: 'standalone-name-auth-pass-ids' });
+            // 三开为 Worker 内联门控（检查 nameAuthPassed），授权通过即按本地设置自动恢复
+            renderThreeUI();
+            // 自动地雷为页面定时器：授权通过后按本地设置恢复
+            if (settings.mineEnabled) startMineLoop();
+            renderMineUI();
+        };
+        // 白名单玩家：解锁功能并弹欢迎窗
+        const grant = (name) => {
+            if (finished) return;
+            finished = true;
+            nameAuthPassed = true;
+            unlockPanel();
+            unlockFeatures();
+            reveal('ok', name);
+            try { win.clearInterval(timer); } catch (_) {}
+            // 欢迎窗 8 秒后自动淡出，也可点右上角关闭
+            win.setTimeout(closeCard, 8000);
+        };
+        // 非白名单玩家：功能保持锁定，弹拒绝窗（不自动消失，只能手动关闭）
+        const deny = (name) => {
+            if (finished) return;
+            finished = true;
+            // 三开同样强制关闭并持久化，杜绝本地曾开启时的残留状态
+            settings.threeEnabled = false;
+            save();
+            renderThreeUI();
+            // 自动地雷一并强制关闭
+            settings.mineEnabled = false;
+            stopMineLoop();
+            save();
+            renderMineUI();
+            stopJoinRoom();
+            reveal('no', name);
+            try { win.clearInterval(timer); } catch (_) {}
+        };
+        let started = false;
+        let timer = 0;
+        const tick = () => {
+            if (finished) return;
+            const got = readLobbyPlayerName();
+            if (!got.name) return; // 还没进入大厅/读不到名称：静默等待，不弹窗
+            if (isNameAuthorized(got.name)) grant(got.name);
+            else deny(got.name);
+        };
+        const start = () => {
+            if (started) return;
+            started = true;
+            tick();
+            if (!finished) timer = win.setInterval(tick, 800);
+        };
+        // 加载界面结束后才开始判定
+        if (!splashActive) start();
+        else win.addEventListener('ct-splash-done', start, { once: true });
+    };
+
+    showSplash();
+    mount();
+    showAuthGate();
+})();
